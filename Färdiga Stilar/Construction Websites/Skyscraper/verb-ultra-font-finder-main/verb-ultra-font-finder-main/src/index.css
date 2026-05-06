@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 10%;
+    --foreground: 0 0% 95%;
+
+    --card: 220 18% 13%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 220 18% 13%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 195 85% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 220 15% 18%;
+    --secondary-foreground: 0 0% 90%;
+
+    --muted: 220 15% 20%;
+    --muted-foreground: 220 10% 55%;
+
+    --accent: 195 85% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 20%;
+    --input: 220 15% 20%;
+    --ring: 195 85% 45%;
+
+    --radius: 0.25rem;
+
+    --font-heading: 'Syne', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    --hero-overlay: linear-gradient(
+      to bottom,
+      hsla(220, 20%, 5%, 0.3) 0%,
+      hsla(220, 20%, 5%, 0.5) 50%,
+      hsla(220, 20%, 5%, 0.85) 100%
+    );
+
+    --section-dark: 220 20% 8%;
+    --section-darker: 220 22% 6%;
+    --highlight-border: 195 85% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+@layer utilities {
+  .heading-display {
+    font-family: var(--font-heading);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+    line-height: 0.95;
+  }
+
+  .heading-section {
+    font-family: var(--font-heading);
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+  }
+
+  .label-uppercase {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+  }
+
+  .hero-overlay {
+    background: var(--hero-overlay);
+  }
+
+  .section-dark {
+    background-color: hsl(var(--section-dark));
+  }
+
+  .section-darker {
+    background-color: hsl(var(--section-darker));
+  }
+
+  .highlight-left {
+    border-left: 3px solid hsl(var(--highlight-border));
+  }
+}

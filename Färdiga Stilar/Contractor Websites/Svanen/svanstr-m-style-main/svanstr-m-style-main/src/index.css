@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+
+    --primary: 45 100% 50%;
+    --primary-foreground: 240 100% 20%;
+
+    --secondary: 240 100% 20%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 20% 95%;
+    --muted-foreground: 0 0% 40%;
+
+    --accent: 220 20% 95%;
+    --accent-foreground: 0 0% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 13% 87%;
+    --input: 220 13% 87%;
+    --ring: 240 100% 20%;
+
+    --radius: 0.5rem;
+
+    /* Svanströms brand tokens */
+    --svan-blue: 240 100% 20%;
+    --svan-yellow: 45 100% 50%;
+    --svan-light-blue: 210 40% 95%;
+    --svan-dark-blue: 240 100% 15%;
+    --svan-text: 0 0% 100%;
+    --svan-body-text: 0 0% 20%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .svan-section {
+    @apply w-full;
+  }
+
+  .svan-container {
+    @apply max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .svan-bg-blue {
+    background-color: hsl(var(--svan-blue));
+  }
+
+  .svan-bg-light {
+    background-color: hsl(var(--svan-light-blue));
+  }
+
+  .svan-bg-dark {
+    background-color: hsl(var(--svan-dark-blue));
+  }
+
+  .svan-text-white {
+    color: hsl(var(--svan-text));
+  }
+
+  .svan-text-body {
+    color: hsl(var(--svan-body-text));
+  }
+
+  .svan-btn-yellow {
+    background-color: hsl(var(--svan-yellow));
+    color: hsl(var(--svan-blue));
+    @apply font-bold px-6 py-3 rounded-md inline-flex items-center gap-2 text-sm transition-all hover:brightness-110;
+  }
+
+  .svan-btn-outline {
+    border: 2px solid hsl(var(--svan-blue));
+    color: hsl(var(--svan-blue));
+    @apply font-semibold px-6 py-3 rounded-md inline-flex items-center gap-2 text-sm transition-all;
+  }
+
+  .svan-btn-outline:hover {
+    background-color: hsl(var(--svan-blue));
+    color: hsl(var(--svan-text));
+  }
+
+  .svan-btn-outline-white {
+    border: 2px solid hsl(var(--svan-text));
+    color: hsl(var(--svan-text));
+    @apply font-semibold px-6 py-3 rounded-md inline-flex items-center gap-2 text-sm transition-all;
+  }
+
+  .svan-btn-outline-white:hover {
+    background-color: hsl(var(--svan-text));
+    color: hsl(var(--svan-blue));
+  }
+}

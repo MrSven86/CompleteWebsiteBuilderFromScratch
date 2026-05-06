@@ -1,0 +1,134 @@
+@import url('@fontsource/playfair-display/400.css');
+@import url('@fontsource/outfit/300.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Futura PT Web';
+  src: url('/src/assets/fonts/Futura_PT_Web_Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Web';
+  src: url('/src/assets/fonts/Futura_PT_Web_Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Futura PT Web';
+  src: url('/src/assets/fonts/Futura_PT_Web_Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 6% 25%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 6% 25%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 6% 25%;
+
+    --primary: 240 6% 25%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 30 11% 96%;
+    --secondary-foreground: 240 6% 25%;
+
+    --muted: 30 11% 96%;
+    --muted-foreground: 24 5% 45%;
+
+    --accent: 30 11% 96%;
+    --accent-foreground: 240 6% 25%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 30 11% 93%;
+    --input: 30 11% 93%;
+    --ring: 240 6% 25%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 240 6% 6%;
+    --foreground: 0 0% 96%;
+
+    --card: 240 6% 6%;
+    --card-foreground: 0 0% 96%;
+
+    --popover: 240 6% 6%;
+    --popover-foreground: 0 0% 96%;
+
+    --primary: 0 0% 96%;
+    --primary-foreground: 240 6% 6%;
+
+    --secondary: 240 4% 16%;
+    --secondary-foreground: 0 0% 96%;
+
+    --muted: 240 4% 16%;
+    --muted-foreground: 24 5% 64%;
+
+    --accent: 240 4% 16%;
+    --accent-foreground: 0 0% 96%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 96%;
+
+    --border: 240 4% 16%;
+    --input: 240 4% 16%;
+    --ring: 0 0% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Futura PT Web', sans-serif;
+  }
+}
+
+/* Scroll animations */
+.scroll-fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+
+.scroll-fade-in.scroll-visible {
+  opacity: 1;
+  transform: translateY(0);
+}

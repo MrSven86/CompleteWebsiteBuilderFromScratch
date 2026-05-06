@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 11%;
+
+    --primary: 200 50% 43%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 200 50% 33%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 10% 96%;
+    --muted-foreground: 0 0% 40%;
+
+    --accent: 197 100% 42%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 30 10% 80%;
+    --input: 30 10% 80%;
+    --ring: 200 50% 43%;
+
+    --radius: 0.375rem;
+
+    /* Custom brand colors */
+    --brand-dark: 0 0% 0%;
+    --brand-blue-start: 200 48% 48%;
+    --brand-blue-end: 200 56% 34%;
+    --brand-cyan: 197 100% 42%;
+    --brand-neutral: 0 0% 33%;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 0 0% 5%;
+    --foreground: 0 0% 95%;
+    --card: 0 0% 5%;
+    --card-foreground: 0 0% 95%;
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 200 50% 43%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 200 50% 33%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+    --accent: 197 100% 42%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 200 50% 43%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-body;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .btn-brand {
+    @apply inline-flex items-center justify-center rounded text-primary-foreground font-heading text-2xl tracking-wide
+      outline outline-2 outline-offset-[-2px] outline-accent h-14 px-8 transition-all duration-300 hover:brightness-110;
+    background: radial-gradient(ellipse 51.26% 227.14% at 50% 50%, hsl(var(--brand-blue-start)), hsl(var(--brand-blue-end)));
+  }
+  .btn-brand-outline {
+    @apply inline-flex items-center justify-center rounded font-heading text-2xl tracking-wide
+      outline outline-2 outline-offset-[-2px] outline-accent h-14 px-8 transition-all duration-300 hover:bg-accent/10;
+    color: hsl(var(--primary-foreground));
+  }
+  .btn-brand-full {
+    @apply inline-flex items-center justify-center rounded text-primary-foreground font-heading text-2xl tracking-wide
+      outline outline-2 outline-offset-[-2px] outline-accent h-14 w-full transition-all duration-300 hover:brightness-110;
+    background: radial-gradient(ellipse 50.16% 630.54% at 50% 50%, hsl(var(--brand-blue-start)), hsl(var(--brand-blue-end)));
+  }
+  .service-badge {
+    @apply inline-flex items-center justify-center bg-accent text-accent-foreground rounded-full px-5 py-1 text-xs font-bold font-body uppercase tracking-[2.4px];
+  }
+  .section-heading {
+    @apply font-heading text-5xl leading-[48px];
+  }
+  .brush-stroke-divider {
+    @apply w-full overflow-hidden;
+    height: 176px;
+  }
+  .brush-stroke-divider img {
+    @apply w-full h-full object-cover;
+  }
+}

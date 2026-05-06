@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Heritage Craftsmanship Design System */
+
+@layer base {
+  :root {
+    /* Heritage Craftsmanship Color Palette */
+    --background: 40 60% 98%; /* Warm Off-White #FDFBF7 */
+    --background-alt: 31 41% 93%; /* Cream #F5EDE4 */
+    --foreground: 27 42% 25%; /* Deep Brown #5B3E27 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 27 42% 25%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 27 42% 25%;
+
+    --primary: 28 64% 38%; /* Burnt Sienna #A05A24 */
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 28 64% 32%;
+
+    --secondary: 161 35% 26%; /* Forest Green #2B5A4B */
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 31 41% 93%; /* Cream */
+    --accent-foreground: 27 42% 25%;
+
+    --tertiary: 27 42% 25%; /* Deep Brown */
+    --tertiary-foreground: 0 0% 100%;
+
+    --muted: 31 41% 93%;
+    --muted-foreground: 27 30% 40%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 31 30% 85%;
+    --input: 31 30% 85%;
+    --ring: 28 64% 38%;
+
+    --radius: 0.375rem;
+
+    --text-medium: 27 30% 35%;
+    --text-light: 27 20% 45%;
+    --text-lighter: 27 15% 55%;
+
+    --font-heading: 'Satoshi', sans-serif;
+    --font-body: 'Source Serif 4', Georgia, serif;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 27 42% 25%;
+    --sidebar-primary: 28 64% 38%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 31 41% 93%;
+    --sidebar-accent-foreground: 27 42% 25%;
+    --sidebar-border: 31 30% 85%;
+    --sidebar-ring: 28 64% 38%;
+  }
+
+  .dark {
+    --background: 27 42% 10%;
+    --background-alt: 27 35% 15%;
+    --foreground: 40 60% 95%;
+
+    --card: 27 42% 12%;
+    --card-foreground: 40 60% 95%;
+
+    --popover: 27 42% 12%;
+    --popover-foreground: 40 60% 95%;
+
+    --primary: 28 64% 45%;
+    --primary-foreground: 0 0% 100%;
+    --primary-hover: 28 64% 40%;
+
+    --secondary: 161 35% 35%;
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 27 35% 20%;
+    --accent-foreground: 40 60% 95%;
+
+    --tertiary: 31 41% 80%;
+    --tertiary-foreground: 27 42% 15%;
+
+    --muted: 27 35% 18%;
+    --muted-foreground: 27 20% 65%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 95%;
+
+    --border: 27 30% 25%;
+    --input: 27 30% 25%;
+    --ring: 28 64% 45%;
+
+    --text-medium: 27 15% 70%;
+    --text-light: 27 10% 60%;
+    --text-lighter: 27 8% 50%;
+
+    --sidebar-background: 27 42% 10%;
+    --sidebar-foreground: 40 60% 95%;
+    --sidebar-primary: 28 64% 45%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 27 35% 18%;
+    --sidebar-accent-foreground: 40 60% 95%;
+    --sidebar-border: 27 30% 25%;
+    --sidebar-ring: 28 64% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    line-height: 1.2;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .bg-background-alt {
+    background-color: hsl(var(--background-alt));
+  }
+}

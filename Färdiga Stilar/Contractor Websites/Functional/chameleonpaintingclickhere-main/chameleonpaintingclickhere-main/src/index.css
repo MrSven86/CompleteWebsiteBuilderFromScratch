@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fontshare Fonts */
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@400,500,600,700&f[]=general-sans@400,500,600&display=swap');
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+@layer base {
+  :root {
+    /* Background Colors */
+    --background: 200 25% 98%;
+    --background-alt: 203 30% 93%;
+    --foreground: 210 20% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 210 20% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 20% 15%;
+
+    /* Primary - Deep Professional Blue */
+    --primary: 197 57% 40%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary - Warm Terra Cotta */
+    --secondary: 26 65% 54%;
+    --secondary-foreground: 0 0% 100%;
+
+    /* Muted */
+    --muted: 203 30% 93%;
+    --muted-foreground: 210 15% 45%;
+
+    /* Accent - Muted Forest Green */
+    --accent: 135 26% 39%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Destructive - Red for errors */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 203 30% 88%;
+    --input: 203 30% 88%;
+    --ring: 197 57% 40%;
+
+    --radius: 0.25rem;
+
+    /* Custom Colors */
+    --topbar-bg: 210 20% 15%;
+    --topbar-foreground: 0 0% 100%;
+    --teal: 197 57% 40%;
+    --orange: 26 65% 54%;
+    --green: 135 26% 39%;
+  }
+
+  .dark {
+    --background: 210 20% 10%;
+    --foreground: 200 25% 98%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 700;
+  }
+}
+
+@layer components {
+  .topbar {
+    @apply bg-[hsl(var(--topbar-bg))] text-[hsl(var(--topbar-foreground))];
+  }
+
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-[hsl(197,57%,35%)] transition-colors;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-[hsl(26,65%,48%)] transition-colors;
+  }
+
+  .btn-accent {
+    @apply bg-accent text-accent-foreground hover:bg-[hsl(135,26%,34%)] transition-colors;
+  }
+}
