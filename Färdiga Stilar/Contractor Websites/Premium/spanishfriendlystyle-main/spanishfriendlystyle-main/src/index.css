@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Kanit:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 220 20% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 20% 10%;
+    --primary: 160 65% 40%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 220 20% 10%;
+    --muted: 210 20% 96%;
+    --muted-foreground: 220 10% 46%;
+    --accent: 40 95% 55%;
+    --accent-foreground: 220 20% 10%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 160 65% 40%;
+    --radius: 0.5rem;
+
+    --hero-overlay: 220 30% 10%;
+    --glass-bg: 0 0% 100% / 0.2;
+    --glass-border: 0 0% 100% / 0.3;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-gibson antialiased;
+  }
+}
+
+@layer utilities {
+  .glass-button {
+    @apply bg-[hsl(var(--glass-bg))] rounded-3xl shadow-[0px_4px_30px_0px_rgba(0,0,0,0.10)] border border-[hsl(var(--glass-border))] backdrop-blur-[9.5px];
+  }
+  .hero-gradient-overlay {
+    background: linear-gradient(to right, hsl(var(--hero-overlay) / 0.7) 0%, hsl(var(--hero-overlay) / 0.3) 60%, transparent 100%);
+  }
+}
