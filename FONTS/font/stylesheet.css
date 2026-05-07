@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-LightItalic.eot');
+    src: local('Owners Text Light It'), local('OwnersText-LightItalic'),
+        url('OwnersText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-LightItalic.woff2') format('woff2'),
+        url('OwnersText-LightItalic.woff') format('woff'),
+        url('OwnersText-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-Bold.eot');
+    src: local('Owners Text Bold'), local('OwnersText-Bold'),
+        url('OwnersText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-Bold.woff2') format('woff2'),
+        url('OwnersText-Bold.woff') format('woff'),
+        url('OwnersText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text XLight';
+    src: url('OwnersText-XLightItalic.eot');
+    src: local('Owners Text XLight It'), local('OwnersText-XLightItalic'),
+        url('OwnersText-XLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-XLightItalic.woff2') format('woff2'),
+        url('OwnersText-XLightItalic.woff') format('woff'),
+        url('OwnersText-XLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-MediumItalic.eot');
+    src: local('Owners Text Medium It'), local('OwnersText-MediumItalic'),
+        url('OwnersText-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-MediumItalic.woff2') format('woff2'),
+        url('OwnersText-MediumItalic.woff') format('woff'),
+        url('OwnersText-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-Medium.eot');
+    src: local('Owners Text Medium'), local('OwnersText-Medium'),
+        url('OwnersText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-Medium.woff2') format('woff2'),
+        url('OwnersText-Medium.woff') format('woff'),
+        url('OwnersText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-Black.eot');
+    src: local('Owners Text Black'), local('OwnersText-Black'),
+        url('OwnersText-Black.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-Black.woff2') format('woff2'),
+        url('OwnersText-Black.woff') format('woff'),
+        url('OwnersText-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-Regular.eot');
+    src: local('Owners Text'), local('OwnersText-Regular'),
+        url('OwnersText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-Regular.woff2') format('woff2'),
+        url('OwnersText-Regular.woff') format('woff'),
+        url('OwnersText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-RegularItalic.eot');
+    src: local('Owners Text It'), local('OwnersText-RegularItalic'),
+        url('OwnersText-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-RegularItalic.woff2') format('woff2'),
+        url('OwnersText-RegularItalic.woff') format('woff'),
+        url('OwnersText-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text XLight';
+    src: url('OwnersText-XLight.eot');
+    src: local('Owners Text XLight'), local('OwnersText-XLight'),
+        url('OwnersText-XLight.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-XLight.woff2') format('woff2'),
+        url('OwnersText-XLight.woff') format('woff'),
+        url('OwnersText-XLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-BoldItalic.eot');
+    src: local('Owners Text Bold It'), local('OwnersText-BoldItalic'),
+        url('OwnersText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-BoldItalic.woff2') format('woff2'),
+        url('OwnersText-BoldItalic.woff') format('woff'),
+        url('OwnersText-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-BlackItalic.eot');
+    src: local('Owners Text Black It'), local('OwnersText-BlackItalic'),
+        url('OwnersText-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-BlackItalic.woff2') format('woff2'),
+        url('OwnersText-BlackItalic.woff') format('woff'),
+        url('OwnersText-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Owners Text';
+    src: url('OwnersText-Light.eot');
+    src: local('Owners Text Light'), local('OwnersText-Light'),
+        url('OwnersText-Light.eot?#iefix') format('embedded-opentype'),
+        url('OwnersText-Light.woff2') format('woff2'),
+        url('OwnersText-Light.woff') format('woff'),
+        url('OwnersText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
