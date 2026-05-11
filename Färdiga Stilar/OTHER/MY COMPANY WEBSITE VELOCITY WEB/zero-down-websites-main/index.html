@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es-AR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- TODO: Set the document title to the name of your application -->
+    <title>Diseño Web Buenos Aires | Sitios Web Profesionales para tu Negocio — Velocity Web</title>
+    <meta name="description" content="Agencia de diseño web en Buenos Aires. Sitios web profesionales diseñados a medida para tu negocio, listos en 72 horas. Sin costo inicial. Con equipo local en Buenos Aires.">
+    <link rel="icon" href="/favicon.png?v=2" type="image/png">
+    <meta name="author" content="Lovable" />
+
+    <!-- TODO: Update og:title to match your application name -->
+    
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/99cb26c5-bf14-4baf-bcef-a81fcd45c779/id-preview-c19d5b07--11acd300-31ed-4cb4-b72d-f12818ac4b40.lovable.app-1775215885854.png">
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Lovable" />
+    <meta name="twitter:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/99cb26c5-bf14-4baf-bcef-a81fcd45c779/id-preview-c19d5b07--11acd300-31ed-4cb4-b72d-f12818ac4b40.lovable.app-1775215885854.png">
+    <meta property="og:title" content="Diseño Web Buenos Aires | Sitios Web Profesionales para tu Negocio — Velocity Web">
+  <meta name="twitter:title" content="Diseño Web Buenos Aires | Sitios Web Profesionales para tu Negocio — Velocity Web">
+  <meta property="og:description" content="Agencia de diseño web en Buenos Aires. Sitios web profesionales diseñados a medida para tu negocio, listos en 72 horas. Sin costo inicial. Con equipo local en Buenos Aires.">
+  <meta name="twitter:description" content="Agencia de diseño web en Buenos Aires. Sitios web profesionales diseñados a medida para tu negocio, listos en 72 horas. Sin costo inicial. Con equipo local en Buenos Aires.">
+</head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+
+    <!-- Velocity Review Popup -->
+    <script>
+    (function() {
+      const GOOGLE_URL = 'https://g.page/r/CYF3k0ky5lzWEAE/review';
+      const KEY_VISITED = 'vs_visited';
+      const KEY_RATED = 'vs_rated';
+      if (localStorage.getItem(KEY_RATED)) return;
+      if (!localStorage.getItem(KEY_VISITED)) {
+        localStorage.setItem(KEY_VISITED, '1');
+        return;
+      }
+      const style = document.createElement('style');
+      style.textContent = `
+        #vs-popup { position: fixed; bottom: 24px; right: 24px; z-index: 9999;
+          background: #fff; border: 1px solid #e0e0e0; border-radius: 12px;
+          padding: 20px 22px; width: 290px; box-shadow: 0 4px 20px rgba(0,0,0,0.10);
+          font-family: sans-serif; }
+        #vs-popup p.vs-q { font-size: 14px; font-weight: 600; margin: 0 0 4px; color: #111; }
+        #vs-popup p.vs-sub { font-size: 12px; color: #888; margin: 0 0 16px; }
+        #vs-popup .vs-btns { display: flex; gap: 8px; justify-content: center; }
+        #vs-popup .vs-btn { width: 42px; height: 42px; border-radius: 50%;
+          border: 1px solid #ddd; background: #f7f7f7; font-size: 16px; font-weight: 500;
+          cursor: pointer; transition: background 0.15s, border-color 0.15s; }
+        #vs-popup .vs-btn:hover { background: #eee; border-color: #bbb; }
+        #vs-popup .vs-labels { display: flex; justify-content: space-between;
+          font-size: 10px; color: #aaa; margin-top: 6px; }
+        #vs-popup .vs-close { position: absolute; top: 10px; right: 12px;
+          background: none; border: none; font-size: 18px; color: #aaa;
+          cursor: pointer; line-height: 1; padding: 0; }
+        #vs-popup .vs-msg { font-size: 12px; text-align: center; margin-top: 12px; }
+      `;
+      document.head.appendChild(style);
+      const popup = document.createElement('div');
+      popup.id = 'vs-popup';
+      popup.innerHTML = `
+        <button class="vs-close" id="vs-close">×</button>
+        <p class="vs-q">How likely is it that you would recommend us?</p>
+        <p class="vs-sub">Your feedback means a lot to us.</p>
+        <div class="vs-btns">
+          ${[1,2,3,4,5].map(n => '<button class="vs-btn" data-val="' + n + '">' + n + '</button>').join('')}
+        </div>
+        <div class="vs-labels"><span>Not likely</span><span>Very likely</span></div>
+        <div class="vs-msg" id="vs-msg"></div>
+      `;
+      document.body.appendChild(popup);
+      function dismiss() {
+        localStorage.setItem(KEY_RATED, '1');
+        popup.remove();
+      }
+      document.getElementById('vs-close').addEventListener('click', dismiss);
+      popup.querySelectorAll('.vs-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+          const val = parseInt(this.dataset.val);
+          dismiss();
+          if (val >= 4) window.open('https://g.page/r/CYF3k0ky5lzWEAE/review', '_blank');
+        });
+      });
+    })();
+    </script>
+  </body>
+</html>
