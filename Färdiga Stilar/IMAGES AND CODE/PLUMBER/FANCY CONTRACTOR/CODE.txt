@@ -1,0 +1,318 @@
+<div style="width: 1920px; height: 6133.61px; position: relative; background: white">
+  <div style="width: 1920px; height: 148px; left: 0px; top: 0px; position: absolute; background: white">
+    <div style="width: 1920px; height: 13px; left: 0px; top: 0px; position: absolute; background: #E9BB31">
+      <div style="width: 1290px; height: 1px; left: 315px; top: 6px; position: absolute; background: #E9BB31"></div>
+    </div>
+    <div style="width: 1920px; height: 61px; left: 0px; top: -1px; position: absolute; background: linear-gradient(182deg, #344E6C 58%, rgba(52, 78, 108, 0) 58%)">
+      <div style="width: 501.06px; height: 19px; left: 992.94px; top: 8px; position: absolute">
+        <div style="width: 183.94px; height: 19px; left: 25px; top: 0px; position: absolute">
+          <div style="width: 150.51px; height: 19px; left: 33.75px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Mukta Vaani; font-weight: 400; line-height: 19px; word-wrap: break-word">+1 (877) 777 - 1234</div>
+          <div style="width: 15.38px; height: 15px; left: 0px; top: 2px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 15px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 15px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 217.13px; height: 19px; left: 258.94px; top: 0px; position: absolute">
+          <div style="width: 183.72px; height: 19px; left: 33.75px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Mukta Vaani; font-weight: 400; line-height: 19px; word-wrap: break-word">Mon - Fri : 9:00 - 18:00</div>
+          <div style="width: 15.38px; height: 15px; left: 0px; top: 2px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 15px; font-family: Font Awesome 5 Free; font-weight: 400; line-height: 15px; word-wrap: break-word"></div>
+        </div>
+      </div>
+      <div style="width: 20.57px; height: 18px; left: 1547.88px; top: 11px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 18px; word-wrap: break-word"></div>
+      <div style="width: 16.13px; height: 18px; left: 1588.13px; top: 11px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 18px; word-wrap: break-word"></div>
+    </div>
+    <div style="width: 1920px; height: 88px; left: 0px; top: 60px; position: absolute; background: white">
+      <div style="width: 1290px; height: 88px; left: 315px; top: 0px; position: absolute">
+        <img style="width: 158px; height: 79px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/158x79" />
+        <div style="width: 886.94px; height: 88px; left: 418.05px; top: 0px; position: absolute">
+          <div style="width: 72.72px; height: 88px; left: 5px; top: 0px; position: absolute; border-bottom: 5px #E9BB31 solid">
+            <div style="width: 49.07px; height: 30px; left: 12px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Home</div>
+          </div>
+          <div style="width: 104.87px; height: 83px; left: 82.72px; top: 0px; position: absolute">
+            <div style="width: 55.74px; height: 30px; left: 12px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">About</div>
+            <div style="width: 9px; height: 9px; left: 83.87px; top: 39px; position: absolute">
+              <div style="width: 9px; height: 6.19px; left: 0px; top: 1.41px; position: absolute; background: #213C5A"></div>
+            </div>
+          </div>
+          <div style="width: 175.13px; height: 83px; left: 192.59px; top: 0px; position: absolute">
+            <div style="width: 126.02px; height: 30px; left: 12px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Foam Roofing</div>
+            <div style="width: 9px; height: 9px; left: 154.13px; top: 39px; position: absolute">
+              <div style="width: 9px; height: 6.19px; left: 0px; top: 1.41px; position: absolute; background: #213C5A"></div>
+            </div>
+          </div>
+          <div style="width: 124.45px; height: 83px; left: 372.72px; top: 0px; position: absolute">
+            <div style="width: 75.27px; height: 30px; left: 12px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Painting</div>
+            <div style="width: 9px; height: 9px; left: 103.45px; top: 39px; position: absolute">
+              <div style="width: 9px; height: 6.19px; left: 0px; top: 1.41px; position: absolute; background: #213C5A"></div>
+            </div>
+          </div>
+          <div style="width: 131.78px; height: 83px; left: 502.17px; top: 0px; position: absolute">
+            <div style="width: 82.61px; height: 30px; left: 12px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Windows</div>
+            <div style="width: 9px; height: 9px; left: 110.78px; top: 39px; position: absolute">
+              <div style="width: 9px; height: 6.19px; left: 0px; top: 1.41px; position: absolute; background: #213C5A"></div>
+            </div>
+          </div>
+          <div style="width: 122.23px; height: 30px; left: 650.95px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Service Areas</div>
+          <div style="width: 73.45px; height: 30px; left: 801.79px; top: 28px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 18px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 80px; word-wrap: break-word">Contact</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 5295.61px; left: 0px; top: 148px; position: absolute">
+    <div style="width: 1920px; height: 600px; left: 0px; top: 0px; position: absolute; background-image: url(https://placehold.co/1920x600)">
+      <div style="width: 1920px; height: 600px; left: 0px; top: 0px; position: absolute; opacity: 0.63; background: #344E6C"></div>
+      <div style="width: 1290px; height: 600px; left: 315px; top: 0px; position: absolute">
+        <div style="width: 262.57px; height: 43px; left: 0px; top: 121.80px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 26px; font-family: Mukta Malar; font-weight: 600; line-height: 36.40px; word-wrap: break-word">Welcome to Armstrong</div>
+        <div style="width: 1222.17px; height: 202px; left: 0px; top: 171.20px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 60px; font-family: DM Serif Display; font-weight: 400; line-height: 60px; letter-spacing: 1.50px; word-wrap: break-word">Upgrading and Protecting Homes Since 1966<br/>With Superior Foam Roofing, Painting and<br/>Windows Services</div>
+        <div style="width: 529.50px; height: 20px; left: 0px; top: 382.20px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Mukta Malar; font-weight: 400; line-height: 20px; word-wrap: break-word">Proudly serving the San Franscisco Bay Area and surroundings!</div>
+        <div style="width: 270.61px; height: 52px; left: 0px; top: 422.20px; position: absolute; background: #E9BB31">
+          <div style="width: 206.97px; height: 18px; left: 32px; top: 17px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">Get Your Free Estimate Today!</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1290px; height: 320px; left: 315px; top: 520px; position: absolute; background: white; box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.05)">
+      <div style="width: 1290px; height: 320px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 429.98px; height: 320px; left: 0px; top: 0px; position: absolute; border-right: 1px #EDEDED solid">
+          <div style="width: 428.98px; height: 320px; left: 0px; top: 0px; position: absolute; background: white; overflow: hidden">
+            <div style="width: 70px; height: 70px; left: 179.48px; top: 95.50px; position: absolute; overflow: hidden">
+              <img style="width: 70px; height: 70px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/70x70" />
+            </div>
+            <div style="width: 157.10px; height: 32px; left: 136.09px; top: 192.50px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 26px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Foam Roofing</div>
+          </div>
+        </div>
+        <div style="width: 429.98px; height: 320px; left: 429.98px; top: 0px; position: absolute; border-right: 1px #EDEDED solid">
+          <div style="width: 428.98px; height: 320px; left: 0px; top: 0px; position: absolute; background: white; overflow: hidden">
+            <div style="width: 70px; height: 70px; left: 179.49px; top: 95.50px; position: absolute; overflow: hidden">
+              <img style="width: 70px; height: 70px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/70x70" />
+            </div>
+            <div style="width: 95.91px; height: 32px; left: 166.71px; top: 192.50px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 26px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Painting</div>
+          </div>
+        </div>
+        <div style="width: 429.98px; height: 320px; left: 859.97px; top: 0px; position: absolute; background: white; overflow: hidden">
+          <div style="width: 70px; height: 70px; left: 179.98px; top: 95.50px; position: absolute; overflow: hidden">
+            <img style="width: 70px; height: 70px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/70x70" />
+          </div>
+          <div style="width: 105.99px; height: 32px; left: 162.17px; top: 192.50px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 26px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Windows</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; height: 607.13px; left: 0px; top: 920px; position: absolute; overflow: hidden">
+      <div style="width: 1290px; height: 507.13px; left: 315px; top: 0px; position: absolute">
+        <div style="width: 69.76px; height: 24px; left: 0px; top: 60.56px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Mukta Malar; font-weight: 500; text-transform: uppercase; line-height: 24px; word-wrap: break-word">Company</div>
+        <div style="width: 191.58px; height: 54px; left: 0px; top: 98.56px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 48px; font-family: DM Serif Display; font-weight: 400; text-transform: capitalize; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Why Us?</div>
+        <div style="width: 501.36px; height: 171px; left: 0px; top: 170.56px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">As a multi-generational family business, we deeply appreciate the values<br/>and hard-won knowledge we’ve accumulated over a half century. Our<br/>father Howard and grandfather Hal built Armstrong one project at a time,<br/>stressing two simple maxims: deliver the highest quality products; and<br/>always guarantee those materials are installed by professionals who take<br/>pride in their work. Howard would often say, focus on those two things<br/>and the rest will take care of itself.</div>
+        <div style="width: 235.63px; height: 52px; left: 0px; top: 384.56px; position: absolute; background: #E9BB31">
+          <div style="width: 14.36px; height: 16px; left: 189.63px; top: 18px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+          <div style="width: 141.94px; height: 18px; left: 32px; top: 17px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">Read More About Us</div>
+        </div>
+        <img style="width: 649.50px; height: 487.13px; left: 580.50px; top: 0px; position: absolute" src="https://placehold.co/650x487" />
+      </div>
+    </div>
+    <div style="width: 1920px; height: 749px; left: 0px; top: 1527.13px; position: absolute; background: #FCFDFE; background-image: url(https://placehold.co/1920x749)">
+      <div style="width: 1290px; height: 449px; left: 315px; top: 150px; position: absolute">
+        <div style="width: 85.38px; height: 54px; left: 0px; top: 13px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 48px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Our</div>
+        <div style="width: 191.21px; height: 54px; left: 0px; top: 72px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 48px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Services</div>
+        <div style="width: 476.09px; height: 75px; left: 0px; top: 149px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Since its inception in California in 1966 Armstrong has been committed<br/>to the improvement, beautification, and preservation of Bay Area<br/>homes.</div>
+        <div style="width: 126.83px; height: 99px; left: 0px; top: 255px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">◎    Foam Roofing<br/>◎    Painting <br/>◎    Windows<br/>◎    Doors</div>
+        <div style="width: 150.05px; height: 52px; left: 0px; top: 387px; position: absolute; background: #E9BB31">
+          <div style="width: 14.36px; height: 16px; left: 104.05px; top: 18px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+          <div style="width: 56.42px; height: 18px; left: 32px; top: 17px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">Services</div>
+        </div>
+        <div style="width: 812.69px; height: 449px; left: 477.30px; top: 0px; position: absolute"></div>
+      </div>
+    </div>
+    <div style="width: 1290px; height: 489.48px; left: 315px; top: 2376.13px; position: absolute">
+      <div style="width: 409.98px; height: 469.48px; left: 10px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 25px 32px -25px rgba(151, 163, 184, 0.50), 0px 15px 16px -15px rgba(151, 163, 184, 0.50), 0px 5px 8px -5px rgba(151, 163, 184, 0.50); overflow: hidden; border-bottom: 5px #E9BB31 solid">
+        <div style="width: 409.98px; height: 464.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <img style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/410x307" />
+            <div style="width: 409.98px; height: 150px; left: 0px; top: 277.48px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="width: 145.04px; height: 33px; left: 25px; top: 331.48px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Foam Roofing</div>
+          <div style="width: 152.83px; height: 40px; left: 25px; top: 399.48px; position: absolute; border-radius: 3px">
+            <div style="width: 40px; height: 40px; left: 0px; top: 0px; position: absolute; background: #E9BB31; border-radius: 60px"></div>
+            <div style="width: 16.02px; height: 16px; left: 11.98px; top: 12px; position: absolute">
+              <div style="width: 14.69px; height: 6.66px; left: 0.68px; top: 4.63px; position: absolute; background: #3F485D"></div>
+            </div>
+            <div style="width: 78.59px; height: 27px; left: 54.56px; top: 8px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 24px; word-wrap: break-word">Learn More</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 409.98px; height: 469.48px; left: 439.98px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 25px 32px -25px rgba(151, 163, 184, 0.50), 0px 15px 16px -15px rgba(151, 163, 184, 0.50), 0px 5px 8px -5px rgba(151, 163, 184, 0.50); overflow: hidden; border-bottom: 5px #E9BB31 solid">
+        <div style="width: 409.98px; height: 464.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <img style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/410x307" />
+            <div style="width: 409.98px; height: 150px; left: 0px; top: 277.48px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="width: 88.54px; height: 33px; left: 25px; top: 331.48px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Painting</div>
+          <div style="width: 152.83px; height: 40px; left: 25px; top: 399.48px; position: absolute; border-radius: 3px">
+            <div style="width: 40px; height: 40px; left: 0px; top: 0px; position: absolute; background: #E9BB31; border-radius: 60px"></div>
+            <div style="width: 16.01px; height: 15.99px; left: 11.99px; top: 12.01px; position: absolute">
+              <div style="width: 14.68px; height: 6.66px; left: 0.68px; top: 4.63px; position: absolute; background: #3F485D"></div>
+            </div>
+            <div style="width: 78.59px; height: 27px; left: 54.57px; top: 8px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 24px; word-wrap: break-word">Learn More</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 409.98px; height: 469.48px; left: 869.97px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 25px 32px -25px rgba(151, 163, 184, 0.50), 0px 15px 16px -15px rgba(151, 163, 184, 0.50), 0px 5px 8px -5px rgba(151, 163, 184, 0.50); overflow: hidden; border-bottom: 5px #E9BB31 solid">
+        <div style="width: 409.98px; height: 464.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <img style="width: 409.98px; height: 307.48px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/410x307" />
+            <div style="width: 409.98px; height: 150px; left: 0px; top: 277.48px; position: absolute; opacity: 0"></div>
+          </div>
+          <div style="width: 97.85px; height: 33px; left: 25px; top: 331.48px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; line-height: 32px; word-wrap: break-word">Windows</div>
+          <div style="width: 152.83px; height: 40px; left: 25px; top: 399.48px; position: absolute; border-radius: 3px">
+            <div style="width: 40px; height: 40px; left: 0px; top: 0px; position: absolute; background: #E9BB31; border-radius: 60px"></div>
+            <div style="width: 16.02px; height: 16px; left: 11.98px; top: 12px; position: absolute">
+              <div style="width: 14.69px; height: 6.66px; left: 0.68px; top: 4.63px; position: absolute; background: #3F485D"></div>
+            </div>
+            <div style="width: 78.59px; height: 27px; left: 54.56px; top: 8px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 24px; word-wrap: break-word">Learn More</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; height: 800px; left: 0px; top: 2965.61px; position: absolute; overflow: hidden">
+      <img style="width: 1920px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/1920x800" />
+      <img style="width: 2304px; height: 960px; left: -192px; top: -80px; position: absolute" src="https://placehold.co/2304x960" />
+      <img style="width: 1920px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/1920x800" />
+      <div style="width: 379.86px; height: 390px; left: 360px; top: 394px; position: absolute; background: rgba(52, 78, 108, 0.85); overflow: hidden">
+        <div style="width: 31.14px; height: 51px; left: 25px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; word-wrap: break-word">01</div>
+        <div style="width: 232.25px; height: 103px; left: 25px; top: 81px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1px; word-wrap: break-word">Foam Roofing<br/>Warranties</div>
+        <div style="width: 329.22px; height: 171px; left: 25px; top: 195px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Armstrong Foam Roofing offers its San Francisco<br/>Bay Area residential and commercial clients<br/>some of the best foam roofing warranties in the<br/>industry. Our foam roofing warranties are<br/>backed by 50+ years of real experience during<br/>which we have installed more residential foam<br/>roofing than any other company in America!</div>
+      </div>
+      <div style="width: 379.86px; height: 366px; left: 769.86px; top: 394px; position: absolute; background: #E9BB31; overflow: hidden">
+        <div style="width: 37.60px; height: 51px; left: 25px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; word-wrap: break-word">02</div>
+        <div style="width: 185.92px; height: 103px; left: 25px; top: 81px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1px; word-wrap: break-word">Painting<br/>Warranties</div>
+        <div style="width: 324.82px; height: 147px; left: 25px; top: 195px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Armstrong painting offers its San Francisco Bay<br/>Area residential and commercial clients some of<br/>the best warranties in the industry. Our<br/>warranties are backed by over 50+ years of real<br/>experience during which we have painted and<br/>coated over 30,000 homes and businesses.</div>
+      </div>
+      <div style="width: 379.86px; height: 396px; left: 1179.72px; top: 394px; position: absolute; background: rgba(52, 78, 108, 0.85); overflow: hidden">
+        <div style="width: 37.60px; height: 51px; left: 25px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; word-wrap: break-word">03</div>
+        <div style="width: 257.46px; height: 157px; left: 25px; top: 81px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 36px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1px; word-wrap: break-word">Armstrong<br/>Weather-Guard<br/>System (AWS)</div>
+        <div style="width: 325.28px; height: 123px; left: 25px; top: 249px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">When you choose Armstrong for Painting,<br/>Coatings, Spray Polyurethane Foam Roofing or<br/>Windows you will always receive professionally<br/>installed materials, optimized for both price and<br/>long-term ‘life cycle’ performance.</div>
+      </div>
+    </div>
+    <div style="width: 1290px; height: 142px; left: 315px; top: 3765.61px; position: absolute; border-top: 1px #E0E0E0 solid; border-bottom: 1px #E0E0E0 solid">
+      <img style="width: 71px; height: 91px; left: 67.81px; top: 25.50px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/71x91" />
+      <img style="width: 206.63px; height: 62.67px; left: 216.63px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 206.63px; height: 62.67px; left: 433.25px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 206.63px; height: 62.67px; left: 649.88px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 206.63px; height: 62.67px; left: 866.50px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 185px; height: 91px; left: 1093.94px; top: 25.50px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/185x91" />
+      <img style="width: 206.63px; height: 62.67px; left: 1299.75px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 206.63px; height: 62.67px; left: 1516.38px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <img style="width: 206.63px; height: 62.67px; left: 1733px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+      <div style="width: 25px; height: 25px; left: 5px; top: 57px; position: absolute">
+        <div style="width: 12.50px; height: 23.75px; left: 5.62px; top: 1.25px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 25px; height: 25px; left: 1260px; top: 57px; position: absolute">
+        <div style="width: 12.50px; height: 23.75px; left: 5.62px; top: 1.25px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="width: 1270px; height: 168px; left: 325px; top: 4017.61px; position: absolute">
+      <div style="width: 106.25px; height: 24px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Mukta Malar; font-weight: 500; text-transform: uppercase; line-height: 24px; word-wrap: break-word">Happy Clients</div>
+      <div style="width: 315.70px; height: 54px; left: 0px; top: 38px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 48px; font-family: DM Serif Display; font-weight: 400; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Reviews From</div>
+      <div style="width: 338.56px; height: 54px; left: 0px; top: 94px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 48px; font-family: DM Serif Display; font-weight: 400; text-transform: capitalize; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Our Customers</div>
+    </div>
+    <div style="width: 1290px; height: 800px; left: 315px; top: 4395.61px; position: absolute">
+      <div style="width: 429.84px; height: 800px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 429.84px; height: 400px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <img style="width: 442.74px; height: 412px; left: -6.45px; top: -6px; position: absolute" src="https://placehold.co/443x412" />
+          <div style="width: 40px; height: 40px; left: 194.92px; top: 360px; position: absolute; border: 20px rgba(0, 0, 0, 0) solid"></div>
+        </div>
+        <div style="width: 293.97px; height: 129px; left: 40px; top: 454px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; text-transform: capitalize; line-height: 32px; letter-spacing: 1.50px; word-wrap: break-word">Building for the Future:<br/>Why Spray Foam is the<br/>Ultimate Roof for New<br/>Homes and Businesses</div>
+        <div style="width: 344.97px; height: 99px; left: 40px; top: 591px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Learn why seamless SPF roofing is the smartest,<br/>most energy-efficient choice for new Bay Area<br/>home and commercial building roofs. Get your free<br/>estimate today!</div>
+        <div style="width: 107.41px; height: 24px; left: 40px; top: 738px; position: absolute">
+          <div style="width: 77.73px; height: 19px; left: 30px; top: 2px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 24px; word-wrap: break-word">Read More</div>
+          <div style="width: 16.39px; height: 16px; left: 2px; top: 3px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 108.28px; height: 55px; left: 151.38px; top: 723px; position: absolute; border-top: 1px rgba(140, 140, 140, 0.20) solid">
+          <div style="width: 108.65px; height: 24px; left: 0px; top: 16px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BBBBBB; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">February 12, 2026</div>
+        </div>
+        <div style="width: 73.09px; height: 25px; left: 341.75px; top: 12px; position: absolute; background: #E9BB31">
+          <div style="width: 57.47px; height: 16px; left: 8px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 10px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 15px; letter-spacing: 1px; word-wrap: break-word">Flat Roof</div>
+        </div>
+      </div>
+      <div style="width: 429.84px; height: 800px; left: 429.84px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 429.84px; height: 400px; left: 0px; top: 400px; position: absolute; overflow: hidden">
+          <img style="width: 442.74px; height: 412px; left: -6.44px; top: -6px; position: absolute" src="https://placehold.co/443x412" />
+          <div style="width: 40px; height: 40px; left: 194.93px; top: 0px; position: absolute; border: 20px white solid"></div>
+        </div>
+        <div style="width: 324.16px; height: 129px; left: 40px; top: 54px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; text-transform: capitalize; line-height: 32px; letter-spacing: 1.50px; word-wrap: break-word">Why Cross Church in Napa,<br/>California Abandoned<br/>Traditional Roofing for<br/>Monolithic Protection</div>
+        <div style="width: 333.06px; height: 99px; left: 40px; top: 191px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Learn how Armstrong Foam Roofing transformed<br/>Cross Church in Napa with seamless spray foam<br/>technology, solving leaks and boosting energy<br/>efficiency.</div>
+        <div style="width: 107.41px; height: 24px; left: 40px; top: 338px; position: absolute">
+          <div style="width: 77.73px; height: 19px; left: 30px; top: 2px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 24px; word-wrap: break-word">Read More</div>
+          <div style="width: 16.39px; height: 16px; left: 2px; top: 3px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 99.02px; height: 55px; left: 151.38px; top: 323px; position: absolute; border-top: 1px rgba(140, 140, 140, 0.20) solid">
+          <div style="width: 99.37px; height: 24px; left: 0px; top: 16px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BBBBBB; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">January 12, 2026</div>
+        </div>
+        <div style="width: 97.80px; height: 25px; left: 317.05px; top: 12px; position: absolute; background: #E9BB31">
+          <div style="width: 82.13px; height: 16px; left: 8px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 10px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 15px; letter-spacing: 1px; word-wrap: break-word">Foam Roofing</div>
+        </div>
+      </div>
+      <div style="width: 429.84px; height: 800px; left: 859.69px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 429.84px; height: 400px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <img style="width: 442.74px; height: 412px; left: -6.45px; top: -6px; position: absolute" src="https://placehold.co/443x412" />
+          <div style="width: 40px; height: 40px; left: 194.92px; top: 360px; position: absolute; border: 20px rgba(0, 0, 0, 0) solid"></div>
+        </div>
+        <div style="width: 299.12px; height: 129px; left: 40px; top: 454px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 24px; font-family: DM Serif Display; font-weight: 400; text-transform: capitalize; line-height: 32px; letter-spacing: 1.50px; word-wrap: break-word">How Spray Foam Roofing<br/>Solved Camino Storage’s<br/>Commercial Roofing<br/>Challenge in Santa Clara</div>
+        <div style="width: 336.73px; height: 99px; left: 40px; top: 591px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #3F485D; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">See how Armstrong Foam Roofing turned Camino<br/>Storage’s leaky metal roof in Santa Clara into a<br/>seamless, energy-saving spray foam masterpiece.<br/>Free quotes!</div>
+        <div style="width: 107.41px; height: 24px; left: 40px; top: 738px; position: absolute">
+          <div style="width: 77.73px; height: 19px; left: 30px; top: 2px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 24px; word-wrap: break-word">Read More</div>
+          <div style="width: 16.39px; height: 16px; left: 2px; top: 3px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #E9BB31; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 112.31px; height: 55px; left: 151.37px; top: 723px; position: absolute; border-top: 1px rgba(140, 140, 140, 0.20) solid">
+          <div style="width: 112.68px; height: 24px; left: 0px; top: 16px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BBBBBB; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">December 9, 2025</div>
+        </div>
+        <div style="width: 97.80px; height: 25px; left: 317.04px; top: 12px; position: absolute; background: #E9BB31">
+          <div style="width: 82.13px; height: 16px; left: 8px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 10px; font-family: Mukta Malar; font-weight: 700; text-transform: uppercase; line-height: 15px; letter-spacing: 1px; word-wrap: break-word">Foam Roofing</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 690px; left: 0px; top: 5443.61px; position: absolute">
+    <div style="width: 1920px; height: 185px; left: 0px; top: 0px; position: absolute; background: #F2F2F2">
+      <div style="width: 1290px; height: 185px; left: 315px; top: 0px; position: absolute; border-bottom: 1px #E0E0E0 solid">
+        <div style="width: 1290px; height: 79px; left: 0px; top: 60px; position: absolute">
+          <img style="width: 158px; height: 79px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/158x79" />
+          <div style="width: 187.36px; height: 58px; left: 898.03px; top: 0px; position: absolute; background: #344E6C">
+            <div style="width: 14.36px; height: 16px; left: 126.36px; top: 21px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+            <div style="width: 63.75px; height: 18px; left: 47px; top: 20px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">About Us</div>
+          </div>
+          <div style="width: 184.61px; height: 58px; left: 1105.39px; top: 0px; position: absolute; background: #E9BB31">
+            <div style="width: 14.36px; height: 16px; left: 130.61px; top: 21px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+            <div style="width: 74.93px; height: 18px; left: 40px; top: 20px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">Contact Us</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; height: 309px; left: 0px; top: 185px; position: absolute; background: #F2F2F2">
+      <div style="width: 1290px; height: 224px; left: 315px; top: 45px; position: absolute; background: #F2F2F2">
+        <div style="width: 1290px; height: 224px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 138.26px; height: 24px; left: 0px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 20px; font-family: DM Serif Display; font-weight: 400; line-height: 24px; letter-spacing: 1.50px; word-wrap: break-word">Our Company</div>
+          <div style="width: 419.98px; height: 160px; left: 0px; top: 54px; position: absolute">
+            <div style="width: 102.56px; height: 24px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Our Customers</div>
+            <div style="width: 273.64px; height: 24px; left: 0px; top: 34px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Armstrong & San Francisco Environment</div>
+            <div style="width: 125.84px; height: 24px; left: 0px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Trade Associations</div>
+            <div style="width: 137.40px; height: 24px; left: 0px; top: 102px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Radio and Television</div>
+            <div style="width: 85.08px; height: 24px; left: 0px; top: 136px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Employment</div>
+          </div>
+          <div style="width: 130.75px; height: 24px; left: 439.98px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 20px; font-family: DM Serif Display; font-weight: 400; line-height: 24px; letter-spacing: 1.50px; word-wrap: break-word">Our Services</div>
+          <div style="width: 409.98px; height: 92px; left: 439.98px; top: 54px; position: absolute">
+            <div style="width: 93.06px; height: 24px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Foam Roofing</div>
+            <div style="width: 55.85px; height: 24px; left: 0px; top: 34px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Painting</div>
+            <div style="width: 61.62px; height: 24px; left: 0px; top: 68px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #344E6C; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Windows</div>
+          </div>
+          <div style="width: 126.85px; height: 24px; left: 906.97px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 20px; font-family: DM Serif Display; font-weight: 400; line-height: 24px; letter-spacing: 1.50px; word-wrap: break-word">Contact Info</div>
+          <div style="width: 149.45px; height: 75px; left: 906.97px; top: 52px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">4575 San Pablo Avenue<br/>Emeryville, CA<br/>94608, USA</div>
+          <div style="width: 166.31px; height: 75px; left: 1098.45px; top: 52px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: #213C5A; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">Tel. </span><span style="color: #E9BB31; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">+1 (877) 777-1234<br/></span><span style="color: #213C5A; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">E-mail.<br/></span><span style="color: #E9BB31; font-size: 16px; font-family: Mukta Malar; font-weight: 400; line-height: 24px; word-wrap: break-word">info@armstrong1234.com</span></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1920px; height: 196px; left: 0px; top: 494px; position: absolute; background: #344E6C">
+      <div style="width: 1290px; height: 104px; left: 315px; top: 25px; position: absolute">
+        <div style="width: 352.73px; height: 21px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Mukta Malar; font-weight: 400; line-height: 21px; word-wrap: break-word">Copyright © 2026 Armstrong Painting, Roofing and Windows</div>
+        <div style="width: 199.67px; height: 44px; left: 0px; top: 40px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: white; font-size: 14px; font-family: Mukta Malar; font-weight: 400; line-height: 21px; word-wrap: break-word">All rights reserved. License #245291<br/></span><span style="color: #E9BB31; font-size: 14px; font-family: Mukta Malar; font-weight: 400; line-height: 21px; word-wrap: break-word">Privacy Policy</span></div>
+        <div style="width: 20.57px; height: 18px; left: 1232.88px; top: 32px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 18px; word-wrap: break-word"></div>
+        <div style="width: 16.13px; height: 18px; left: 1273.13px; top: 32px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 18px; word-wrap: break-word"></div>
+      </div>
+      <div style="width: 412.86px; height: 23px; left: 753.75px; top: 128px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column"><span style="color: white; font-size: 14px; font-family: Mukta Malar; font-weight: 400; line-height: 21px; word-wrap: break-word">Website Development & Digital Marketing by </span><span style="color: #E9BB31; font-size: 14px; font-family: Mukta Malar; font-weight: 400; line-height: 21px; word-wrap: break-word">Savvy Search Marketing</span></div>
+    </div>
+  </div>
+</div>

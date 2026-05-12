@@ -1,0 +1,470 @@
+<div class="w-[1920px] h-[5866px] relative bg-white">
+  <div class="w-[1920px] h-[1200px] left-0 top-0 absolute">
+    <div class="w-56 h-20 left-[1690px] top-[1114px] absolute overflow-hidden">
+      <div class="w-48 h-14 left-[10px] top-[10px] absolute">
+        <div class="w-48 h-14 left-0 top-0 absolute bg-black rounded-[30px] shadow-[0px_0px_3px_0px_rgba(182,180,180,0.50)]">
+          <div class="w-6 h-6 left-[37.17px] top-[15px] absolute overflow-hidden">
+            <div class="w-6 h-6 left-[1.63px] top-[1.63px] absolute bg-orange-100"></div>
+          </div>
+          <div class="w-20 h-6 left-[73.17px] top-[16.50px] absolute overflow-hidden">
+            <div class="w-20 h-6 left-0 top-0 absolute text-center justify-center text-orange-100 text-lg font-normal font-['Caudex']">Let's Chat!</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1920px] h-[5866px] left-0 top-0 absolute bg-orange-100"></div>
+  <div class="w-[1920px] h-[5309.38px] left-0 top-[73px] absolute">
+    <div class="w-[1920px] h-64 left-0 top-[508px] absolute">
+      <div class="w-[1920px] h-64 left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-64 left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-32 h-5 left-[906.14px] top-[65px] absolute text-center justify-center text-orange-400 text-base font-normal font-['Inter'] leading-7">OUR SERVICES</div>
+      <div class="w-[719.52px] h-8 left-[607.33px] top-[96px] absolute text-center justify-center text-black text-2xl font-bold font-['Caudex'] leading-6">One Trusted Contractor Serving Orange County for Over 25 Years</div>
+      <div class="w-[565.87px] h-20 left-[682.66px] top-[141px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">Locally owned and operated, Edwards Painting Co. delivers clean,<br/>professional results with the same commitment to quality, craftsmanship,<br/>and care on every project.</div>
+    </div>
+    <div class="w-[1920px] h-[956.78px] left-0 top-[778px] absolute">
+      <div class="w-[1920px] h-[956.78px] left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-[956.78px] left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-[1920px] h-[916.78px] left-0 top-0 absolute">
+        <div class="w-[1920px] h-[916.78px] left-0 top-0 absolute overflow-hidden">
+          <div class="w-[1920px] h-[916.78px] left-0 top-0 absolute bg-white"></div>
+        </div>
+        <div class="w-80 h-96 left-[470px] top-[84px] absolute border border-black"></div>
+        <div class="w-28 h-28 left-[569px] top-[114px] absolute overflow-hidden">
+          <div class="w-24 h-20 left-[15px] top-[15px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+          <div class="w-14 h-0 left-[30px] top-[105px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+          <div class="w-0 h-3.5 left-[60px] top-[90px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+        </div>
+        <div class="w-36 h-6 left-[558.38px] top-[234px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Interior Painting</div>
+        <div class="w-60 h-28 left-[507.09px] top-[271px] absolute text-center justify-center text-black text-sm font-normal font-['Inter'] leading-7">Transform your living spaces with a<br/>fresh coat of paint that brightens<br/>your home with clean, professional<br/>finishes.</div>
+        <div class="w-36 h-10 left-[559px] top-[391.19px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-80 h-96 left-[800px] top-[84px] absolute border border-black"></div>
+        <div class="w-28 h-24 left-[899px] top-[124px] absolute overflow-hidden">
+          <div class="w-20 h-8 left-[22.50px] top-[18.75px] absolute outline outline-4 outline-offset-[-2.34px] outline-cyan-900"></div>
+          <div class="w-12 h-8 left-[35px] top-[50px] absolute outline outline-4 outline-offset-[-2.34px] outline-cyan-900"></div>
+        </div>
+        <div class="w-36 h-6 left-[886.09px] top-[234px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Exterior Painting</div>
+        <div class="w-60 h-20 left-[840.27px] top-[271px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">Protect and enhance your home<br/>with high-quality exterior painting<br/>built to last.</div>
+        <div class="w-36 h-10 left-[889px] top-[391.39px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-80 h-96 left-[1130px] top-[84px] absolute border border-black"></div>
+        <div class="w-28 h-28 left-[1229px] top-[114px] absolute overflow-hidden">
+          <div class="w-20 h-20 left-[22.50px] top-[22.50px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+          <div class="w-11 h-11 left-[37.50px] top-[37.50px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+        </div>
+        <div class="w-44 h-6 left-[1201.23px] top-[234px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Carpentry & Repairs</div>
+        <div class="w-56 h-28 left-[1176.80px] top-[271px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">From minor repairs to detailed<br/>carpentry, our 25+ years of<br/>experience ensure the job is<br/>done right.</div>
+        <div class="w-36 h-10 left-[1219px] top-[391.19px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-80 h-96 left-[470px] top-[524.39px] absolute border border-black"></div>
+        <div class="w-28 h-16 left-[569px] top-[578.39px] absolute overflow-hidden">
+          <div class="w-11 h-0 left-[37.50px] top-[22.50px] absolute outline outline-[3.38px] outline-offset-[-1.69px] outline-cyan-900"></div>
+          <div class="w-11 h-0 left-[37.50px] top-[36px] absolute outline outline-[3.38px] outline-offset-[-1.69px] outline-cyan-900"></div>
+          <div class="w-11 h-0 left-[37.50px] top-[49.50px] absolute outline outline-[3.38px] outline-offset-[-1.69px] outline-cyan-900"></div>
+        </div>
+        <div class="w-32 h-6 left-[562.77px] top-[674.39px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Stucco & Siding</div>
+        <div class="w-60 h-20 left-[507.56px] top-[711.39px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">Stucco and siding services<br/>designed to upgrade your exterior<br/>with clean, lasting results.</div>
+        <div class="w-36 h-10 left-[559px] top-[802.78px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-80 h-96 left-[800px] top-[524.39px] absolute border border-black"></div>
+        <div class="w-16 h-28 left-[923px] top-[554.39px] absolute overflow-hidden">
+          <div class="w-8 h-14 left-[19.69px] top-[33.75px] absolute outline outline-[3.28px] outline-offset-[-1.64px] outline-cyan-900"></div>
+          <div class="w-0 h-14 left-[35px] top-[33.75px] absolute outline outline-[3.28px] outline-offset-[-1.64px] outline-cyan-900"></div>
+        </div>
+        <div class="w-40 h-6 left-[881.14px] top-[674.39px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Doors & Windows</div>
+        <div class="w-60 h-20 left-[835.52px] top-[711.39px] absolute text-center justify-center text-black text-sm font-normal font-['Inter'] leading-7">Quality door and window services<br/>that improve your home’s look<br/>and performance.</div>
+        <div class="w-36 h-10 left-[889px] top-[802.78px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-80 h-96 left-[1130px] top-[524.39px] absolute border border-black"></div>
+        <div class="w-28 h-28 left-[1228px] top-[554.39px] absolute overflow-hidden">
+          <div class="w-20 h-20 left-[22.50px] top-[15px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+          <div class="w-0 h-7 left-[45px] top-[60px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+          <div class="w-0 h-7 left-[75px] top-[60px] absolute outline outline-[5.63px] outline-offset-[-2.81px] outline-cyan-900"></div>
+        </div>
+        <div class="w-48 h-6 left-[1193.47px] top-[674.39px] absolute text-center justify-center text-black text-xl font-bold font-['Caudex'] leading-6">Remodels & Upgrades</div>
+        <div class="w-60 h-20 left-[1167.75px] top-[711.39px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">Quality remodels and upgrades<br/>completed with attention to detail<br/>and professional craftsmanship.</div>
+        <div class="w-36 h-10 left-[1219px] top-[802.78px] absolute bg-blue-950">
+          <div class="w-32 h-10 left-[10px] top-0 absolute overflow-hidden">
+            <div class="w-16 h-4 left-[23.45px] top-[11.50px] absolute overflow-hidden">
+              <div class="w-16 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Learn More</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="w-[1920px] h-[853px] left-0 top-[1734.78px] absolute">
+      <div class="w-[1920px] h-[853px] left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-[853px] left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-[1920px] h-[843px] left-0 top-0 absolute">
+        <div class="w-[1920px] h-[843px] left-0 top-0 absolute overflow-hidden">
+          <div class="w-[1920px] h-[843px] left-0 top-0 absolute bg-white"></div>
+        </div>
+        <div class="w-[1211.86px] h-[723px] left-[60px] top-[60px] absolute overflow-hidden">
+          <div class="w-[1211.86px] h-[723px] left-0 top-0 absolute bg-white"></div>
+        </div>
+        <div class="w-64 h-5 left-[391.42px] top-[120px] absolute justify-center text-orange-400 text-base font-normal font-['Caudex']">WHY ORANGE COUNTY TRUSTS US</div>
+        <div class="w-[485.18px] h-20 left-[389.42px] top-[138px] absolute justify-center text-black text-4xl font-normal font-['Caudex'] leading-9">Reliable Service, Clean Job Sites,<br/>and Results That Last</div>
+        <div class="w-[459.66px] h-28 left-[391.42px] top-[221px] absolute justify-center text-black text-base font-normal font-['Inter'] leading-8">For over 25 years, homeowners in Huntington Beach,<br/>Newport Beach, Irvine, and throughout Orange County<br/>have trusted Edwards Painting Co. for quality work, reliable<br/>residential interior and exterior contracting services.</div>
+        <div class="w-[560px] h-96 left-[385.42px] top-[360.63px] absolute"></div>
+        <div class="w-[560px] h-96 left-[385.42px] top-[360.63px] absolute overflow-hidden">
+          <div class="w-[544px] h-80 left-[8px] top-[8px] absolute bg-white">
+            <div class="w-[544px] h-80 left-0 top-[8px] absolute">
+              <div class="w-3.5 h-4 left-0 top-[3px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">🕒</div>
+              <div class="w-44 h-5 left-[24.02px] top-0 absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">25+ Years Experience</div>
+              <div class="w-60 h-9 left-[24.02px] top-[23px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">Serving Orange County homeowners since<br/>1999.</div>
+              <div class="w-3.5 h-4 left-0 top-[77.18px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">🛡️</div>
+              <div class="w-40 h-5 left-[24.02px] top-[74.18px] absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">Licensed & Insured</div>
+              <div class="w-44 h-3.5 left-[24.02px] top-[97.18px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">Full protection on every project.</div>
+              <div class="w-2.5 h-4 left-0 top-[131.78px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">⭐</div>
+              <div class="w-40 h-5 left-[20.61px] top-[128.78px] absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">4.6-Star Yelp Rating</div>
+              <div class="w-52 h-3.5 left-[20.61px] top-[151.78px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">89 verified Orange County reviews.</div>
+              <div class="w-4 h-4 left-0 top-[186.37px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">✨</div>
+              <div class="w-36 h-5 left-[24.83px] top-[183.37px] absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">Spotless Job Sites</div>
+              <div class="w-52 h-3.5 left-[24.83px] top-[206.37px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">Cleaned daily. Organized throughout.</div>
+              <div class="w-3.5 h-4 left-0 top-[240.97px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">👷</div>
+              <div class="w-48 h-5 left-[24.02px] top-[237.97px] absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">One Trusted Contractor</div>
+              <div class="w-44 h-3.5 left-[24.02px] top-[260.97px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">Painting, carpentry, and repairs.</div>
+              <div class="w-4 h-4 left-0 top-[295.56px] absolute justify-center text-black text-lg font-normal font-['Times_New_Roman'] leading-4">✔️</div>
+              <div class="w-40 h-5 left-[25.24px] top-[292.56px] absolute justify-center text-neutral-900 text-base font-bold font-['Georgia']">Reliable Scheduling</div>
+              <div class="w-28 h-3.5 left-[25.24px] top-[315.56px] absolute justify-center text-zinc-800 text-sm font-normal font-['Times_New_Roman'] leading-5">On time. Every time.</div>
+            </div>
+          </div>
+        </div>
+        <div class="w-[588.14px] h-[723px] left-[1271.86px] top-[60px] absolute overflow-hidden">
+          <div class="w-[588.14px] h-[723px] left-0 top-0 absolute bg-stone-500"></div>
+          <img class="w-[588px] h-[723px] left-0 top-0 absolute" src="https://placehold.co/588x723" />
+        </div>
+      </div>
+    </div>
+    <div class="w-[1920px] h-52 left-0 top-[2587.78px] absolute">
+      <div class="w-[1920px] h-52 left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-52 left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-32 h-5 left-[906.45px] top-[65px] absolute text-center justify-center text-orange-400 text-lg font-normal font-['Inter'] leading-7">OUR PROCESS</div>
+      <div class="w-80 h-8 left-[800.56px] top-[96px] absolute text-center justify-center text-black text-2xl font-bold font-['Caudex'] leading-6">Simple. Professional. Reliable. </div>
+      <div class="w-[630.53px] h-7 left-[650.83px] top-[136px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">From first contact to final walkthrough, we make the process easy and stress-free.</div>
+    </div>
+    <div class="w-[1920px] h-[568px] left-0 top-[2803.78px] absolute">
+      <div class="w-[1920px] h-[568px] left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-[568px] left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-[898px] h-[544px] left-[511px] top-[12px] absolute overflow-hidden">
+        <div class="w-[882px] h-[526.09px] left-[8px] top-[8px] absolute bg-white overflow-hidden">
+          <div class="w-96 h-8 left-[41.08px] top-[146px] absolute text-center justify-center text-neutral-900 text-3xl font-bold font-['Georgia'] leading-7">Book Your Free Estimate</div>
+          <div class="w-72 h-11 left-[75.53px] top-[194.67px] absolute text-center justify-center text-neutral-900 text-base font-normal font-['Segoe_UI'] leading-7">Schedule online or call us. We will visit<br/>your home at a time that works for you.</div>
+          <div class="w-96 h-20 left-[16px] top-[44px] absolute">
+            <div class="w-20 h-20 left-[162.50px] top-0 absolute bg-neutral-600 rounded-[999px]">
+              <div class="w-8 h-8 left-[26px] top-[26px] absolute opacity-20 overflow-hidden">
+                <div class="w-3.5 h-1 left-[9.92px] top-[2.83px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-6 h-0 left-[4.96px] top-[12.75px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-6 h-6 left-[4.25px] top-[7.08px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+              </div>
+            </div>
+            <div class="w-10 h-10 left-[208.50px] top-[-10px] absolute bg-orange-500 rounded-[999px]">
+              <div class="w-4 h-4 left-[11.09px] top-[12px] absolute text-center justify-center text-white text-base font-bold font-['Segoe_UI'] leading-10">01</div>
+            </div>
+          </div>
+          <div class="w-80 h-8 left-[503.27px] top-[146px] absolute text-center justify-center text-neutral-900 text-3xl font-bold font-['Georgia'] leading-7">Detailed Consultation</div>
+          <div class="w-72 h-11 left-[510.70px] top-[194.67px] absolute text-center justify-center text-neutral-900 text-base font-normal font-['Segoe_UI'] leading-7">We will discuss your vision, assess the<br/>work, and provide a clear, honest quote.</div>
+          <div class="w-96 h-20 left-[455px] top-[44px] absolute">
+            <div class="w-20 h-20 left-[162.50px] top-0 absolute bg-neutral-600 rounded-[999px]">
+              <div class="w-8 h-8 left-[26px] top-[26px] absolute opacity-20 overflow-hidden">
+                <div class="w-2 h-0 left-[12.75px] top-[5.67px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-4 h-7 left-[8.50px] top-[5.67px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-2 h-1.5 left-[12.75px] top-[15.58px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+              </div>
+            </div>
+            <div class="w-10 h-10 left-[208.50px] top-[-10px] absolute bg-orange-500 rounded-[999px]">
+              <div class="w-4 h-4 left-[11.09px] top-[12px] absolute text-center justify-center text-white text-base font-bold font-['Segoe_UI'] leading-10">02</div>
+            </div>
+          </div>
+          <div class="w-64 h-8 left-[97.23px] top-[374.05px] absolute text-center justify-center text-neutral-900 text-3xl font-bold font-['Georgia'] leading-7">Expert Execution</div>
+          <div class="w-72 h-11 left-[72.75px] top-[422.72px] absolute text-center justify-center text-neutral-900 text-base font-normal font-['Segoe_UI'] leading-7">Our skilled team completes your project<br/>with precision and daily clean-up.</div>
+          <div class="w-96 h-20 left-[16px] top-[272.05px] absolute">
+            <div class="w-20 h-20 left-[162.50px] top-0 absolute bg-neutral-600 rounded-[999px]">
+              <div class="w-8 h-8 left-[26px] top-[26px] absolute opacity-20 overflow-hidden">
+                <div class="w-5 h-5 left-[9.92px] top-[4.25px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-2 h-2 left-[4.25px] top-[21.25px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+              </div>
+            </div>
+            <div class="w-10 h-10 left-[208.50px] top-[-10px] absolute bg-orange-500 rounded-[999px]">
+              <div class="w-4 h-4 left-[11.09px] top-[12px] absolute text-center justify-center text-white text-base font-bold font-['Segoe_UI'] leading-10">03</div>
+            </div>
+          </div>
+          <div class="w-72 h-8 left-[523.67px] top-[374.05px] absolute text-center justify-center text-neutral-900 text-3xl font-bold font-['Georgia'] leading-7">Final Walkthrough</div>
+          <div class="w-80 h-11 left-[504.81px] top-[422.72px] absolute text-center justify-center text-neutral-900 text-base font-normal font-['Segoe_UI'] leading-7">We review every detail with you to ensure<br/>complete satisfaction.</div>
+          <div class="w-96 h-20 left-[455px] top-[272.05px] absolute">
+            <div class="w-20 h-20 left-[162.50px] top-0 absolute bg-neutral-600 rounded-[999px]">
+              <div class="w-8 h-8 left-[26px] top-[26px] absolute opacity-20 overflow-hidden">
+                <div class="w-6 h-4 left-[5.67px] top-[8.50px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+                <div class="w-6 h-6 left-[4.25px] top-[4.25px] absolute outline outline-[2.83px] outline-offset-[-1.42px] outline-neutral-900"></div>
+              </div>
+            </div>
+            <div class="w-10 h-10 left-[208.50px] top-[-10px] absolute bg-orange-500 rounded-[999px]">
+              <div class="w-4 h-4 left-[11.09px] top-[12px] absolute text-center justify-center text-white text-base font-bold font-['Segoe_UI'] leading-10">04</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="w-[1920px] h-52 left-0 top-[3370.78px] absolute">
+      <div class="w-[1920px] h-52 left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-52 left-0 top-0 absolute bg-blue-950"></div>
+      </div>
+      <div class="w-32 h-5 left-[904.05px] top-[65px] absolute text-center justify-center text-orange-400 text-lg font-normal font-['Inter'] leading-7">TESTIMONIALS</div>
+      <div class="w-72 h-8 left-[825.64px] top-[96px] absolute text-center justify-center text-white text-2xl font-bold font-['Caudex'] leading-6">What Our Customers Say</div>
+      <div class="w-[648.48px] h-5 left-[641.86px] top-[138px] absolute text-center justify-center text-white text-base font-normal font-['Inter'] leading-7">Don't just take our word for it. Here's what Orange County homeowners are saying.</div>
+    </div>
+    <div class="w-[1920px] h-[597px] left-0 top-[3585.78px] absolute">
+      <div class="w-[1920px] h-[597px] left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-[597px] left-0 top-0 absolute bg-blue-950"></div>
+      </div>
+      <div class="w-[1920px] h-[597px] left-0 top-0 absolute">
+        <div class="w-[1920px] h-[597px] left-0 top-0 absolute overflow-hidden">
+          <div class="w-[1920px] h-[597px] left-0 top-0 absolute bg-blue-950"></div>
+        </div>
+        <div class="w-[651.75px] h-[595px] left-[1px] top-[1px] absolute overflow-hidden">
+          <div class="w-[651.75px] h-[595px] left-0 top-0 absolute bg-blue-950"></div>
+        </div>
+        <div class="w-14 h-14 left-[288.88px] top-[92px] absolute">
+          <div class="w-6 h-14 left-0 top-0 absolute bg-white"></div>
+          <div class="w-6 h-14 left-[36.45px] top-0 absolute bg-white"></div>
+        </div>
+        <div class="w-40 h-12 left-[238.33px] top-[227px] absolute text-center justify-center text-neutral-50 text-xl font-bold font-['Caudex']">Robert B.<br/>Huntington Beach</div>
+        <div class="w-72 h-60 left-[173.20px] top-[304px] absolute text-center justify-center text-white text-xl font-normal font-['Caudex'] leading-9">"Edwards Painting painted the<br/>exterior of our home about 5<br/>years ago. It was a great job at a<br/>great price and it still is. Jared<br/>Edwards is the owner and is<br/>always on the job, is polite and<br/>professional."</div>
+        <div class="w-[632.13px] h-[595px] left-[653.75px] top-[1px] absolute overflow-hidden">
+          <div class="w-[632.13px] h-[595px] left-0 top-0 absolute bg-blue-950"></div>
+        </div>
+        <div class="w-14 h-14 left-[938.81px] top-[92px] absolute">
+          <div class="w-6 h-14 left-0 top-0 absolute bg-white"></div>
+          <div class="w-6 h-14 left-[36.45px] top-0 absolute bg-white"></div>
+        </div>
+        <div class="w-40 h-12 left-[887.77px] top-[227px] absolute text-center justify-center text-neutral-50 text-xl font-bold font-['Caudex']">Theresa G.<br/>Huntington Beach</div>
+        <div class="w-72 h-60 left-[817.80px] top-[304px] absolute text-center justify-center text-white text-xl font-normal font-['Caudex'] leading-9">"Edwards Painting Co. was<br/>professional, polite, punctual and<br/>very detail oriented. We are so<br/>very happy with the way our<br/>house turned out! In the final<br/>walk through, there was not one<br/>correction needed."</div>
+        <div class="w-[632.13px] h-[595px] left-[1286.88px] top-[1px] absolute overflow-hidden">
+          <div class="w-[632.13px] h-[595px] left-0 top-0 absolute bg-blue-950"></div>
+        </div>
+        <div class="w-[632.13px] h-[595px] left-[1286.88px] top-[1px] absolute">
+          <div class="w-14 h-14 left-[285.06px] top-[91px] absolute">
+            <div class="w-6 h-14 left-0 top-0 absolute bg-white"></div>
+            <div class="w-6 h-14 left-[36.45px] top-0 absolute bg-white"></div>
+          </div>
+          <div class="w-36 h-12 left-[246.71px] top-[226px] absolute text-center justify-center text-neutral-50 text-xl font-bold font-['Caudex']">Skyler T.<br/>Orange County</div>
+          <div class="w-80 h-52 left-[162.20px] top-[303px] absolute text-center justify-center text-white text-xl font-normal font-['Caudex'] leading-9">"Edwards painting was awesome!<br/>Jared, the owner was super<br/>attentive, and went above and<br/>beyond to ensure my wife got the<br/>exact shade of grey her heart<br/>desired! Happy wife = happy life!"</div>
+        </div>
+      </div>
+    </div>
+    <div class="w-[1920px] h-[692px] left-0 top-[4179.78px] absolute">
+      <div class="w-[1920px] h-[692px] left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-[692px] left-0 top-0 absolute bg-white"></div>
+      </div>
+      <div class="w-96 h-5 left-[783.39px] top-[65px] absolute text-center justify-center text-orange-400 text-lg font-normal font-['Inter'] leading-7">ORANGE COUNTY PAINTING CONTRACTOR</div>
+      <div class="w-96 h-8 left-[782.31px] top-[96px] absolute text-center justify-center text-black text-2xl font-bold font-['Caudex'] leading-6">Serving All of Orange County, CA</div>
+      <div class="w-[651.24px] h-12 left-[640.48px] top-[138px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">From Huntington Beach to Irvine and everywhere in between, we bring professional<br/>painting and carpentry services to homeowners across Orange County.</div>
+      <div class="w-[980px] h-96 left-[470px] top-[206px] absolute overflow-hidden">
+        <div class="w-[964px] h-80 left-[8px] top-[8px] absolute bg-white">
+          <div class="w-[932px] h-72 left-[16px] top-[24px] absolute">
+            <div class="w-72 h-14 left-0 top-0 absolute bg-sky-950 rounded-2xl">
+              <div class="w-1.5 h-4 left-[22px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-36 h-4 left-[37.02px] top-[20px] absolute justify-center text-white text-lg font-normal font-['Segoe_UI']">Huntington Beach</div>
+            </div>
+            <div class="w-72 h-14 left-[316.66px] top-0 absolute bg-sky-950 rounded-2xl">
+              <div class="w-1.5 h-4 left-[22px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-32 h-4 left-[37.01px] top-[20px] absolute justify-center text-white text-lg font-normal font-['Segoe_UI']">Newport Beach</div>
+            </div>
+            <div class="w-72 h-14 left-[633.33px] top-0 absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-24 h-4 left-[39.01px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Costa Mesa</div>
+            </div>
+            <div class="w-72 h-14 left-0 top-[76px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-32 h-4 left-[39.02px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Fountain Valley</div>
+            </div>
+            <div class="w-72 h-14 left-[316.66px] top-[76px] absolute bg-sky-950 rounded-2xl">
+              <div class="w-1.5 h-4 left-[22px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-11 h-4 left-[37.01px] top-[20px] absolute justify-center text-white text-lg font-normal font-['Segoe_UI']">Irvine</div>
+            </div>
+            <div class="w-72 h-14 left-[633.33px] top-[76px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-12 h-4 left-[39.01px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Norco</div>
+            </div>
+            <div class="w-72 h-14 left-0 top-[152px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-28 h-4 left-[39.02px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Garden Grove</div>
+            </div>
+            <div class="w-72 h-14 left-[316.66px] top-[152px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-20 h-4 left-[39.01px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Santa Ana</div>
+            </div>
+            <div class="w-72 h-14 left-[633.33px] top-[152px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-16 h-4 left-[39.01px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Orange</div>
+            </div>
+            <div class="w-72 h-14 left-0 top-[228px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-12 h-4 left-[39.02px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Tustin</div>
+            </div>
+            <div class="w-72 h-14 left-[316.66px] top-[228px] absolute bg-sky-950 rounded-2xl">
+              <div class="w-1.5 h-4 left-[22px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-24 h-4 left-[37.01px] top-[20px] absolute justify-center text-white text-lg font-normal font-['Segoe_UI']">Seal Beach</div>
+            </div>
+            <div class="w-72 h-14 left-[633.33px] top-[228px] absolute bg-white rounded-2xl outline outline-2 outline-offset-[-2px] outline-zinc-300">
+              <div class="w-1.5 h-4 left-[24px] top-[20px] absolute justify-center text-orange-500 text-[9px] font-normal font-['Segoe_UI']">📍</div>
+              <div class="w-48 h-4 left-[39.01px] top-[20px] absolute justify-center text-neutral-900 text-lg font-normal font-['Segoe_UI']">Rossmoor / Los Alamitos</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="w-96 h-11 left-[785.77px] top-[584px] absolute text-center justify-center"><span class="text-black text-sm font-normal font-['Inter'] leading-6">Don't see your city? We likely serve your area too!<br/></span><span class="text-orange-400 text-sm font-normal font-['Inter'] leading-6">Check if we serve your area →</span><span class="text-black text-sm font-normal font-['Inter'] leading-6"> or </span><span class="text-black text-sm font-normal font-['Inter'] underline leading-6">Call </span><span class="text-black text-sm font-normal font-['Inter'] leading-6">(714) 225-5925</span></div>
+    </div>
+    <div class="w-[1920px] h-96 left-0 top-[4868.78px] absolute">
+      <div class="w-[1920px] h-96 left-0 top-0 absolute overflow-hidden">
+        <div class="w-[1920px] h-96 left-0 top-0 absolute bg-blue-950"></div>
+        <img class="w-[1920px] h-96 left-0 top-0 absolute opacity-50" src="https://placehold.co/1920x441" />
+      </div>
+      <div class="w-[600px] h-80 left-[666px] top-[77px] absolute border border-black"></div>
+      <div class="w-96 h-9 left-[781.36px] top-[147px] absolute text-center justify-center text-white text-3xl font-bold font-['Caudex'] leading-8">Ready to Improve Your Home?</div>
+      <div class="w-96 h-12 left-[783.22px] top-[223px] absolute text-center justify-center text-white text-sm font-normal font-['Inter'] leading-7">Schedule your free estimate to discuss your project,<br/>review options, and receive a clear, detailed quote.</div>
+      <div class="w-36 h-10 left-[795px] top-[293.60px] absolute bg-orange-400">
+        <div class="w-36 h-10 left-0 top-0 absolute overflow-hidden">
+          <div class="w-32 h-4 left-[8.41px] top-[11.50px] absolute overflow-hidden">
+            <div class="w-32 h-4 left-0 top-0 absolute text-center justify-center text-orange-100 text-sm font-normal font-['Inter']">Book Free Estimate</div>
+          </div>
+        </div>
+      </div>
+      <div class="w-40 h-10 left-[983px] top-[292.60px] absolute bg-white">
+        <div class="w-40 h-10 left-0 top-0 absolute overflow-hidden">
+          <div class="w-32 h-5 left-[8.78px] top-[11.50px] absolute overflow-hidden">
+            <div class="w-32 h-5 left-0 top-0 absolute text-center justify-center text-black text-sm font-normal font-['Inter'] tracking-widest">(714) 225-5925</div>
+          </div>
+          <div class="w-2.5 h-2.5 left-[140.20px] top-[16px] absolute overflow-hidden">
+            <div class="w-2.5 h-2.5 left-[0.01px] top-0 absolute bg-black"></div>
+          </div>
+        </div>
+      </div>
+      <div class="w-[458.79px] h-5 left-[736.70px] top-[346.60px] absolute text-center justify-center text-black text-base font-normal font-['Inter'] leading-7">✓ Free Estimates✓ No Obligation✓ Same-Week Appointments</div>
+    </div>
+  </div>
+  <div class="w-[1920px] h-[5174px] left-0 top-[79px] absolute">
+    <div class="w-[1920px] h-[5174px] left-0 top-0 absolute overflow-hidden">
+      <div class="w-[1920px] h-[508px] left-0 top-0 absolute bg-slate-700"></div>
+      <img class="w-[1920px] h-[508px] left-0 top-0 absolute opacity-30" src="https://placehold.co/1920x508" />
+    </div>
+    <div class="w-[1920px] h-[508px] left-0 top-0 absolute">
+      <div class="w-96 h-20 left-[470px] top-[116px] absolute justify-center text-white text-3xl font-bold font-['Caudex']">Orange County's Trusted<br/>Painting Contractor</div>
+      <div class="w-96 h-16 left-[470px] top-[69px] absolute"></div>
+      <div class="w-96 h-16 left-[470px] top-[69px] absolute overflow-hidden">
+        <div class="w-80 h-8 left-[8px] top-[8px] absolute bg-neutral-400/60 rounded-[999px] backdrop-blur-[3px]">
+          <div class="w-20 h-4 left-[14px] top-[9px] absolute justify-center text-orange-500 text-base font-normal font-['Segoe_UI'] leading-4 tracking-wider">★★★★★</div>
+          <div class="w-56 h-4 left-[111.50px] top-[9px] absolute justify-center text-white text-base font-normal font-['Segoe_UI'] leading-4">4.6 Stars • 89 Reviews on Yelp</div>
+        </div>
+      </div>
+      <div class="w-96 h-24 left-[483px] top-[220px] absolute justify-center text-white text-base font-normal font-['Inter'] leading-5 tracking-tight">Professional interior and exterior painting serving<br/>Huntington Beach, Seal Beach, Rossmoor, Los<br/>Alamitos, Garden Grove, Westminster, Huntington<br/>Harbour, and surrounding Orange County<br/>communities.</div>
+      <div class="w-56 h-10 left-[483px] top-[359px] absolute bg-white">
+        <div class="w-56 h-10 left-0 top-0 absolute overflow-hidden">
+          <div class="w-48 h-5 left-[11.91px] top-[11.50px] absolute overflow-hidden">
+            <div class="w-48 h-5 left-0 top-0 absolute text-center justify-center text-black text-base font-normal font-['Inter'] tracking-widest">Get Your Free Estimate</div>
+          </div>
+        </div>
+      </div>
+      <div class="w-40 h-10 left-[727px] top-[359px] absolute bg-white">
+        <div class="w-40 h-10 left-0 top-0 absolute overflow-hidden">
+          <div class="w-32 h-5 left-[8.78px] top-[11.50px] absolute overflow-hidden">
+            <div class="w-32 h-5 left-0 top-0 absolute text-center justify-center text-black text-sm font-normal font-['Inter'] tracking-widest">(714) 225-5925</div>
+          </div>
+          <div class="w-2.5 h-2.5 left-[140.20px] top-[16px] absolute overflow-hidden">
+            <div class="w-2.5 h-2.5 left-[0.01px] top-0 absolute bg-black"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-[1920px] h-[483px] left-0 top-[5383px] absolute">
+    <div class="w-[1920px] h-[483px] left-0 top-0 absolute overflow-hidden">
+      <div class="w-[1920px] h-[483px] left-0 top-0 absolute bg-blue-950"></div>
+    </div>
+    <div class="w-[1840px] h-72 left-[40px] top-[54px] absolute">
+      <div class="w-[938.78px] h-72 left-0 top-0 absolute"></div>
+      <div class="w-96 h-12 left-[7px] top-[-2px] absolute justify-center text-white text-4xl font-normal font-['Caudex'] leading-10">Edwards Painting Co.</div>
+      <div class="w-96 h-72 left-[938.78px] top-0 absolute"></div>
+      <div class="w-96 h-72 left-[938.78px] top-0 absolute">
+        <div class="w-24 h-5 left-[234.61px] top-[3px] absolute justify-center text-white text-sm font-normal font-['Inter'] underline leading-6">714-225-5925</div>
+        <div class="w-52 h-5 left-[235.61px] top-[29px] absolute justify-center text-white text-base font-normal font-['Inter'] leading-6">info@edwardspaintingco.com</div>
+        <div class="w-52 h-11 left-[234.61px] top-[68px] absolute justify-center text-white text-sm font-normal font-['Inter'] leading-6">17011 Beach Blvd Ste 900<br/>Huntington Beach, CA 92647</div>
+        <div class="w-44 h-1.5 left-[263.61px] top-[151px] absolute border-t border-black"></div>
+        <div class="w-36 h-7 left-[263.61px] top-[188px] absolute">
+          <img class="w-7 h-7 left-0 top-0 absolute" src="https://placehold.co/27x27" />
+          <img class="w-7 h-7 left-[37px] top-0 absolute" src="https://placehold.co/27x27" />
+          <img class="w-7 h-7 left-[74px] top-0 absolute" src="https://placehold.co/27x27" />
+          <img class="w-7 h-7 left-[111px] top-0 absolute" src="https://placehold.co/27x27" />
+        </div>
+      </div>
+      <div class="w-96 h-72 left-[1389.39px] top-0 absolute"></div>
+      <div class="w-40 h-28 left-[1655px] top-[3px] absolute justify-center"><span class="text-white text-base font-normal font-['Inter'] leading-6">Privacy Policy<br/>Accessibility Statement<br/>Terms & Conditions<br/>Refund Policy<br/></span><span class="text-black text-base font-normal font-['Inter'] leading-6"> </span></div>
+    </div>
+    <div class="w-96 h-4 left-[47px] top-[388px] absolute justify-center text-white text-xs font-normal font-['Inter'] leading-5">© 2035 by Edwards Painting Co.. Powered and secured by Wix </div>
+  </div>
+  <div class="w-[1920px] h-56 left-0 top-0 absolute">
+    <div class="w-[1920px] h-20 left-0 top-0 absolute overflow-hidden">
+      <div class="w-[1920px] h-56 left-0 top-0 absolute bg-blue-950"></div>
+      <div class="w-[724px] h-12 left-[338px] top-[16px] absolute">
+        <div class="w-12 h-5 left-[20.48px] top-[14px] absolute justify-center text-white text-base font-normal font-['Inter'] tracking-wide">Home</div>
+        <div class="w-16 h-5 left-[108.25px] top-[14px] absolute justify-center text-neutral-50 text-sm font-normal font-['Inter'] tracking-wide">Services</div>
+        <div class="w-14 h-5 left-[213.41px] top-[14px] absolute justify-center text-neutral-50 text-base font-normal font-['Inter'] tracking-wide">Gallery</div>
+        <div class="w-16 h-5 left-[310.06px] top-[14px] absolute justify-center text-neutral-50 text-sm font-normal font-['Inter'] tracking-wide">Reviews</div>
+        <div class="w-12 h-5 left-[413.25px] top-[14px] absolute justify-center text-neutral-50 text-base font-normal font-['Inter'] tracking-wide">About</div>
+        <div class="w-16 h-5 left-[502.69px] top-[14px] absolute justify-center text-neutral-50 text-base font-normal font-['Inter'] tracking-wide">Contact</div>
+        <div class="w-24 h-5 left-[605.58px] top-[14px] absolute justify-center text-neutral-50 text-sm font-normal font-['Inter'] tracking-wide">Service Area</div>
+      </div>
+      <div class="w-7 h-5 left-[1482px] top-[26px] absolute overflow-hidden">
+        <div class="w-7 h-7 left-[0.50px] top-[-4px] absolute overflow-hidden">
+          <div class="w-5 h-5 left-[4.62px] top-[4.62px] absolute bg-white"></div>
+        </div>
+      </div>
+      <div class="w-28 h-5 left-[1511px] top-[25px] absolute justify-center text-white text-base font-normal font-['Caudex'] underline leading-5">(714) 225-5925</div>
+      <div class="w-52 h-10 left-[1661px] top-[16px] absolute bg-amber-700 rounded-[10px]">
+        <div class="w-52 h-10 left-0 top-0 absolute overflow-hidden">
+          <div class="w-32 h-4 left-[34.09px] top-[12.50px] absolute overflow-hidden">
+            <div class="w-32 h-4 left-0 top-0 absolute text-center justify-center text-white text-sm font-normal font-['Inter']">Book Free Estimate</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img class="w-40 h-20 left-[39px] top-[7px] absolute" src="https://placehold.co/159x84" />
+  </div>
+  <div class="w-12 h-[0.01px] left-[866px] top-[60px] absolute opacity-0 rounded-3xl">
+    <div class="w-7 h-4 left-[24px] top-0 absolute text-center justify-center text-blue-600 text-sm font-normal font-['Liberation_Sans']">Skip</div>
+    <div class="w-3 h-4 left-[24px] top-[16px] absolute text-center justify-center text-blue-600 text-sm font-normal font-['Liberation_Sans']">to</div>
+    <div class="w-8 h-4 left-[24px] top-[32px] absolute text-center justify-center text-blue-600 text-sm font-normal font-['Liberation_Sans']">Main</div>
+    <div class="w-12 h-4 left-[24px] top-[48px] absolute text-center justify-center text-blue-600 text-sm font-normal font-['Liberation_Sans']">Content</div>
+  </div>
+</div>
