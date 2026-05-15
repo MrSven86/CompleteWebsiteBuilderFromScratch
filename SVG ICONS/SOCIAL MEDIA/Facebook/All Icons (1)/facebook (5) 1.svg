@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M256.813 486.83C384.297 486.83 487.642 383.484 487.642 256.001C487.642 128.518 384.297 25.1719 256.813 25.1719C129.33 25.1719 25.9844 128.518 25.9844 256.001C25.9844 383.484 129.33 486.83 256.813 486.83Z" fill="url(#paint0_linear_249_637)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M294.821 101.246H337.718V152.472H308.396C285.59 152.472 280.704 163.256 280.704 179.433V214.483H335.546V269.483H280.704V410.758H223.689V269.483H175.906V214.482H223.689V174.04C223.689 127.129 252.468 101.246 294.821 101.246Z" fill="white"/>
+<path d="M469.072 165.172C470.803 176.598 471.672 188.138 471.673 199.694C471.673 329.14 364.057 434.077 231.307 434.077C156.12 434.077 89.0059 400.407 44.9297 347.695C80.4053 429.555 161.914 486.829 256.811 486.829C384.294 486.829 487.64 383.483 487.64 256C487.678 224.778 481.36 193.874 469.072 165.172Z" fill="url(#paint1_radial_249_637)" style="mix-blend-mode:multiply"/>
+<path d="M40.9048 220.736C62.8647 276.986 157.126 292.735 251.442 255.913C345.759 219.091 409.981 141.138 382.454 87.3916C366.191 55.6379 313.039 27.0769 250.331 25.2734H249.988C149.055 28.2035 64.3858 95.9375 36.0901 188.312C35.3618 199.34 37.0035 210.396 40.9048 220.736Z" fill="url(#paint2_radial_249_637)"/>
+<defs>
+<linearGradient id="paint0_linear_249_637" x1="25.9844" y1="256.001" x2="487.641" y2="256.001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3C87D1"/>
+<stop offset="0.2015" stop-color="#377CC9"/>
+<stop offset="0.5611" stop-color="#2B5DB3"/>
+<stop offset="0.9944" stop-color="#193092"/>
+</linearGradient>
+<radialGradient id="paint1_radial_249_637" cx="0" cy="0" r="1" gradientTransform="matrix(206.959 -174.224 132.291 156.91 266.447 325.932)" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_249_637" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(212.417 150.541) scale(219.386 219.386)">
+<stop stop-color="white"/>
+<stop offset="0.0736" stop-color="white" stop-opacity="0.824"/>
+<stop offset="0.1652" stop-color="white" stop-opacity="0.633"/>
+<stop offset="0.262" stop-color="white" stop-opacity="0.463"/>
+<stop offset="0.362" stop-color="white" stop-opacity="0.32"/>
+<stop offset="0.4663" stop-color="white" stop-opacity="0.203"/>
+<stop offset="0.5761" stop-color="white" stop-opacity="0.113"/>
+<stop offset="0.6941" stop-color="white" stop-opacity="0.05"/>
+<stop offset="0.8259" stop-color="white" stop-opacity="0.012"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
