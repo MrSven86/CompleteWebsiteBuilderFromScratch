@@ -1,0 +1,135 @@
+<div style="width: 1920px; height: 751.92px; position: relative; background: #001F3F">
+  <div style="width: 1280px; height: 292.92px; left: 320px; top: 296px; position: absolute">
+    <div style="width: 384px; height: 292.92px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 368.40px; height: 65px; left: 0px; top: 131.92px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FAFBFC; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">We believe small businesses deserve better. Just<br/>because you’re small, doesn’t mean your site needs<br/>to be. Let us make you something amazing.</div>
+      <div style="width: 314px; height: 104.92px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 314px; height: 97.92px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 314px; height: 97.92px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 314px; height: 97.93px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 312.62px; height: 93.14px; left: 0px; top: 2.08px; position: absolute; background: white"></div>
+              <div style="width: 29.17px; height: 61.35px; left: 2.60px; top: 14.17px; position: absolute; background: white"></div>
+              <div style="width: 3.31px; height: 0.64px; left: 27.98px; top: 43.96px; position: absolute; background: white"></div>
+              <div style="width: 0.48px; height: 0.37px; left: 29.62px; top: 51.66px; position: absolute; background: white"></div>
+              <div style="width: 5.38px; height: 5.10px; left: 20.10px; top: 69.93px; position: absolute; background: white"></div>
+              <div style="width: 3.10px; height: 2.91px; left: 20.10px; top: 75.44px; position: absolute; background: white"></div>
+              <div style="width: 0.95px; height: 0.51px; left: 30.62px; top: 35.32px; position: absolute; background: white"></div>
+              <div style="width: 0.30px; height: 0.05px; left: 31.33px; top: 39.28px; position: absolute; background: white"></div>
+              <div style="width: 1.41px; height: 1.01px; left: 26.49px; top: 58.70px; position: absolute; background: white"></div>
+              <div style="width: 0.79px; height: 0.61px; left: 28.10px; top: 63.52px; position: absolute; background: white"></div>
+              <div style="width: 0.53px; height: 0.21px; left: 25.72px; top: 71.58px; position: absolute; background: white"></div>
+              <div style="width: 0.34px; height: 0.21px; left: 26.93px; top: 71.38px; position: absolute; background: white"></div>
+              <div style="width: 45.01px; height: 81.68px; left: 30.94px; top: 2.08px; position: absolute; background: white"></div>
+              <div style="width: 6.88px; height: 2.08px; left: 50.22px; top: 81.89px; position: absolute; background: white"></div>
+              <div style="width: 72.72px; height: 19.38px; left: 1.46px; top: 75.74px; position: absolute; background: white"></div>
+              <div style="width: 25.78px; height: 17.75px; left: 86.39px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 12.04px; height: 17.75px; left: 119.98px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 13.61px; height: 17.75px; left: 140.60px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 14.71px; height: 17.75px; left: 172.59px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 12.04px; height: 17.75px; left: 195.46px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 13.66px; height: 18.05px; left: 214.18px; top: 60.49px; position: absolute; background: white"></div>
+              <div style="width: 2.25px; height: 17.75px; left: 235.79px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 15.56px; height: 18px; left: 246.13px; top: 60.49px; position: absolute; background: white"></div>
+              <div style="width: 14.99px; height: 17.75px; left: 270.10px; top: 60.61px; position: absolute; background: white"></div>
+              <div style="width: 13.66px; height: 18.05px; left: 292.92px; top: 60.49px; position: absolute; background: white"></div>
+              <div style="width: 31.06px; height: 31.05px; left: 80.46px; top: 19.44px; position: absolute; background: white"></div>
+              <div style="width: 24.08px; height: 23.55px; left: 112.07px; top: 27.12px; position: absolute; background: white"></div>
+              <div style="width: 23.61px; height: 31.49px; left: 138.25px; top: 18.75px; position: absolute; background: white"></div>
+              <div style="width: 27.06px; height: 30.62px; left: 171.84px; top: 19.62px; position: absolute; background: white"></div>
+              <div style="width: 24.08px; height: 23.55px; left: 201.15px; top: 27.12px; position: absolute; background: white"></div>
+              <div style="width: 15.38px; height: 23.12px; left: 227.33px; top: 27.12px; position: absolute; background: white"></div>
+              <div style="width: 24.94px; height: 31.92px; left: 244.39px; top: 18.75px; position: absolute; background: white"></div>
+              <div style="width: 24.82px; height: 23.55px; left: 270.17px; top: 27.12px; position: absolute; background: white"></div>
+              <div style="width: 15.38px; height: 23.12px; left: 297.03px; top: 27.12px; position: absolute; background: white"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 223.36px; height: 56px; left: 0px; top: 232.92px; position: absolute; background: white; overflow: hidden; border-radius: 60px">
+        <div style="width: 129.93px; height: 24px; left: 48px; top: 16px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #001F3F; font-size: 16px; font-family: Oswald; font-weight: 700; text-transform: uppercase; line-height: 56px; word-wrap: break-word">Get Started Today</div>
+      </div>
+    </div>
+    <div style="width: 350px; height: 132px; left: 695.59px; top: 50px; position: absolute">
+      <div style="width: 42.69px; height: 24px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 43.02px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+      <div style="width: 41.81px; height: 24px; left: 196px; top: 0px; position: absolute">
+        <div style="width: 42.14px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">About</div>
+      </div>
+      <div style="width: 60.47px; height: 24px; left: 0px; top: 36px; position: absolute">
+        <div style="width: 60.86px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Reviews</div>
+      </div>
+      <div style="width: 32.03px; height: 24px; left: 196px; top: 36px; position: absolute">
+        <div style="width: 32.42px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Blog</div>
+      </div>
+      <div style="width: 86.86px; height: 24px; left: 0px; top: 72px; position: absolute">
+        <div style="width: 87.19px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Web Design</div>
+      </div>
+      <div style="width: 33.80px; height: 24px; left: 196px; top: 72px; position: absolute">
+        <div style="width: 34.10px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">SEO</div>
+      </div>
+      <div style="width: 120.08px; height: 24px; left: 0px; top: 108px; position: absolute">
+        <div style="width: 120.47px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Google PPC Ads</div>
+      </div>
+    </div>
+    <div style="width: 104.60px; height: 30px; left: 695.59px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FAFBFC; font-size: 20px; font-family: Oswald; font-weight: 700; text-transform: uppercase; line-height: 30px; word-wrap: break-word">Quick Links</div>
+    <div style="width: 186.41px; height: 144px; left: 1093.59px; top: 50px; position: absolute">
+      <div style="width: 61.14px; height: 24px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 16.67px; height: 16.67px; left: 0.83px; top: 1.67px; position: absolute; background: #BABABA"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 31.53px; height: 17px; left: 30px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">24/7</div>
+      </div>
+      <div style="width: 137.42px; height: 24px; left: 0px; top: 39px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 16.61px; height: 16.56px; left: 1.65px; top: 1.70px; position: absolute; background: #BABABA"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 109.79px; height: 17px; left: 28px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">(219) 576-2539</div>
+      </div>
+      <div style="width: 183.20px; height: 24px; left: 0px; top: 78px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 16.67px; height: 13.33px; left: 1.67px; top: 3.33px; position: absolute; background: #BABABA"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 153.52px; height: 17px; left: 30px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">ohwdinfo@gmail.com</div>
+      </div>
+      <div style="width: 126.06px; height: 24px; left: 0px; top: 117px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 14.13px; height: 16.72px; left: 2.93px; top: 1.66px; position: absolute; background: #BABABA"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 96.41px; height: 17px; left: 30px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">United States</div>
+      </div>
+    </div>
+    <div style="width: 189.94px; height: 30px; left: 1093.59px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FAFBFC; font-size: 20px; font-family: Oswald; font-weight: 700; text-transform: uppercase; line-height: 30px; word-wrap: break-word">Contact Information</div>
+  </div>
+  <div style="width: 1280px; height: 49px; left: 320px; top: 652.92px; position: absolute; border-top: 1px rgba(255, 255, 255, 0.20) solid">
+    <div style="width: 129.50px; height: 24px; left: 0px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">© Copyright 2025 </div>
+    <div style="width: 182px; height: 24px; left: 129.20px; top: 25px; position: absolute">
+      <div style="width: 182.34px; height: 17px; left: 0px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Oak Harbor Web Designs</div>
+    </div>
+    <div style="width: 99.58px; height: 24px; left: 1057.63px; top: 25px; position: absolute">
+      <div style="width: 99.93px; height: 17px; left: 0px; top: 3px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Privacy Policy</div>
+    </div>
+    <div style="width: 122.80px; height: 24px; left: 1157.20px; top: 25px; position: absolute">
+      <div style="width: 1px; height: 14px; left: 12px; top: 5px; position: absolute; background: white"></div>
+      <div style="width: 98.15px; height: 17px; left: 25px; top: 3px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Arial; font-weight: 400; line-height: 24px; word-wrap: break-word">Terms Of Use</div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 254px; left: 0px; top: -1px; position: absolute">
+    <div style="width: 1920px; height: 254px; left: 0px; top: -4px; position: absolute; background: white"></div>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+<div style="width: 1920px; height: 77px; position: relative; background: #140B26">
+  <div style="width: 1408px; height: 29px; left: 256px; top: 24px; position: absolute">
+    <div style="width: 281.59px; height: 29px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 104px; height: 29px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 17.64px; height: 17.64px; left: 59.62px; top: 5.56px; position: absolute; background: white"></div>
+        <div style="width: 17.64px; height: 23.20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        <div style="width: 17.64px; height: 23.20px; left: 41px; top: 5.55px; position: absolute; background: white"></div>
+        <div style="width: 3.48px; height: 16.61px; left: 20.12px; top: 6.07px; position: absolute; background: white"></div>
+        <div style="width: 13.81px; height: 16.61px; left: 25.40px; top: 6.07px; position: absolute; background: white"></div>
+        <div style="width: 15.65px; height: 17.64px; left: 88.35px; top: 5.56px; position: absolute; background: white"></div>
+        <div style="width: 3.48px; height: 16.61px; left: 79.64px; top: 6.07px; position: absolute; background: white"></div>
+        <div style="width: 4.15px; height: 4.09px; left: 84.46px; top: 5.55px; position: absolute; background: #FFC20E"></div>
+      </div>
+    </div>
+    <div style="width: 844.80px; height: 27px; left: 281.59px; top: 1px; position: absolute">
+      <div style="width: 105.30px; height: 18px; left: 266.89px; top: 5px; position: absolute">
+        <div style="width: 65.50px; height: 18px; left: 20px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 12.03px; font-family: Inter; font-weight: 600; text-transform: uppercase; line-height: 21px; word-wrap: break-word">Facebook</div>
+      </div>
+      <div style="width: 110.16px; height: 18px; left: 372.19px; top: 5px; position: absolute">
+        <div style="width: 70.36px; height: 18px; left: 20px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 11.70px; font-family: Inter; font-weight: 600; text-transform: uppercase; line-height: 21px; word-wrap: break-word">Instagram</div>
+      </div>
+      <div style="width: 95.55px; height: 18px; left: 482.35px; top: 5px; position: absolute">
+        <div style="width: 55.75px; height: 18px; left: 20px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 12.03px; font-family: Inter; font-weight: 600; text-transform: uppercase; line-height: 21px; word-wrap: break-word">Linkedin</div>
+      </div>
+    </div>
+    <div style="width: 93.14px; height: 16px; left: 1126.39px; top: 6px; position: absolute; text-align: right; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 12.58px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">© Dizparc 2021</div>
+    <div style="width: 94.88px; height: 20px; left: 1234.33px; top: 4px; position: absolute">
+      <div style="width: 95.08px; height: 16px; left: 0px; top: 2px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 12.47px; font-family: Inter; font-weight: 400; line-height: 20px; word-wrap: break-word">Integritetspolicy</div>
+    </div>
+  </div>
+</div>

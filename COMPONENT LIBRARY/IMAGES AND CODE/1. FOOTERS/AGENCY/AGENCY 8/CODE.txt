@@ -1,0 +1,70 @@
+<div style="width: 1440px; height: 434px; position: relative">
+  <div style="width: 1440px; height: 434px; left: 0px; top: 0px; position: absolute; background: white">
+    <div style="width: 119px; height: 24px; left: 165px; top: 205px; position: absolute"></div>
+    <div style="padding-top: 30px; padding-bottom: 30px; left: 134px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+      <div style="width: 1172px; height: 0px; outline: 1px #161B3D solid; outline-offset: -0.50px"></div>
+      <div style="width: 1170px; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 30px; display: inline-flex">
+        <div style="width: 370px; align-self: stretch; position: relative; overflow: hidden">
+          <div style="left: 0px; top: 190px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 40px; display: inline-flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 11.25px; height: 21px; left: 6px; top: 1.50px; position: absolute; background: #161B3D"></div>
+            </div>
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 18px; height: 14.63px; left: 3px; top: 4.68px; position: absolute; background: #161B3D"></div>
+            </div>
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 16.50px; height: 16.50px; left: 3.75px; top: 3.75px; position: absolute; background: #161B3D"></div>
+            </div>
+          </div>
+          <div style="width: 370px; left: 0px; top: 54px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; color: black; font-size: 18px; font-family: Mulish; font-weight: 400; line-height: 28px; word-wrap: break-word">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis eros sed risus sollicitudin fringilla dictum in metus. Sed ultrices mauris a facilisis varius.  </div>
+          </div>
+          <div style="left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="color: #161B3D; font-size: 20px; font-family: Kaushan Script; font-weight: 400; line-height: 30px; word-wrap: break-word">BlogRock</div>
+          </div>
+        </div>
+        <div style="width: 170px; align-self: stretch; position: relative"></div>
+        <div style="width: 170px; align-self: stretch; position: relative; overflow: hidden">
+          <div style="width: 193px; left: 0px; top: 0px; position: absolute; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+              <div style="align-self: stretch; color: #BDBDBD; font-size: 20px; font-family: Spartan; font-weight: 700; line-height: 34px; word-wrap: break-word">About me</div>
+              <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 2px; display: flex">
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">My Team</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">History</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">My Products</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Blogging</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 170px; align-self: stretch; position: relative; overflow: hidden">
+          <div style="width: 123px; left: 0px; top: 0px; position: absolute; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+              <div style="align-self: stretch; color: #BDBDBD; font-size: 20px; font-family: Spartan; font-weight: 700; line-height: 34px; word-wrap: break-word">Resources</div>
+              <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 2px; display: flex">
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Webinars</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Courses</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Books</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Marketing</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 170px; align-self: stretch; position: relative; overflow: hidden">
+          <div style="width: 193px; left: 0px; top: 0px; position: absolute; overflow: hidden; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 15px; display: inline-flex">
+              <div style="align-self: stretch; color: #BDBDBD; font-size: 20px; font-family: Spartan; font-weight: 700; line-height: 34px; word-wrap: break-word">Contact</div>
+              <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 2px; display: flex">
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Privacy Policy</div>
+                <div style="color: black; font-size: 18px; font-family: Mulish; font-weight: 600; line-height: 28px; word-wrap: break-word">Terms of use</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 1170px; height: 34px; position: relative; overflow: hidden">
+        <div style="left: 0px; top: 5px; position: absolute; text-align: center; color: #161B3D; font-size: 14px; font-family: Mulish; font-weight: 400; line-height: 24px; word-wrap: break-word">Blog Rock © 2020 All Right Reserved</div>
+      </div>
+    </div>
+  </div>
+</div>

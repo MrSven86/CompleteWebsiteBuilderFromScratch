@@ -1,0 +1,263 @@
+<div style="width: 1920px; height: 875.70px; position: relative">
+  <div style="width: 1920px; height: 875.70px; left: 0px; top: 0px; position: absolute; background: #10512A">
+    <div style="width: 1920px; height: 875.70px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 1920px; height: 875.70px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 1920px; height: 1196.24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 570.78px; height: 355.72px; left: 854.86px; top: 89.25px; position: absolute; background: rgba(11, 45, 14, 0.25)"></div>
+          <div style="width: 355.72px; height: 570.94px; left: 812.42px; top: 132.63px; position: absolute; background: rgba(11, 45, 14, 0.25)"></div>
+          <div style="width: 355.93px; height: 570.82px; left: 397.37px; top: 129.94px; position: absolute; background: rgba(11, 45, 14, 0.25)"></div>
+          <div style="width: 570.81px; height: 355.93px; left: 853.12px; top: -325.81px; position: absolute; background: rgba(11, 45, 14, 0.25)"></div>
+          <div style="width: 1919.58px; height: 1919.47px; left: 0.05px; top: -723.83px; position: absolute; background: rgba(11, 45, 14, 0.25)"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 1408px; height: 731.70px; left: 256px; top: 108px; position: absolute">
+      <div style="width: 448px; height: 110px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 448px; height: 110px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 448px; height: 110px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 448px; height: 110px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 340.47px; height: 95.79px; left: 107.53px; top: 13.38px; position: absolute; background: white"></div>
+              <div style="width: 26.60px; height: 16.58px; left: 39.85px; top: 38.01px; position: absolute; background: #BFEF1E"></div>
+              <div style="width: 16.58px; height: 26.61px; left: 37.87px; top: 40.03px; position: absolute; background: #BFEF1E"></div>
+              <div style="width: 16.59px; height: 26.61px; left: 18.52px; top: 39.91px; position: absolute; background: #BFEF1E"></div>
+              <div style="width: 26.61px; height: 16.59px; left: 39.76px; top: 18.66px; position: absolute; background: #BFEF1E"></div>
+              <div style="width: 89.47px; height: 89.47px; left: 0px; top: 0.11px; position: absolute; background: white"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 409.09px; height: 23px; left: 628px; top: 5.41px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 17.97px; font-family: Inter; font-weight: 500; line-height: 28px; word-wrap: break-word">The WordPress partner you’ve been looking for.</div>
+      <div style="width: 772.43px; height: 64.78px; left: 628px; top: 40.41px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.13px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Freshy is the world’s leading WordPress company and WordPress agency. We focus on website design,<br/>development, support, maintenance, and retainer services for WordPress CMS. We pride ourselves on best-<br/>in-industry expertise and reliability. We have supported over 2,400 amazing clients since our launch in 2011.</div>
+      <div style="width: 1408px; height: 126px; left: 0px; top: 110px; position: absolute; overflow: hidden">
+        <div style="width: 1920px; height: 1px; left: -256px; top: 63px; position: absolute; border-top: 1px #BFEF1E solid"></div>
+      </div>
+      <div style="width: 176.39px; height: 37px; left: 0px; top: 235px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 29.16px; font-family: Inter; font-weight: 500; line-height: 35.06px; word-wrap: break-word">Our services</div>
+      <div style="width: 663.50px; height: 316.64px; left: 0px; top: 298.06px; position: absolute">
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 191.11px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 191.31px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress website design</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 0px; position: absolute">
+          <div style="width: 177.81px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 178.01px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress development</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 0px; position: absolute">
+          <div style="width: 176.81px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 177.01px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress maintenance</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 36.78px; position: absolute">
+          <div style="width: 205.66px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 205.86px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress retained services</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 36.78px; position: absolute">
+          <div style="width: 136.83px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 137.03px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress hosting</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 36.78px; position: absolute">
+          <div style="width: 202px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 202.20px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress ADA compliance</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 73.56px; position: absolute">
+          <div style="width: 143.89px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 144.09px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress backups</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 73.56px; position: absolute">
+          <div style="width: 166.31px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 166.51px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress compliance</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 73.56px; position: absolute">
+          <div style="width: 100.80px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 101px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Marketing Pro</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 110.35px; position: absolute">
+          <div style="width: 161.02px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 161.22px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress conversion</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 110.35px; position: absolute">
+          <div style="width: 159px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 159.20px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress Divi theme</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 110.35px; position: absolute">
+          <div style="width: 210.03px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 210.23px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress Elementor builder</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 147.13px; position: absolute">
+          <div style="width: 140.05px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 140.25px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress security</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 147.13px; position: absolute">
+          <div style="width: 151.72px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 151.92px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress migration</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 147.13px; position: absolute">
+          <div style="width: 195.41px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 195.61px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress PCI compliance</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 44.78px; left: 0px; top: 183.91px; position: absolute">
+          <div style="width: 183.42px; height: 42.39px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 183.62px; height: 42.39px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress search engine<br/>optimization</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 44.78px; left: 221.16px; top: 183.91px; position: absolute">
+          <div style="width: 125.84px; height: 42.39px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 126.04px; height: 42.39px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.50px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress GDPR<br/>compliance</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 44.78px; left: 442.31px; top: 183.91px; position: absolute">
+          <div style="width: 127.14px; height: 42.39px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 127.34px; height: 42.39px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress speed<br/>optimization</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 243.08px; position: absolute">
+          <div style="width: 140.08px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 140.28px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress support</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 243.08px; position: absolute">
+          <div style="width: 188.64px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 188.84px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress theme experts</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 442.31px; top: 243.08px; position: absolute">
+          <div style="width: 159.16px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 159.36px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.13px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress white label</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 279.86px; position: absolute">
+          <div style="width: 189.70px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 189.90px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.50px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WooCommerce developer</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 221.16px; top: 279.86px; position: absolute">
+          <div style="width: 207.39px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 207.59px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.13px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Sell my web design company</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 130.64px; height: 37px; left: 690.50px; top: 235px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 29.91px; font-family: Inter; font-weight: 500; line-height: 35.06px; word-wrap: break-word">Our work</div>
+      <div style="width: 221.16px; height: 130.06px; left: 690.50px; top: 298.06px; position: absolute">
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 127.39px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 127.59px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Featured projects</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 35.89px; position: absolute">
+          <div style="width: 91.73px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 91.93px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.63px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Testimonials</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 71.78px; position: absolute">
+          <div style="width: 126.20px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 126.40px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.13px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Markets we serve</div>
+          </div>
+        </div>
+        <div style="width: 221.16px; height: 22.39px; left: 0px; top: 107.67px; position: absolute">
+          <div style="width: 138.78px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 138.98px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Industries we serve</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 122.14px; height: 37px; left: 938.66px; top: 235px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 28.41px; font-family: Inter; font-weight: 500; line-height: 35.06px; word-wrap: break-word">About us</div>
+      <div style="width: 221.17px; height: 273.63px; left: 938.66px; top: 298.06px; position: absolute">
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 82.31px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 82.51px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 14.88px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Why Freshy</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 35.89px; position: absolute">
+          <div style="width: 106.42px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 106.62px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Meet the team</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 71.78px; position: absolute">
+          <div style="width: 84.77px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 84.97px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">We’re hiring</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 107.67px; position: absolute">
+          <div style="width: 98.81px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 99.01px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Read the blog</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 143.56px; position: absolute">
+          <div style="width: 198.06px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 198.26px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">WordPress resource guides</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 179.45px; position: absolute">
+          <div style="width: 219.38px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 219.58px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.38px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Compare WordPress agencies</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 215.35px; position: absolute">
+          <div style="width: 96.39px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 96.59px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 14.75px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Privacy policy</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 251.24px; position: absolute">
+          <div style="width: 159.42px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 159.62px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.25px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">AI disclosure (llms.txt)</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 144.18px; height: 37px; left: 1186.83px; top: 235px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 29.03px; font-family: Inter; font-weight: 500; line-height: 35.06px; word-wrap: break-word">For clients</div>
+      <div style="width: 221.17px; height: 94.17px; left: 1186.83px; top: 298.06px; position: absolute">
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 104.53px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 104.73px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.63px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Client support</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 35.89px; position: absolute">
+          <div style="width: 118.17px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 118.37px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Knowledge base</div>
+          </div>
+        </div>
+        <div style="width: 221.17px; height: 22.39px; left: 0px; top: 71.78px; position: absolute">
+          <div style="width: 45.64px; height: 20px; left: 0px; top: 1px; position: absolute">
+            <div style="width: 45.84px; height: 20px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #FFF0D9; font-size: 15.75px; font-family: Inter; font-weight: 400; line-height: 22.40px; word-wrap: break-word">Terms</div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 88.78px; height: 28px; left: 1319.42px; top: 695.20px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 12.47px; font-family: Inter; font-weight: 400; line-height: 28px; word-wrap: break-word">© 2025 Freshy</div>
+      <div style="width: 270px; height: 45px; left: 0px; top: 686.70px; position: absolute">
+        <div style="width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 18.31px; height: 18px; left: 13.50px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 45px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 45px; height: 45px; left: 45px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 18px; height: 18px; left: 13.50px; top: 12.80px; position: absolute">
+            <div style="width: 16.18px; height: 14.63px; left: 0.94px; top: 1.69px; position: absolute; background: #BFEF1E"></div>
+          </div>
+        </div>
+        <div style="width: 45px; height: 45px; left: 90px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 16.13px; height: 18px; left: 14.63px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 45px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 45px; height: 45px; left: 135px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 20.57px; height: 18px; left: 12.38px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 18px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 45px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 45px; height: 45px; left: 180px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 17.61px; height: 19px; left: 13.84px; top: 13px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #BFEF1E; font-size: 19.80px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 45px; word-wrap: break-word"></div>
+        </div>
+        <div style="width: 45px; height: 45px; left: 225px; top: 0px; position: absolute; overflow: hidden; border-radius: 22.50px">
+          <div style="width: 18px; height: 18px; left: 13.50px; top: 13px; position: absolute">
+            <div style="width: 18.01px; height: 15.75px; left: -0.01px; top: 1.12px; position: absolute; background: #BFEF1E"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

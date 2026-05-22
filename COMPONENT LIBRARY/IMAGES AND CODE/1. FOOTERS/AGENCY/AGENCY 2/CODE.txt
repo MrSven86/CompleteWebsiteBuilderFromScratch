@@ -1,0 +1,25 @@
+<div style="width: 1920px; height: 334px; position: relative; background: #0A3748">
+  <div style="width: 1280px; height: 334px; left: 320px; top: 0px; position: absolute">
+    <div style="width: 139.13px; height: 42px; left: 570.44px; top: 48px; position: absolute; overflow: hidden">
+      <div style="width: 139.13px; height: 42px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 139.13px; height: 42px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 138.34px; height: 42px; left: 0px; top: 0px; position: absolute; background: black"></div>
+          <div style="width: 94.41px; height: 16.33px; left: 43.93px; top: 11.14px; position: absolute; background: white"></div>
+          <div style="width: 19px; height: 12.23px; left: 14.97px; top: 7.05px; position: absolute; background: linear-gradient(29deg, #4CBCE6 0%, #4FBDDC 18%, #58C1C3 49%, #67C89A 87%, #6DCB8B 100%)"></div>
+          <div style="width: 36.48px; height: 42px; left: 0px; top: 0px; position: absolute; background: linear-gradient(45deg, #4CBCE6 0%, #4FBDDC 18%, #58C1C3 49%, #67C89A 87%, #6DCB8B 100%)"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 145.81px; height: 28px; left: 359.02px; top: 124px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: IBM Plex Sans; font-weight: 500; line-height: 28px; word-wrap: break-word">sales@junipeer.io</div>
+    <div style="width: 167.28px; height: 28px; left: 544.52px; top: 124px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: IBM Plex Sans; font-weight: 500; line-height: 28px; word-wrap: break-word">support@junipeer.io</div>
+    <div style="width: 169.83px; height: 28px; left: 751.47px; top: 124px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: IBM Plex Sans; font-weight: 500; line-height: 28px; word-wrap: break-word">+46 (0)8 480 014 30</div>
+    <div style="width: 95.30px; height: 24px; left: 295.58px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Integrationer</div>
+    <div style="width: 47.20px; height: 24px; left: 430.53px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Teknik</div>
+    <div style="width: 85.49px; height: 24px; left: 517.39px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Prissättning</div>
+    <div style="width: 53.75px; height: 24px; left: 642.55px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Partner</div>
+    <div style="width: 53.89px; height: 24px; left: 735.94px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Om oss</div>
+    <div style="width: 59.49px; height: 24px; left: 829.47px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Logga in</div>
+    <div style="width: 56.21px; height: 24px; left: 928.58px; top: 210px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: IBM Plex Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Kontakt</div>
+    <div style="width: 230.40px; height: 20px; left: 524.98px; top: 290px; position: absolute; opacity: 0.80; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: IBM Plex Sans; font-weight: 400; line-height: 20px; word-wrap: break-word">© 2022 Junipeer. All rights reserved.</div>
+  </div>
+</div>

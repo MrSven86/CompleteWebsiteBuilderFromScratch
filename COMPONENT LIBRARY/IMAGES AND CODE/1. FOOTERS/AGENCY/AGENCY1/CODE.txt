@@ -1,0 +1,260 @@
+<div style="width: 1920px; height: 752.73px; position: relative; background: linear-gradient(180deg, rgba(8, 20, 56, 0) 0%, #081438 15%); overflow: hidden">
+  <div style="width: 1440px; height: 544.73px; left: 240px; top: 128px; position: absolute">
+    <div style="width: 40px; height: 38.55px; left: 20px; top: 0px; position: absolute">
+      <img style="width: 40px; height: 38.55px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/40x39" />
+    </div>
+    <div style="width: 720px; height: 42px; left: 720px; top: 0px; position: absolute">
+      <div style="width: 202.69px; height: 42px; left: 437.31px; top: 0px; position: absolute; border-radius: 33px">
+        <div style="width: 202.69px; height: 42px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 202.69px; height: 42px; left: 0px; top: 0px; position: absolute; background: white"></div>
+          <div style="width: 202.69px; height: 42px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #90298D 0%, #EC4067 100%); border-radius: 33px"></div>
+        </div>
+        <div style="width: 12px; height: 12px; left: 166.69px; top: 15px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 138px; height: 18px; left: 24px; top: 12px; position: absolute; text-align: right; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">Client Support</div>
+      </div>
+    </div>
+    <div style="width: 302.39px; height: 140.31px; left: 0px; top: 96.55px; position: absolute">
+      <div style="width: 195.41px; height: 44.31px; left: 20px; top: 0px; position: absolute; border-radius: 4px">
+        <div style="width: 172.99px; height: 15px; left: 1px; top: 14.31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">Website Platforms</div>
+        <div style="width: 12px; height: 12px; left: 182.41px; top: 14px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 135.98px; height: 17px; left: 20px; top: 51.31px; position: absolute">
+        <div style="width: 136.29px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">WordPress Website</div>
+      </div>
+      <div style="width: 112.44px; height: 17px; left: 20px; top: 83.31px; position: absolute">
+        <div style="width: 112.81px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Shopify Website</div>
+      </div>
+      <div style="width: 119.27px; height: 17px; left: 20px; top: 115.31px; position: absolute">
+        <div style="width: 119.65px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Hubspot Website</div>
+      </div>
+    </div>
+    <div style="width: 288px; height: 140.31px; left: 302.39px; top: 96.55px; position: absolute">
+      <div style="width: 179.34px; height: 44.31px; left: 20px; top: 0px; position: absolute; border-radius: 4px">
+        <div style="width: 156.91px; height: 15px; left: 1px; top: 14.31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">Website Services</div>
+        <div style="width: 12px; height: 12px; left: 166.34px; top: 14px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 84.08px; height: 17px; left: 20px; top: 51.31px; position: absolute">
+        <div style="width: 84.41px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Web Design</div>
+      </div>
+      <div style="width: 128.77px; height: 17px; left: 20px; top: 83.31px; position: absolute">
+        <div style="width: 129.17px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Web Development</div>
+      </div>
+      <div style="width: 223.88px; height: 17px; left: 20px; top: 115.31px; position: absolute">
+        <div style="width: 224.25px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Website Maintenance & Support</div>
+      </div>
+    </div>
+    <div style="width: 302.39px; height: 140.31px; left: 590.39px; top: 96.55px; position: absolute">
+      <div style="width: 177.09px; height: 44.31px; left: 20px; top: 0px; position: absolute; border-radius: 4px">
+        <div style="width: 154.66px; height: 15px; left: 1px; top: 14.31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">Clients We Serve</div>
+        <div style="width: 12px; height: 12px; left: 164.09px; top: 14px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 98.28px; height: 17px; left: 20px; top: 51.31px; position: absolute">
+        <div style="width: 98.63px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">SaaS Website</div>
+      </div>
+      <div style="width: 129.70px; height: 17px; left: 20px; top: 83.31px; position: absolute">
+        <div style="width: 130px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Corporate Website</div>
+      </div>
+      <div style="width: 145.06px; height: 17px; left: 20px; top: 115.31px; position: absolute">
+        <div style="width: 145.37px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Ecommerce Website</div>
+      </div>
+    </div>
+    <div style="width: 331.19px; height: 140.31px; left: 892.78px; top: 96.55px; position: absolute">
+      <div style="width: 186.50px; height: 44.31px; left: 20px; top: 0px; position: absolute; border-radius: 4px">
+        <div style="width: 164.08px; height: 15px; left: 1px; top: 14.31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">Markets We Serve</div>
+        <div style="width: 12px; height: 12px; left: 173.50px; top: 14px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 71.48px; height: 17px; left: 20px; top: 51.31px; position: absolute">
+        <div style="width: 71.79px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Pittsburgh</div>
+      </div>
+      <div style="width: 95.77px; height: 17px; left: 20px; top: 83.31px; position: absolute">
+        <div style="width: 96.12px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">New York City</div>
+      </div>
+      <div style="width: 85.41px; height: 17px; left: 20px; top: 115.31px; position: absolute">
+        <div style="width: 85.74px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Los Angeles</div>
+      </div>
+    </div>
+    <div style="width: 201.59px; height: 140.31px; left: 1223.97px; top: 96.55px; position: absolute">
+      <div style="width: 104.27px; height: 44.31px; left: 20px; top: 0px; position: absolute; border-radius: 4px">
+        <div style="width: 81.85px; height: 15px; left: 1px; top: 14.31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 700; text-transform: uppercase; line-height: 18px; letter-spacing: 1px; word-wrap: break-word">About Us</div>
+        <div style="width: 12px; height: 12px; left: 91.26px; top: 14px; position: absolute">
+          <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+            <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+              <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+              <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 55.56px; height: 17px; left: 20px; top: 51.31px; position: absolute">
+        <div style="width: 55.93px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Careers</div>
+      </div>
+      <div style="width: 59.27px; height: 17px; left: 20px; top: 83.31px; position: absolute">
+        <div style="width: 59.65px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">Partners</div>
+      </div>
+      <div style="width: 39.69px; height: 17px; left: 20px; top: 115.31px; position: absolute">
+        <div style="width: 40.01px; height: 17px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.60); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 32px; word-wrap: break-word">News</div>
+      </div>
+    </div>
+    <div style="width: 1440px; height: 307.88px; left: 0px; top: 236.86px; position: absolute">
+      <div style="width: 1400px; height: 1px; left: 20px; top: 55px; position: absolute; border-top: 1px rgba(255, 255, 255, 0.15) solid"></div>
+      <div style="width: 1080px; height: 172.41px; left: 0px; top: 88px; position: absolute">
+        <div style="width: 71.04px; height: 17px; left: 20px; top: 5px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.50); font-size: 16px; font-family: Archivo; font-weight: 500; line-height: 27.20px; word-wrap: break-word">Follow Us</div>
+        <div style="width: 73.30px; height: 23.94px; left: 20px; top: 39.19px; position: absolute">
+          <div style="width: 51.66px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">LinkedIn</div>
+          <div style="width: 12px; height: 12px; left: 61.30px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 78.75px; height: 23.94px; left: 111.28px; top: 39.19px; position: absolute">
+          <div style="width: 57.12px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">YouTube </div>
+          <div style="width: 12px; height: 12px; left: 66.75px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 86.34px; height: 23.94px; left: 205.02px; top: 39.19px; position: absolute">
+          <div style="width: 64.74px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">Instagram </div>
+          <div style="width: 12px; height: 12px; left: 74.34px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 62.86px; height: 23.94px; left: 303.34px; top: 39.19px; position: absolute">
+          <div style="width: 41.18px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">Twitter</div>
+          <div style="width: 12px; height: 12px; left: 50.86px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 62.42px; height: 23.94px; left: 378.19px; top: 39.19px; position: absolute">
+          <div style="width: 40.74px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">TikTok</div>
+          <div style="width: 12px; height: 12px; left: 50.42px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 170.81px; height: 17px; left: 20px; top: 87.62px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Archivo; font-weight: 600; line-height: 27.20px; word-wrap: break-word">Home Base: Pittsburgh</div>
+        <div style="width: 133.61px; height: 38.80px; left: 20px; top: 128.81px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.50); font-size: 14px; font-family: Archivo; font-weight: 500; line-height: 23.80px; word-wrap: break-word">812 Ivy St<br/>Pittsburgh, PA 15232</div>
+      </div>
+      <div style="width: 360px; height: 219.88px; left: 1080px; top: 88px; position: absolute">
+        <div style="width: 182.22px; height: 17px; left: 20px; top: 3px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.50); font-size: 16px; font-family: Archivo; font-weight: 300; line-height: 23.20px; word-wrap: break-word">We'd love to hear from you</div>
+        <div style="width: 120.03px; height: 23.94px; left: 20px; top: 38.19px; position: absolute">
+          <div style="width: 98.38px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 400; line-height: 23.94px; word-wrap: break-word">Book A Meeting</div>
+          <div style="width: 12px; height: 12px; left: 108.03px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 111.61px; height: 23.94px; left: 20px; top: 62.12px; position: absolute">
+          <div style="width: 89.95px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 400; line-height: 23.94px; word-wrap: break-word">631-393-6116</div>
+          <div style="width: 12px; height: 12px; left: 99.61px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 153.22px; height: 23.94px; left: 20px; top: 86.06px; position: absolute">
+          <div style="width: 131.52px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14px; font-family: Archivo; font-weight: 400; line-height: 23.94px; word-wrap: break-word">sayhi@huemor.rocks</div>
+          <div style="width: 12px; height: 12px; left: 141.22px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 234.29px; height: 15px; left: 20px; top: 176px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.70); font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">Copyright 2025 Huemor Designs LLC. </div>
+        <div style="width: 106.83px; height: 23.94px; left: 20px; top: 195.94px; position: absolute">
+          <div style="width: 85.16px; height: 15px; left: 0px; top: 4px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.70); font-size: 14px; font-family: Archivo; font-weight: 300; line-height: 23.94px; word-wrap: break-word">Privacy Policy</div>
+          <div style="width: 12px; height: 12px; left: 94.83px; top: 5.97px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+              <div style="width: 12px; height: 11.08px; left: 0px; top: 0.46px; position: absolute; overflow: hidden">
+                <div style="width: 10.72px; height: 1.80px; left: 1.14px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 1.79px; height: 10.82px; left: 10.07px; top: 0px; position: absolute; background: #EC4067"></div>
+                <div style="width: 10.61px; height: 10.72px; left: 0.78px; top: 0.36px; position: absolute; background: #EC4067"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
