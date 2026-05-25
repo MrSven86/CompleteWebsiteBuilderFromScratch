@@ -1,0 +1,189 @@
+<div style="width: 1920px; height: 801px; position: relative">
+  <div style="width: 1920px; height: 801px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 1920px; height: 780.98px; left: 0px; top: 135px; position: absolute">
+      <div style="width: 1888px; height: 620.48px; left: 16px; top: 0px; position: absolute; background: linear-gradient(0deg, black 0%, black 100%), white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); overflow: hidden; border-radius: 16px">
+        <div style="width: 1888px; height: 620.48px; left: 0px; top: 0px; position: absolute; overflow: hidden; border-radius: 16px">
+          <img style="width: 1888px; height: 620.48px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/1888x620" />
+        </div>
+        <div style="width: 1888px; height: 620.48px; left: 0px; top: 0px; position: absolute; background: linear-gradient(270deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.90) 90%)"></div>
+      </div>
+      <div style="width: 3.52px; height: 3.98px; left: 956.95px; top: 698.37px; position: absolute; transform: rotate(30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 3.52px; height: 3.98px; left: 960px; top: 700.13px; position: absolute; transform: rotate(-30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 3.52px; height: 3.98px; left: 956.95px; top: 698.37px; position: absolute; transform: rotate(30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 3.52px; height: 3.98px; left: 960px; top: 700.13px; position: absolute; transform: rotate(-30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 3.52px; height: 3.98px; left: 956.95px; top: 698.37px; position: absolute; transform: rotate(30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 3.52px; height: 3.98px; left: 960px; top: 700.13px; position: absolute; transform: rotate(-30deg); transform-origin: top left; opacity: 0; background: #2C3E50"></div>
+      <div style="width: 1165px; height: 507px; left: 326px; top: 860px; position: absolute">
+        <div style="width: 346px; height: 54px; left: 0px; top: 99px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 61.03px; font-family: Anton; font-weight: 400; text-transform: capitalize; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Why Us?</div>
+        <div style="width: 581px; height: 127px; left: 0px; top: 177px; position: absolute; justify-content: center; display: flex; flex-direction: column"><span style="color: #3F485D; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">As a </span><span style="color: #3F485D; font-size: 16px; font-family: Roboto; font-weight: 700; line-height: 24px; word-wrap: break-word">multi-generational</span><span style="color: #3F485D; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word"> family business, we deeply appreciate the values<br/>and hard-won knowledge we’ve accumulated over a half century. Our<br/>father Howard and grandfather Hal built Armstrong one project at a time,<br/>stressing two simple maxims: deliver the </span><span style="color: #3F485D; font-size: 16px; font-family: Roboto; font-weight: 700; line-height: 24px; word-wrap: break-word">highest quality products</span><span style="color: #3F485D; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">.<br/></span></div>
+        <div style="width: 235.63px; height: 52px; left: 0px; top: 400px; position: absolute; background: #FCAF17">
+          <div style="width: 14.36px; height: 16px; left: 189.63px; top: 18px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 16px; word-wrap: break-word"></div>
+          <div style="width: 141.94px; height: 18px; left: 32px; top: 17px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #26486E; font-size: 16px; font-family: Mukta Malar; font-weight: 500; line-height: 18px; word-wrap: break-word">Read More About Us</div>
+        </div>
+        <img style="width: 649.50px; height: 487.13px; left: 636px; top: 2px; position: absolute" src="https://placehold.co/650x487" />
+        <div style="width: 188px; height: 28px; left: 2px; top: 307px; position: absolute; overflow: hidden">
+          <div style="width: 6px; height: 6px; left: 0px; top: 11px; position: absolute; background: #161B3D; border-radius: 9999px"></div>
+          <div style="left: 16px; top: 0px; position: absolute; color: #161B3D; font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 28px; word-wrap: break-word">Responsive Layout</div>
+        </div>
+        <div style="width: 188px; height: 28px; left: 2px; top: 338px; position: absolute; overflow: hidden">
+          <div style="width: 6px; height: 6px; left: 0px; top: 11px; position: absolute; background: #161B3D; border-radius: 9999px"></div>
+          <div style="left: 16px; top: 0px; position: absolute; color: #161B3D; font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 28px; word-wrap: break-word">List item 2</div>
+        </div>
+        <div style="width: 208.68px; height: 25px; left: -5px; top: 50px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 25px; font-family: Bebas Neue; font-weight: 400; text-transform: uppercase; line-height: 25px; word-wrap: break-word">Taylor pressure washing</div>
+      </div>
+      <div style="width: 2258px; height: 142px; left: -338px; top: 620px; position: absolute; border-top: 1px #E0E0E0 solid; border-bottom: 1px #E0E0E0 solid">
+        <img style="width: 71px; height: 91px; left: 551.81px; top: 25.50px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/71x91" />
+        <img style="width: 206.63px; height: 62.67px; left: 700.63px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 206.63px; height: 62.67px; left: 917.25px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 206.63px; height: 62.67px; left: 1133.88px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 206.63px; height: 62.67px; left: 1350.50px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 185px; height: 91px; left: 1577.94px; top: 25.50px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/185x91" />
+        <img style="width: 206.63px; height: 62.67px; left: 1783.75px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 206.63px; height: 62.67px; left: 2000.38px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <img style="width: 206.63px; height: 62.67px; left: 2217px; top: 39.66px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/207x63" />
+        <div style="width: 25px; height: 25px; left: 5px; top: 57px; position: absolute">
+          <div style="width: 12.50px; height: 23.75px; left: 5.62px; top: 1.25px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 25px; height: 25px; left: 1260px; top: 57px; position: absolute">
+          <div style="width: 12.50px; height: 23.75px; left: 5.62px; top: 1.25px; position: absolute; background: white"></div>
+        </div>
+      </div>
+      <div style="width: 1920px; height: 56px; left: 0px; top: 760px; position: absolute; overflow: hidden">
+        <div style="width: 207.04px; height: 32px; left: 72px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #1</div>
+        <div style="width: 207.04px; height: 32px; left: 321px; top: 12px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #2</div>
+        <div style="width: 207.04px; height: 32px; left: 559px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #3</div>
+        <div style="width: 207.04px; height: 32px; left: 820px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #4</div>
+        <div style="width: 207.04px; height: 32px; left: 1092px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #5</div>
+        <div style="width: 207.04px; height: 32px; left: 1387px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #6</div>
+        <div style="width: 207.04px; height: 32px; left: 1648px; top: 10px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(3.68, 3.68, 3.68, 0.90); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 32px; word-wrap: break-word">Area in tampa #7</div>
+        <div style="width: 13.72px; height: 16px; left: 48px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 288px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 536px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 797px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 1069px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 1364px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+        <div style="width: 13.72px; height: 16px; left: 1625px; top: 19px; position: absolute">
+          <div style="width: 13.71px; height: 13.71px; left: 0px; top: 1.14px; position: absolute; background: #00AFEF"></div>
+        </div>
+      </div>
+      <div style="width: 1920px; height: 66.78px; left: 6px; top: 558px; position: absolute; background: linear-gradient(0deg, #EEEFEF 0%, rgba(239, 240, 240, 0.70) 55%, rgba(239, 240, 240, 0) 100%)"></div>
+    </div>
+    <div style="width: 1920px; height: 41px; left: 0px; top: 0px; position: absolute; background: #003B64">
+      <div style="width: 13px; height: 16px; left: 1123px; top: 18px; position: absolute; overflow: hidden">
+        <div style="width: 11.20px; height: 16px; left: 0.90px; top: 0px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 9.23px; height: 23px; left: 1417.89px; top: 15px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Noto Sans; font-weight: 400; word-wrap: break-word">|</div>
+      <div style="width: 271.03px; height: 18px; left: 1142px; top: 20px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Barlow; font-weight: 700; text-transform: uppercase; line-height: 18px; word-wrap: break-word">Window Hero Northern Tampa</div>
+      <div style="width: 139.02px; height: 18px; left: 1433px; top: 20px; position: absolute">
+        <div style="width: 15px; height: 17px; left: 0px; top: 0.50px; position: absolute; overflow: hidden">
+          <div style="width: 14.76px; height: 14.76px; left: 0.24px; top: 0.83px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 116.40px; height: 18px; left: 23px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 18px; font-family: Barlow; font-weight: 700; line-height: 18px; word-wrap: break-word">(813) 538-7800</div>
+      </div>
+    </div>
+    <div style="width: 670.05px; height: 20px; left: 763.94px; top: 78px; position: absolute">
+      <div style="width: 115.39px; height: 20px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 103.75px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 20px; font-family: Barlow; font-weight: 700; line-height: 20px; word-wrap: break-word">Residential </div>
+        <div style="width: 12px; height: 12px; left: 103.39px; top: 3px; position: absolute; overflow: hidden">
+          <div style="width: 11px; height: 11px; left: 0.31px; top: 0.33px; position: absolute; background: #003B64"></div>
+          <div style="width: 9.17px; height: 9.17px; left: 0.67px; top: 0.69px; position: absolute; background: #003B64"></div>
+        </div>
+      </div>
+      <div style="width: 122.23px; height: 20px; left: 155.39px; top: 0px; position: absolute">
+        <div style="width: 110.60px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 20px; font-family: Barlow; font-weight: 700; line-height: 20px; word-wrap: break-word">Commercial </div>
+        <div style="width: 12px; height: 12px; left: 110.23px; top: 3px; position: absolute; overflow: hidden">
+          <div style="width: 11px; height: 11px; left: 0.31px; top: 0.33px; position: absolute; background: #003B64"></div>
+          <div style="width: 9.17px; height: 9.17px; left: 0.67px; top: 0.69px; position: absolute; background: #003B64"></div>
+        </div>
+      </div>
+      <div style="width: 96.95px; height: 20px; left: 317.62px; top: 0px; position: absolute">
+        <div style="width: 85.28px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 20px; font-family: Barlow; font-weight: 700; line-height: 20px; word-wrap: break-word">About Us </div>
+        <div style="width: 12px; height: 12px; left: 84.96px; top: 3px; position: absolute; overflow: hidden">
+          <div style="width: 11px; height: 11px; left: 0.31px; top: 0.33px; position: absolute; background: #003B64"></div>
+          <div style="width: 9.17px; height: 9.17px; left: 0.67px; top: 0.69px; position: absolute; background: #003B64"></div>
+        </div>
+      </div>
+      <div style="width: 102.49px; height: 20px; left: 454.58px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 20px; font-family: Barlow; font-weight: 700; line-height: 20px; word-wrap: break-word">Expert Tips</div>
+      <div style="width: 73.65px; height: 20px; left: 596.70px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 20px; font-family: Barlow; font-weight: 700; line-height: 20px; word-wrap: break-word">Reviews</div>
+    </div>
+    <div style="width: 184.64px; height: 45px; left: 1466.68px; top: 65.50px; position: absolute; background: #FCAF17; box-shadow: 2px 3px 10px rgba(0, 59, 100, 0.50); border-radius: 3px">
+      <div style="width: 142.94px; height: 16.79px; left: 27.30px; top: 14.22px; position: absolute; transform: rotate(-2deg); transform-origin: top left; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 19.40px; font-family: Barlow; font-weight: 700; word-wrap: break-word">Get A Free Quote</div>
+    </div>
+    <img style="width: 469px; height: 154px; left: 127px; top: 11px; position: absolute" src="https://placehold.co/469x154" />
+    <div style="width: 144px; height: 24.72px; left: 300px; top: 151px; position: absolute; overflow: hidden">
+      <div style="width: 144px; height: 24.73px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 27.64px; height: 24.73px; left: 0px; top: 0px; position: absolute; background: #061B5D"></div>
+        <div style="width: 27.64px; height: 24.73px; left: 29.09px; top: 0px; position: absolute; background: #061B5D"></div>
+        <div style="width: 27.64px; height: 24.73px; left: 58.18px; top: 0px; position: absolute; background: #061B5D"></div>
+        <div style="width: 27.64px; height: 24.73px; left: 87.27px; top: 0px; position: absolute; background: #061B5D"></div>
+        <div style="width: 27.64px; height: 24.73px; left: 116.36px; top: 0px; position: absolute; background: #061B5D"></div>
+        <div style="width: 18.18px; height: 18.18px; left: 9.46px; top: 6.55px; position: absolute; opacity: 0.10; background: white"></div>
+        <div style="width: 18.18px; height: 18.18px; left: 38.54px; top: 6.55px; position: absolute; opacity: 0.10; background: white"></div>
+        <div style="width: 18.18px; height: 18.18px; left: 67.64px; top: 6.55px; position: absolute; opacity: 0.10; background: white"></div>
+        <div style="width: 18.18px; height: 18.18px; left: 96.73px; top: 6.55px; position: absolute; opacity: 0.10; background: white"></div>
+        <div style="width: 18.18px; height: 18.18px; left: 125.82px; top: 6.55px; position: absolute; opacity: 0.10; background: white"></div>
+        <div style="width: 18.18px; height: 17.45px; left: 5.09px; top: 3.64px; position: absolute; background: #FFCC15"></div>
+        <div style="width: 18.18px; height: 17.45px; left: 34.18px; top: 3.64px; position: absolute; background: #FFCC15"></div>
+        <div style="width: 18.18px; height: 17.45px; left: 63.27px; top: 3.64px; position: absolute; background: #FFCC15"></div>
+        <div style="width: 18.18px; height: 17.45px; left: 92.36px; top: 3.64px; position: absolute; background: #FFCC15"></div>
+        <div style="width: 18.18px; height: 17.45px; left: 121.46px; top: 3.64px; position: absolute; background: #FFCC15"></div>
+      </div>
+    </div>
+    <div style="width: 420.55px; height: 26.88px; left: 452px; top: 151.92px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 26.88px; word-wrap: break-word">Rated 4.95 – Over 5900+ Happy Customers</div>
+  </div>
+  <div style="width: 405.26px; height: 37.50px; left: 300px; top: 213px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 25px; font-family: Bebas Neue; font-weight: 400; line-height: 37.50px; word-wrap: break-word">#1 Pressure Washing Company in Palm Harbor, FL</div>
+  <div style="width: 657.15px; height: 193px; left: 300px; top: 264.89px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 76.80px; font-family: Anton; font-weight: 400; text-transform: uppercase; line-height: 77px; word-wrap: break-word">#1 pressure washing<br/>service in tampa bay!</div>
+  <div style="width: 628.21px; height: 54px; left: 300px; top: 488.89px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Roboto; font-style: italic; font-weight: 400; line-height: 30px; word-wrap: break-word">Taylor Pressure Washing is the go-to pressure washing and paver sealing<br/>company in Palm Harbor, FL, and the surrounding areas.</div>
+  <div style="width: 698.06px; height: 72px; left: 300px; top: 580.28px; position: absolute; overflow: hidden">
+    <div style="width: 720.06px; height: 72px; left: -11px; top: 0px; position: absolute">
+      <div style="width: 173.27px; height: 36px; left: 11px; top: 0px; position: absolute">
+        <div style="width: 143.47px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">pressure washing</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+      <div style="width: 138.53px; height: 36px; left: 206.27px; top: 0px; position: absolute">
+        <div style="width: 108.73px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">paver sealing</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+      <div style="width: 146.64px; height: 36px; left: 366.80px; top: 0px; position: absolute">
+        <div style="width: 116.84px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">house washing</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+      <div style="width: 136.81px; height: 36px; left: 535.44px; top: 0px; position: absolute">
+        <div style="width: 107.01px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">roof washing</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+      <div style="width: 165.06px; height: 36px; left: 11px; top: 36px; position: absolute">
+        <div style="width: 135.26px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">window cleaning</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+      <div style="width: 165.58px; height: 36px; left: 198.06px; top: 36px; position: absolute">
+        <div style="width: 135.78px; height: 36px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Bebas Neue; font-weight: 400; line-height: 36px; word-wrap: break-word">interior painting</div>
+        <div style="width: 20px; height: 20px; left: 5px; top: 8px; position: absolute; overflow: hidden">
+          <div style="width: 20px; height: 14.91px; left: 0px; top: 2.54px; position: absolute; background: #004AAD"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
