@@ -1,0 +1,38 @@
+<div style="width: 1200px; height: 813.99px; position: relative">
+  <div style="width: 436px; height: 72px; left: 395px; top: 0px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #0A0958; font-size: 60px; font-family: Anton; font-weight: 400; line-height: 82.80px; word-wrap: break-word">How It Works</div>
+  <div style="width: 1200px; height: 694.19px; left: 0px; top: 119.80px; position: absolute; background: #004AAD; overflow: hidden; outline: 1px #286ACA solid; outline-offset: -1px">
+    <div style="width: 392.66px; height: 672.19px; left: 11px; top: 11px; position: absolute; overflow: hidden">
+      <div style="width: 372.66px; height: 652.19px; left: 10px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.25); overflow: hidden">
+        <div style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; overflow: hidden; border-radius: 7.78px">
+          <img style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/373x405" />
+        </div>
+        <div style="width: 372.66px; height: 247.19px; left: 0px; top: 405px; position: absolute; background: white; overflow: hidden">
+          <div style="width: 14.78px; height: 43px; left: 25px; top: 15px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #286ACA; font-size: 36px; font-family: Bebas Neue; font-weight: 400; line-height: 43.20px; word-wrap: break-word">1</div>
+          <div style="width: 318.31px; height: 145px; left: 25px; top: 58.19px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A0958; font-size: 24px; font-family: Bebas Neue; font-weight: 400; word-wrap: break-word">Schedule Your Service<br/>Book your cleaning online or by phone.<br/>We’ll work around your trash<br/>collection day to clean your bins after<br/>they’ve been emptied.</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 392.66px; height: 672.19px; left: 403.66px; top: 11px; position: absolute; overflow: hidden">
+      <div style="width: 372.66px; height: 652.19px; left: 10px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.25); overflow: hidden">
+        <div style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; overflow: hidden; border-radius: 7.78px">
+          <img style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/373x405" />
+        </div>
+        <div style="width: 372.66px; height: 247.19px; left: 0px; top: 405px; position: absolute; background: white; overflow: hidden">
+          <div style="width: 14.78px; height: 43px; left: 25px; top: 15px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #286ACA; font-size: 36px; font-family: Bebas Neue; font-weight: 400; line-height: 43.20px; word-wrap: break-word">2</div>
+          <div style="width: 279.45px; height: 145px; left: 25px; top: 58.19px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A0958; font-size: 24px; font-family: Bebas Neue; font-weight: 400; word-wrap: break-word">We Clean Your Bins<br/>Using high-pressure hot steam and<br/>professional-grade equipment, we<br/>sanitize your bins, leaving them<br/>spotless inside and out.</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 392.66px; height: 672.19px; left: 796.31px; top: 11px; position: absolute; overflow: hidden">
+      <div style="width: 372.66px; height: 652.19px; left: 10px; top: 10px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.25); overflow: hidden">
+        <div style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; overflow: hidden; border-radius: 7.78px">
+          <img style="width: 372.66px; height: 405px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 0px; filter: blur(0px)" src="https://placehold.co/373x405" />
+        </div>
+        <div style="width: 372.66px; height: 247.19px; left: 0px; top: 405px; position: absolute; background: white; overflow: hidden">
+          <div style="width: 14.78px; height: 43px; left: 25px; top: 44px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #286ACA; font-size: 36px; font-family: Bebas Neue; font-weight: 400; line-height: 43.20px; word-wrap: break-word">3</div>
+          <div style="width: 300.59px; height: 116px; left: 25px; top: 87.19px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A0958; font-size: 24px; font-family: Bebas Neue; font-weight: 400; word-wrap: break-word">Enjoy Fresh, Clean Bins<br/>Say goodbye to unpleasant odors and<br/>hello to bins you’ll never be<br/>embarrassed to roll to the curb!</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

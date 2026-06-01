@@ -1,0 +1,32 @@
+<div style="width: 1465px; height: 342px; position: relative">
+  <div style="width: 1465px; height: 74px; left: 0px; top: 0px; position: absolute; border-bottom: 2px #DFE5EE solid">
+    <div style="width: 122.22px; height: 48px; left: 0px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 48px; font-family: Anton; font-weight: 400; text-transform: uppercase; line-height: 48px; word-wrap: break-word">F.A.Q.</div>
+    <div style="width: 134.73px; height: 45px; left: 1314px; top: 0px; position: absolute; background: #FCAF17; box-shadow: 2px 3px 10px rgba(0, 59, 100, 0.50); border-radius: 3px">
+      <div style="width: 87.86px; height: 16.88px; left: 27.31px; top: 14.13px; position: absolute; transform: rotate(-2deg); transform-origin: top left; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 19.40px; font-family: Barlow; font-weight: 700; word-wrap: break-word">ALL F.A.Q.</div>
+    </div>
+  </div>
+  <div style="width: 1465px; height: 73.30px; left: 0px; top: 98px; position: absolute; background: #EEF1F6; border-radius: 8px">
+    <div style="width: 1465px; height: 73.30px; left: 0px; top: 0px; position: absolute; border-radius: 8px">
+      <div style="width: 738.11px; height: 23px; left: 32px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 22px; font-family: Anton; font-weight: 400; line-height: 25.30px; word-wrap: break-word">Why should I hire Window Hero as my professional exterior cleaning company?</div>
+      <div style="width: 24px; height: 25px; left: 1386px; top: 24px; position: absolute; overflow: hidden">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0.62px; position: absolute; background: #003B64"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1465px; height: 73.30px; left: 0px; top: 183.29px; position: absolute; background: #EEF1F6; border-radius: 8px">
+    <div style="width: 1465px; height: 73.30px; left: 0px; top: 0px; position: absolute; border-radius: 8px">
+      <div style="width: 605.04px; height: 23px; left: 32px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 22px; font-family: Anton; font-weight: 400; line-height: 25.30px; word-wrap: break-word">How often should I hire a professional exterior cleaning service?</div>
+      <div style="width: 24px; height: 25px; left: 1386px; top: 24px; position: absolute; overflow: hidden">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0.62px; position: absolute; background: #003B64"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1465px; height: 73.30px; left: 0px; top: 268.59px; position: absolute; background: #EEF1F6; border-radius: 8px">
+    <div style="width: 1465px; height: 73.30px; left: 0px; top: 0px; position: absolute; border-radius: 8px">
+      <div style="width: 684.72px; height: 23px; left: 32px; top: 25px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #003B64; font-size: 22px; font-family: Anton; font-weight: 400; line-height: 25.30px; word-wrap: break-word">Is there a money-back guarantee for services provided by Window Hero?</div>
+      <div style="width: 24px; height: 25px; left: 1386px; top: 24px; position: absolute; overflow: hidden">
+        <div style="width: 24px; height: 24px; left: 0px; top: 0.62px; position: absolute; background: #003B64"></div>
+      </div>
+    </div>
+  </div>
+</div>

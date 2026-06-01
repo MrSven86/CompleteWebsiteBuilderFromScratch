@@ -1,0 +1,43 @@
+<div style="width: 1718px; height: 826px; position: relative">
+  <div style="width: 1718px; height: 826px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 783.19px; height: 544.84px; left: 0px; top: -100px; position: absolute">
+      <div style="width: 783.19px; height: 800.93px; left: 0px; top: 0px; position: absolute; overflow: hidden; background-image: url(https://placehold.co/783x801)">
+        <div style="width: 606.80px; height: 110px; left: 89px; top: 660px; position: absolute; background: rgba(255, 255, 255, 0.70); box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.10); border-radius: 50px; backdrop-filter: blur(10px)">
+          <div style="width: 242.45px; height: 50px; left: 40px; top: 30px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 30.10px; font-family: Inter; font-weight: 400; line-height: 50px; word-wrap: break-word">BRIAN CARLSON</div>
+          <div style="width: 274.89px; height: 26px; left: 292.25px; top: 40px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 20px; font-family: Liberation Sans; font-style: italic; font-weight: 400; line-height: 30px; word-wrap: break-word">- Owner of Roof Ninja Services</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 556px; left: 837px; top: 84px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #213C5A; font-size: 61.03px; font-family: Anton; font-weight: 400; text-transform: capitalize; line-height: 54px; letter-spacing: 1.50px; word-wrap: break-word">Built on Integrity.<br/>Powered by People.</div>
+    <div style="width: 209px; height: 46px; left: 837px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 25px; font-family: Bebas Neue; font-weight: 400; text-transform: uppercase; line-height: 25px; word-wrap: break-word">Meet the owner</div>
+  </div>
+  <div style="width: 702px; height: 189px; left: 840.02px; top: 235px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #818181; font-size: 24px; font-family: Kanit; font-weight: 400; line-height: 36px; word-wrap: break-word">Determined to change that, Brian launched Roof Ninja Services with a clear goal to deliver top-tier roofing solutions grounded in honesty, reliability, and customer care. Today, he leads a dedicated team that takes pride in everyproject, big or small.</div>
+  <div style="width: 50px; height: 50px; left: 840.02px; top: 453px; position: absolute; overflow: hidden">
+    <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; background: #004AAD"></div>
+    <div style="width: 24.20px; height: 27.27px; left: 13.39px; top: 11.36px; position: absolute; background: white"></div>
+  </div>
+  <div style="width: 101.20px; height: 18px; left: 905.02px; top: 454px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A2520; font-size: 18px; font-family: Cera Pro; font-weight: 700; line-height: 21.60px; word-wrap: break-word">Fast Quotes</div>
+  <div style="width: 661.94px; height: 24px; left: 905.02px; top: 479.60px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #52615E; font-size: 16px; font-family: Open Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Receive a confirmed quote within 48 business hours to keep your project moving quickly.</div>
+  <div style="width: 50px; height: 50px; left: 840.02px; top: 523.60px; position: absolute; overflow: hidden">
+    <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; background: #004AAD"></div>
+    <div style="width: 24.44px; height: 20.45px; left: 12.50px; top: 14.77px; position: absolute">
+      <div style="width: 6.11px; height: 6.11px; left: 9.15px; top: 9.24px; position: absolute; background: white"></div>
+      <div style="width: 10.19px; height: 5.24px; left: 7.11px; top: 15.21px; position: absolute; background: white"></div>
+      <div style="width: 6.11px; height: 6.11px; left: 16.29px; top: 9.24px; position: absolute; background: white"></div>
+      <div style="width: 7.45px; height: 5.25px; left: 16.99px; top: 15.20px; position: absolute; background: white"></div>
+      <div style="width: 6.11px; height: 6.11px; left: 2.04px; top: 9.24px; position: absolute; background: white"></div>
+      <div style="width: 7.41px; height: 5.25px; left: 0px; top: 15.20px; position: absolute; background: white"></div>
+      <div style="width: 7.01px; height: 6.70px; left: 8.70px; top: 0px; position: absolute; background: white"></div>
+      <div style="width: 7.01px; height: 6.70px; left: 15.84px; top: 2.04px; position: absolute; background: white"></div>
+      <div style="width: 7.01px; height: 6.70px; left: 1.58px; top: 2.04px; position: absolute; background: white"></div>
+    </div>
+  </div>
+  <div style="width: 151.99px; height: 18px; left: 905.02px; top: 524.60px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A2520; font-size: 18px; font-family: Cera Pro; font-weight: 700; line-height: 21.60px; word-wrap: break-word">Professional Team</div>
+  <div style="width: 584.06px; height: 24px; left: 905.02px; top: 550.19px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #52615E; font-size: 16px; font-family: Open Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Every painter is trained, punctual, and dedicated to precision on every surface.</div>
+  <div style="width: 50px; height: 50px; left: 840.02px; top: 594.19px; position: absolute; overflow: hidden">
+    <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; background: #004AAD"></div>
+    <div style="width: 22.73px; height: 22.73px; left: 13.64px; top: 13.64px; position: absolute; background: white"></div>
+  </div>
+  <div style="width: 179.72px; height: 18px; left: 905.02px; top: 595.19px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #0A2520; font-size: 18px; font-family: Cera Pro; font-weight: 700; line-height: 21.60px; word-wrap: break-word">Top Quality Materials</div>
+  <div style="width: 651.38px; height: 24px; left: 905.02px; top: 620.78px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #52615E; font-size: 16px; font-family: Open Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">We use premium paints for durable, vibrant finishes that stand up to time and weather.</div>
+</div>
