@@ -1,0 +1,130 @@
+<div style="width: 1926px; height: 2399px; position: relative; overflow: hidden">
+  <div style="width: 1920px; height: 2472px; left: 1915px; top: 2500px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: linear-gradient(0deg, rgba(255, 255, 255, 0.52) 34%, #E0EDFF 100%)"></div>
+  <div style="width: 100px; height: 100px; left: 549.53px; top: 45px; position: absolute"></div>
+  <div style="width: 100px; height: 100px; left: 537.53px; top: 1806px; position: absolute; overflow: hidden">
+    <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+      <div style="width: 34.29px; height: 20.91px; left: 38.68px; top: 19.63px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 36.01px; height: 54.65px; left: 37.67px; top: 1.43px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 15.41px; height: 14.01px; left: 39.24px; top: 35.95px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 4.15px; height: 21.06px; left: 62.21px; top: 56.08px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 13.96px; height: 45.15px; left: 33.54px; top: 23.13px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 2.55px; height: 12.55px; left: 35.69px; top: 64.59px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 11.33px; height: 11.38px; left: 43.33px; top: 48.47px; position: absolute; outline: 2.73px black solid; outline-offset: -1.36px"></div>
+      <div style="width: 7.42px; height: 5.70px; left: 26.73px; top: 7.73px; position: absolute; background: black"></div>
+      <div style="width: 5.84px; height: 7.48px; left: 44.05px; top: 2.41px; position: absolute; background: black"></div>
+      <div style="width: 4.09px; height: 8.30px; left: 36.02px; top: 2px; position: absolute; background: black"></div>
+    </div>
+  </div>
+  <div style="width: 231.44px; height: 32px; left: 472px; top: 1906px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Scientific Approach</div>
+  <div style="width: 100px; height: 100px; left: 877.53px; top: 1806px; position: absolute; overflow: hidden">
+    <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 0px; position: absolute; background: #707070"></div>
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 0px; position: absolute; background: black"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 170.08px; height: 32px; left: 842.66px; top: 1906px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Best Not Most</div>
+  <div style="width: 100px; height: 100px; left: 1217.53px; top: 1806px; position: absolute; overflow: hidden">
+    <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+        <div style="width: 94.46px; height: 78.57px; left: 2.77px; top: 0px; position: absolute; background: #8F8F8F"></div>
+        <div style="width: 94.44px; height: 57.55px; left: 2.79px; top: 21.03px; position: absolute; background: black"></div>
+        <div style="width: 44.85px; height: 39.71px; left: 27.51px; top: 2.08px; position: absolute; outline: 2.89px black solid; outline-offset: -1.44px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 256.68px; height: 32px; left: 1139.39px; top: 1906px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: black; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Neighborhood Teams</div>
+  <div style="width: 1360px; height: 385.81px; left: 248px; top: 95px; position: absolute">
+    <div style="width: 667px; height: 385.81px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 520.29px; height: 89px; left: 0px; top: 41.42px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 36px; font-family: Open Sans; font-weight: 800; line-height: 40px; word-wrap: break-word">Denver’s Most Caring House<br/>Cleaning Service</div>
+      <div style="width: 667px; height: 65.50px; left: 0px; top: 174.42px; position: absolute; border-left: 6px #219CD7 solid">
+        <div style="width: 608.12px; height: 48.75px; left: 26px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 24.75px; word-wrap: break-word">Our goal is for you to relax knowing that your family, your pets, and your<br/>home will be safe with us.</div>
+      </div>
+      <div style="width: 289.53px; height: 67.45px; left: 0px; top: 271.92px; position: absolute; background: #F1592A; border-radius: 32px">
+        <div style="width: 191.88px; height: 33px; left: 32px; top: 15px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Get Your Quote </div>
+        <div style="width: 34px; height: 34px; left: 223.53px; top: 17.45px; position: absolute">
+          <div style="width: 27.20px; height: 27.20px; left: 3.40px; top: 3.40px; position: absolute; background: white"></div>
+        </div>
+      </div>
+    </div>
+    <img style="width: 629px; height: 353.81px; left: 731px; top: 0px; position: absolute; box-shadow: 0px 10px 10px -5px rgba(0, 0, 0, 0.04), 0px 20px 25px -5px rgba(0, 0, 0, 0.10); border-radius: 16px" src="https://placehold.co/629x354" />
+  </div>
+  <div style="width: 896px; height: 150px; left: 480px; top: 580.80px; position: absolute">
+    <div style="width: 150px; height: 150px; left: 35.50px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 150px; height: 150px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 150px; height: 150px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+          <div style="width: 150px; height: 150px; left: 0px; top: 0px; position: absolute; background: #F7F7F7"></div>
+          <div style="width: 17.36px; height: 17.31px; left: 50.05px; top: 48.07px; position: absolute; background: #E72F22"></div>
+          <div style="width: 17.36px; height: 17.31px; left: 68.79px; top: 48.07px; position: absolute; background: #FDB002"></div>
+          <div style="width: 16.59px; height: 25.06px; left: 87.50px; top: 48.07px; position: absolute; background: #2F73F2"></div>
+          <div style="width: 3.71px; height: 25.36px; left: 106.34px; top: 39.49px; position: absolute; background: #239B40"></div>
+          <div style="width: 15.96px; height: 17.31px; left: 111.64px; top: 48.07px; position: absolute; background: #E72F22"></div>
+          <div style="width: 26.18px; height: 26.87px; left: 22.40px; top: 38.50px; position: absolute; background: #2F73F2"></div>
+          <div style="width: 12.62px; height: 12.02px; left: 22.69px; top: 82.95px; position: absolute; background: #FDB002"></div>
+          <div style="width: 12.62px; height: 12.02px; left: 39.43px; top: 82.95px; position: absolute; background: #FDB002"></div>
+          <div style="width: 12.62px; height: 12.02px; left: 56.18px; top: 82.95px; position: absolute; background: #FDB002"></div>
+          <div style="width: 12.62px; height: 12.02px; left: 72.92px; top: 82.95px; position: absolute; background: #FDB002"></div>
+          <div style="width: 12.62px; height: 12.02px; left: 89.67px; top: 82.95px; position: absolute; background: linear-gradient(90deg, #FDB002 80%, rgba(253, 176, 2, 0) 80%)"></div>
+          <div style="width: 21.35px; height: 11.78px; left: 105.96px; top: 82.73px; position: absolute; background: #6D6E71"></div>
+          <div style="width: 84.50px; height: 9.70px; left: 32.70px; top: 107.10px; position: absolute; background: #6D6E71"></div>
+        </div>
+      </div>
+    </div>
+    <img style="width: 150px; height: 150px; left: 260.50px; top: 0px; position: absolute" src="https://placehold.co/150x150" />
+    <img style="width: 151px; height: 150px; left: 485px; top: 0px; position: absolute" src="https://placehold.co/151x150" />
+    <img style="width: 151px; height: 150px; left: 710px; top: 0px; position: absolute" src="https://placehold.co/151x150" />
+  </div>
+  <div style="width: 927.61px; height: 40px; left: 464.38px; top: 894.80px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 36px; font-family: Open Sans; font-weight: 700; line-height: 40px; word-wrap: break-word">How Are We Denver’s Most Caring Cleaning Service?</div>
+  <div style="width: 890.18px; height: 168px; left: 483px; top: 972.80px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 36px; word-wrap: break-word">We’re a local Denver business founded in 2015 to help busy families and professionals. Our secret to great<br/>experiences starts with our maids. We hire at most 1 out of 100 applicants until we find that extraordinary<br/>person. We offer them a living wage and a full benefits package that you would expect from a good full-<br/>time job. Caring for our staff provides you with maids who care about you and your home. Plus, we use<br/>eco-friendly Green Seal Certified products.</div>
+  <div style="width: 1360px; height: 488px; left: 248px; top: 1231.80px; position: absolute">
+    <div style="width: 100px; height: 100px; left: 120px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+          <div style="width: 34.29px; height: 20.91px; left: 38.68px; top: 19.63px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 36.01px; height: 54.65px; left: 37.67px; top: 1.43px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 15.41px; height: 14.01px; left: 39.24px; top: 35.95px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 4.15px; height: 21.06px; left: 62.21px; top: 56.08px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 13.96px; height: 45.15px; left: 33.54px; top: 23.13px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 2.55px; height: 12.55px; left: 35.69px; top: 64.59px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 11.33px; height: 11.38px; left: 43.33px; top: 48.47px; position: absolute; outline: 2.73px #74838A solid; outline-offset: -1.36px"></div>
+          <div style="width: 7.42px; height: 5.70px; left: 26.73px; top: 7.73px; position: absolute; background: #74838A"></div>
+          <div style="width: 5.84px; height: 7.48px; left: 44.05px; top: 2.41px; position: absolute; background: #74838A"></div>
+          <div style="width: 4.09px; height: 8.30px; left: 36.02px; top: 2px; position: absolute; background: #74838A"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 231.44px; height: 32px; left: 54.47px; top: 100px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Scientific Approach</div>
+    <div style="width: 268.15px; height: 276px; left: 36.02px; top: 154px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 36px; word-wrap: break-word">We don’t just clean homes.<br/>We’ve built a system to ensure<br/>consistent, caring service with<br/>every visit. Our training is based<br/>on the “see one, do one, teach<br/>one” training method, so your<br/>maid is always learning and<br/>improving.</div>
+    <div style="width: 100px; height: 100px; left: 460px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+          <div style="width: 100px; height: 78.57px; left: 0px; top: 0px; position: absolute; background: #707070"></div>
+          <div style="width: 100px; height: 78.57px; left: 0px; top: 0px; position: absolute; background: #74838A"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 170.08px; height: 32px; left: 425.13px; top: 100px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Best Not Most</div>
+    <div style="width: 273.60px; height: 312px; left: 373.30px; top: 154px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 36px; word-wrap: break-word">We accept fewer than 1% of<br/>applicants because we don’t hire<br/>based on cleaning experience.<br/>Instead, we look for people with<br/>a proven history of care and<br/>service. Every maid graduates<br/>our training only when they are<br/>ready to provide care to our<br/>standards.</div>
+    <div style="width: 100px; height: 100px; left: 800px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+          <div style="width: 94.46px; height: 78.57px; left: 2.77px; top: 0px; position: absolute; background: #8F8F8F"></div>
+          <div style="width: 94.44px; height: 57.55px; left: 2.79px; top: 21.03px; position: absolute; background: #74838A"></div>
+          <div style="width: 44.85px; height: 39.71px; left: 27.51px; top: 2.08px; position: absolute; outline: 2.89px #74838A solid; outline-offset: -1.44px"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 256.68px; height: 32px; left: 721.86px; top: 100px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Neighborhood Teams</div>
+    <div style="width: 273px; height: 240px; left: 713.59px; top: 154px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 36px; word-wrap: break-word">Your maid is part of a cohort. A<br/>small team of maids that<br/>focuses on homes in your<br/>neighborhood. Cohorts meet<br/>weekly to share best practices<br/>and ensure your home gets the<br/>specialized attention it deserves.</div>
+    <div style="width: 100px; height: 100px; left: 1140px; top: 0px; position: absolute; overflow: hidden">
+      <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+        <div style="width: 100px; height: 78.57px; left: 0px; top: 10.71px; position: absolute; overflow: hidden">
+          <div style="width: 72.79px; height: 78.57px; left: 13.61px; top: 0px; position: absolute; background: #74838A"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 213.85px; height: 32px; left: 1083.25px; top: 100px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #15244F; font-size: 24px; font-family: Open Sans; font-weight: 700; line-height: 32px; word-wrap: break-word">Better Every Time</div>
+    <div style="width: 272.15px; height: 240px; left: 1054.02px; top: 154px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #131516; font-size: 18px; font-family: Open Sans; font-weight: 400; line-height: 36px; word-wrap: break-word">By your fourth clean, your maid<br/>will be cleaning to a standard<br/>you didn’t know was possible.<br/>And if we fall short? Our old<br/>fashioned no questions asked<br/>100% satisfaction guarantee<br/>means you have nothing to lose.</div>
+  </div>
+</div>

@@ -1,0 +1,80 @@
+<div style="width: 1920px; height: 716px; position: relative; background: #1A1A2D">
+  <div style="width: 1920px; height: 178px; left: 0px; top: 568px; position: absolute; border-top: 1px rgba(255, 255, 255, 0.10) solid">
+    <div style="width: 388.38px; height: 15px; left: 276px; top: 27px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.40); font-size: 12px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">© 2026 South Tampa Gutter & Window Cleaning. All rights reserved.</div>
+    <div style="width: 79.66px; height: 16px; left: 676.03px; top: 27px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.40); font-size: 12px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Privacy Policy</div>
+    <div style="width: 45.01px; height: 16px; left: 767.38px; top: 27px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: rgba(255, 255, 255, 0.40); font-size: 12px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">Careers</div>
+  </div>
+  <img style="width: 469px; height: 154px; left: 112px; top: 29px; position: absolute" src="https://placehold.co/469x154" />
+  <div style="width: 166.53px; height: 47.02px; left: 154px; top: 214px; position: absolute">
+    <div style="width: 53.83px; height: 19px; left: 40px; top: 1px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 22.40px; word-wrap: break-word">Phone:</div>
+    <div style="width: 126.93px; height: 20px; left: 40px; top: 24.39px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 17.60px; font-family: Roboto; font-weight: 600; line-height: 24.64px; word-wrap: break-word">443-234-0396</div>
+    <div style="width: 24px; height: 24px; left: 0px; top: 11.50px; position: absolute; overflow: hidden">
+      <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    </div>
+  </div>
+  <div style="width: 64.98px; height: 19px; left: 194px; top: 282.01px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 22.40px; word-wrap: break-word">License:</div>
+  <div style="width: 287.75px; height: 56.31px; left: 194px; top: 305.41px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 14.40px; font-family: Roboto; font-weight: 600; line-height: 20.16px; word-wrap: break-word">MHIC License: 165008<br/>MD Master Plumber/Gas Fitter: 76114<br/>WSSC Master Plumber Gas Fitter: 73043</div>
+  <div style="width: 24px; height: 24px; left: 154px; top: 310.44px; position: absolute; overflow: hidden">
+    <div style="width: 24px; height: 18.67px; left: 0px; top: 2.67px; position: absolute; background: white"></div>
+  </div>
+  <div style="left: 651px; top: 115px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; word-wrap: break-word">Our Services</div>
+  <div style="left: 949px; top: 115px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; word-wrap: break-word">Quick links</div>
+  <div style="left: 651px; top: 159px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; word-wrap: break-word">Links</div>
+  <div style="width: 112.98px; height: 26.88px; left: 1253px; top: 421px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 19.20px; font-family: Roboto; font-weight: 400; text-transform: uppercase; line-height: 26.88px; word-wrap: break-word">Follow Us</div>
+  <div style="width: 36.78px; height: 36.78px; left: 1309.78px; top: 457.88px; position: absolute; overflow: hidden">
+    <div style="width: 32px; height: 32px; left: 2.39px; top: 2.39px; position: absolute; overflow: hidden">
+      <div style="width: 28px; height: 28px; left: 2px; top: 2px; position: absolute; background: white"></div>
+    </div>
+  </div>
+  <div style="width: 36.78px; height: 36.78px; left: 1253px; top: 457.88px; position: absolute; overflow: hidden">
+    <div style="width: 32px; height: 32px; left: 2.39px; top: 2.39px; position: absolute; overflow: hidden">
+      <div style="width: 28.02px; height: 28.01px; left: 2px; top: 1.99px; position: absolute; background: white"></div>
+    </div>
+  </div>
+  <div style="width: 36.78px; height: 36.78px; left: 1366.56px; top: 457.88px; position: absolute; overflow: hidden">
+    <div style="width: 32px; height: 32px; left: 2.39px; top: 2.39px; position: absolute; overflow: hidden">
+      <div style="width: 27.99px; height: 31.99px; left: 2.01px; top: 0px; position: absolute; background: white"></div>
+    </div>
+  </div>
+  <div style="width: 262.50px; height: 311px; left: 1238px; top: 94px; position: absolute">
+    <div style="width: 232.50px; height: 193px; left: 15px; top: 83px; position: absolute">
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 163.74px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Monday 8am – 6pm</div>
+      </div>
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 33px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 166.64px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Tuesday 8am – 6pm</div>
+      </div>
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 66px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 194.37px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Wednesday 8am – 6pm</div>
+      </div>
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 99px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 172.92px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Thursday 8am – 6pm</div>
+      </div>
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 132px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 147.42px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Friday 8am – 6pm</div>
+      </div>
+      <div style="width: 232.50px; height: 28px; left: 0px; top: 165px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 0px; top: 4px; position: absolute; overflow: hidden">
+          <div style="width: 17.53px; height: 20px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        </div>
+        <div style="width: 171.72px; height: 28px; left: 30px; top: 0px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">Saturday 8am – 6pm</div>
+      </div>
+    </div>
+    <div style="left: 15px; top: 31px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 16px; font-family: Roboto; font-weight: 500; text-transform: uppercase; line-height: 24px; letter-spacing: 1px; word-wrap: break-word">Hours of Operation</div>
+  </div>
+</div>
