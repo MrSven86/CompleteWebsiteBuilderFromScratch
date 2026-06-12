@@ -576,13 +576,12 @@
 
 /* footer */
 .rw-footer {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
   padding: 14px 32px;
   border-top: 1px solid #F4F4F5;
-  flex-wrap: wrap;
-  gap: 8px;
+  gap: 16px;
 }
 .rw-footer__verified {
   display: flex;
@@ -594,6 +593,7 @@
 .rw-footer__power {
   font-size: .8125rem;
   color: #A1A1AA;
+  text-align: right;
 }
 .rw-footer__power strong {
   color: #52525B;
