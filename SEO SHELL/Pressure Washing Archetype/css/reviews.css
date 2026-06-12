@@ -102,6 +102,9 @@
 .rw-verified-badge {
   flex-shrink: 0;
   display: block;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
 }
 
 /* breakdown bars */
