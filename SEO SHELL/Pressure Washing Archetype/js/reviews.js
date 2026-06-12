@@ -243,11 +243,10 @@
             '</div>' +
           '</div>' +
           '<div class="rw-header__right">' +
-            verifiedByHTML +
             breakdownHTML +
           '</div>' +
         '</div>' +
-        '<div class="rw-filters"><span class="rw-filter-label">Filter:</span>' + filterHTML + '</div>' +
+        '<div class="rw-filters"><span class="rw-filter-label">Filter:</span>' + filterHTML + '<div class="rw-filters__verified">' + verifiedByHTML + '</div></div>' +
         '<div class="rw-grid" id="rw-grid"></div>' +
         '<div class="rw-pagination" id="rw-pagination"></div>' +
         gmbBtnHTML +

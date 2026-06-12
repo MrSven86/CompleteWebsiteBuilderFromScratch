@@ -82,12 +82,12 @@
 .rw-star { color: #D1D5DB; }
 .rw-star--on { color: #F59E0B; }
 
-/* verified by google badge */
+/* verified by google badge — lives in filter row, pushed right */
+.rw-filters__verified { margin-left: auto; }
 .rw-verified-by {
   display: flex;
   align-items: center;
   gap: 6px;
-  margin-bottom: 14px;
 }
 .rw-verified-label {
   font-size: .9375rem;
