@@ -249,7 +249,6 @@
         '<div class="rw-filters"><span class="rw-filter-label">Filter:</span>' + filterHTML + '<div class="rw-filters__verified">' + verifiedByHTML + '</div></div>' +
         '<div class="rw-grid" id="rw-grid"></div>' +
         '<div class="rw-pagination" id="rw-pagination"></div>' +
-        gmbBtnHTML +
         '<div class="rw-footer">' +
           '<span class="rw-footer__verified">' +
             '<svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true" style="flex-shrink:0">' +
@@ -258,6 +257,7 @@
             '</svg>' +
             'All reviews are independently verified' +
           '</span>' +
+          (GMB_URL ? '<a class="rw-gmb-btn" href="' + GMB_URL + '" target="_blank" rel="noopener noreferrer">Review Us on Google <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="margin-left:6px;flex-shrink:0"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>' : '') +
           '<span class="rw-footer__power">Powered by <strong>Velocity</strong></span>' +
         '</div>' +
       '</div>';
