@@ -90,20 +90,20 @@
   margin-bottom: 14px;
 }
 .rw-verified-label {
-  font-size: .75rem;
+  font-size: .9375rem;
   color: #A1A1AA;
   white-space: nowrap;
 }
 .rw-google-wordmark {
-  height: 18px;
+  height: 28px;
   width: auto;
   display: block;
 }
 .rw-verified-badge {
   flex-shrink: 0;
   display: block;
-  width: 42px;
-  height: 42px;
+  width: 62px;
+  height: 62px;
   object-fit: contain;
 }
 
