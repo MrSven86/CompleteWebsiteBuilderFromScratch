@@ -590,6 +590,9 @@
   gap: 8px;
 }
 .rw-footer__verified {
+  display: flex;
+  align-items: center;
+  gap: 6px;
   font-size: .8125rem;
   color: #A1A1AA;
 }

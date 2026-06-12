@@ -252,8 +252,9 @@
         gmbBtnHTML +
         '<div class="rw-footer">' +
           '<span class="rw-footer__verified">' +
-            '<svg viewBox="0 0 16 16" fill="none" aria-hidden="true" style="width:14px;height:14px;display:inline;margin-right:4px;vertical-align:middle;">' +
+            '<svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true" style="flex-shrink:0">' +
               '<circle cx="8" cy="8" r="7" stroke="#9CA3AF" stroke-width="1.5"/>' +
+              '<path d="M5 8l2 2 4-4" stroke="#9CA3AF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>' +
             '</svg>' +
             'All reviews are independently verified' +
           '</span>' +
