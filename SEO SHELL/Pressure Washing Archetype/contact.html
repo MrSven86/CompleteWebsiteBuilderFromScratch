@@ -4,16 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <title>Contact Company — MyLogo</title>
-  <meta name="description" content="Get in touch — call, email, or send us a message. We'll be happy to help." />
-  <meta property="og:title" content="Contact Company — MyLogo" />
-  <meta property="og:description" content="Different ways to contact us." />
+  <title>Contact [Company Name] — Get a Free Quote in [CITY]</title>
+  <meta name="description" content="Contact [Company Name] in [CITY] for a free pressure washing estimate. Call, email, or fill out our quick form — we respond fast." />
+  <meta property="og:title" content="Contact [Company Name] — Get a Free Quote in [CITY]" />
+  <meta property="og:description" content="Reach out to [Company Name] — locally owned, professionally operated exterior cleaning in [CITY]." />
   <link rel="canonical" href="https://example.com/contact" />
   <meta property="og:url" content="https://example.com/contact" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="icon" href="/favicon.png" type="image/png" />
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/reviews.css" />
 
   <script type="application/ld+json">
   [
@@ -90,7 +91,8 @@
       <!-- About Us -->
       <a href="about.html">About Us</a>
 
-      <a href="#">Reviews</a>
+      <a href="reviews.html">Reviews</a>
+      <a href="contact.html">Contact Us</a>
     </nav>
     <a href="contact.html#free-quote" class="nav-cta"><span>Get A Free Quote</span></a>
     <button class="nav-hamburger" id="hamburger" aria-label="Open menu"><span></span><span></span><span></span></button>
@@ -113,7 +115,7 @@
       </div>
       <a href="services/commercial.html">Commercial</a>
       <a href="about.html">About Us</a>
-      <a href="#">Reviews</a>
+      <a href="reviews.html">Reviews</a>
       <a href="tel:8135387800">📞 (813) 538-7800</a>
     </nav>
     <a href="contact.html#free-quote" class="mobile-nav__cta">Get A Free Quote</a>
@@ -122,85 +124,255 @@
 
 <main>
 
-  <!-- DARK HERO -->
-  <section class="page-hero">
-    <div class="container">
-      <nav class="breadcrumb"><a href="index.html">Home</a><span class="breadcrumb__sep">›</span><span class="breadcrumb__current">Contact</span></nav>
-      <h1 class="page-hero__title">Contact Company</h1>
-      <p class="page-hero__subtitle">A friendly here&#8217;s the different ways you can contact us text</p>
-    </div>
-  </section>
-
-  <!-- CONTACT INFO + FORM -->
-  <section class="contact-page-section" id="free-quote">
-    <div class="container">
-      <div class="contact-info">
-        <div class="contact-info-item">
-          <div class="contact-info-item__icon">
-            <svg width="20" height="26" viewBox="0 0 20 26" fill="none" aria-hidden="true"><path d="M10.97 25.34C11.88 24.22 13 22.72 14.32 20.82C15.64 18.96 16.83 17.03 17.88 15.03C18.89 13.03 19.43 11.27 19.5 9.75C19.43 6.97 18.48 4.67 16.66 2.84C14.83 1.02 12.53 0.07 9.75 0C6.97 0.07 4.67 1.02 2.84 2.84C1.02 4.67 0.07 6.97 0 9.75C0.07 11.27 0.61 13.03 1.63 15.03C2.67 17.03 3.86 18.96 5.18 20.82C6.5 22.72 7.62 24.22 8.53 25.34C8.87 25.75 9.28 25.95 9.75 25.95C10.22 25.95 10.63 25.75 10.97 25.34ZM9.75 6.5C10.97 6.53 11.9 7.08 12.54 8.13C13.15 9.21 13.15 10.29 12.54 11.38C11.9 12.42 10.97 12.97 9.75 13C8.53 12.97 7.6 12.42 6.96 11.38C6.35 10.29 6.35 9.21 6.96 8.13C7.6 7.08 8.53 6.53 9.75 6.5Z" fill="#00A9E2"/></svg>
-          </div>
-          <div>
-            <p class="contact-info-item__title">Located</p>
-            <p class="contact-info-item__value">Full adress</p>
-          </div>
-        </div>
-        <div class="contact-info-item">
-          <div class="contact-info-item__icon">
-            <svg width="32" height="32" viewBox="0 0 31 29" fill="none" aria-hidden="true"><path d="M26.15 19.76C27.32 20.93 28.29 22.12 29.12 23.6C29.27 23.86 29.63 23.91 29.85 23.7C30.94 22.6 31.04 21.14 30.43 20.07C29.34 18.18 27.77 16.6 25.88 15.52C24.74 14.87 23.28 15.07 22.34 16.01C22.07 16.39 22.13 16.7 22.37 16.83C23.85 17.67 25 18.61 26.15 19.76Z" fill="#075A78"/><path d="M25.28 20.63C24.01 19.37 22.73 18.35 20.99 17.5C20.87 17.44 20.74 17.44 20.62 17.49C17.16 18.85 11.95 13.67 13.31 10.19C13.36 10.07 13.36 9.93 13.3 9.82C11.75 6.72 9.2 4.22 6.28 2.54C6.07 2.42 5.8 2.48 5.67 2.68C-1.93 13.98 16.74 32.71 28.09 25.15C28.28 25.02 28.35 24.76 28.24 24.55C27.42 23.02 26.46 21.81 25.28 20.63Z" fill="#075A78"/></svg>
-          </div>
-          <div>
-            <p class="contact-info-item__title">Give Us A Call</p>
-            <p class="contact-info-item__value">(562) xxxxxxx</p>
-          </div>
-        </div>
-        <div class="contact-info-item">
-          <div class="contact-info-item__icon">
-            <svg width="26" height="27" viewBox="0 0 26 27" fill="none" aria-hidden="true"><path d="M2.44 3.8C1.76 3.83 1.18 4.07 0.71 4.51C0.27 4.99 0.03 5.56 0 6.24C0.03 7.05 0.36 7.69 0.96 8.17L12.04 16.5C12.68 16.9 13.32 16.9 13.96 16.5L25.04 8.17C25.64 7.69 25.97 7.05 26 6.24C25.97 5.56 25.73 4.99 25.29 4.51C24.82 4.07 24.24 3.83 23.56 3.8H2.44ZM0 9.49V20.05C0.03 20.96 0.36 21.73 0.96 22.34C1.57 22.95 2.34 23.27 3.25 23.3H22.75C23.66 23.27 24.43 22.95 25.04 22.34C25.64 21.73 25.97 20.96 26 20.05V9.49L14.93 17.77C14.35 18.21 13.71 18.43 13 18.43C12.29 18.43 11.65 18.21 11.07 17.77L0 9.49Z" fill="#00A9E2"/></svg>
-          </div>
-          <div>
-            <p class="contact-info-item__title">Email Us</p>
-            <p class="contact-info-item__value">email@email.com</p>
-          </div>
-        </div>
-        <div class="contact-info-item">
-          <div class="contact-info-item__icon" aria-hidden="true"></div>
-          <div>
-            <p class="contact-info-item__title">Business Hours</p>
-            <p class="contact-info-item__value">Call us to set up an appointment</p>
-          </div>
-        </div>
-        <div class="contact-info-item">
-          <div class="contact-info-item__icon" aria-hidden="true"></div>
-          <div>
-            <p class="contact-info-item__title">Fully Licensed &amp; Registered</p>
-            <p class="contact-info-item__value">License ID: xxxxxx (C-33 Painting)</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="contact-form">
-        <h2 class="contact-form__title">SET UP YOUR SCHEDULE HERE!</h2>
-        <form method="POST" action="#" novalidate>
-          <div class="form-row">
-            <div class="form-group"><label for="fname-c">Name <span class="req">*</span></label><input type="text" id="fname-c" name="fname" autocomplete="given-name" required /><span class="form-sublabel">First</span></div>
-            <div class="form-group"><label for="lname-c" style="visibility:hidden">Last</label><input type="text" id="lname-c" name="lname" autocomplete="family-name" required /><span class="form-sublabel">Last</span></div>
-          </div>
-          <div class="form-group"><label for="email-c">Email <span class="req">*</span></label><input type="email" id="email-c" name="email" autocomplete="email" required /></div>
-          <div class="form-group"><label for="phone-c">Phone Number <span class="req">*</span></label><input type="tel" id="phone-c" name="phone" autocomplete="tel" required /></div>
-          <div class="form-group"><label for="service-c">What Services Do You Need?</label><input type="text" id="service-c" name="service" /></div>
-          <div class="form-group"><label for="message-c">Comment or Message</label><textarea id="message-c" name="message"></textarea></div>
-          <button type="submit" class="form-submit">Submit</button>
-        </form>
+  <!-- SUBPAGE HERO BANNER -->
+  <section class="subpage-hero">
+    <div class="subpage-hero__inner">
+      <img src="assets/images/subpage-hero.png" alt="Contact JT's Pressure Washing" class="subpage-hero__bg" loading="eager" />
+      <div class="subpage-hero__overlay" aria-hidden="true"></div>
+      <div class="subpage-hero__content">
+        <nav class="breadcrumb">
+          <a href="index.html">Home</a>
+          <span class="breadcrumb__sep">›</span>
+          <span class="breadcrumb__current">Contact Us</span>
+        </nav>
+        <p class="subpage-hero__eyebrow">JT's Pressure Washing</p>
+        <h1 class="subpage-hero__title">Contact Us</h1>
+        <p class="subpage-hero__subtitle">Locally owned, professionally operated — trusted by homeowners across [CITY] for exceptional pressure washing results.</p>
       </div>
     </div>
   </section>
 
-  <!-- FULL-WIDTH MAP -->
-  <section class="map-full">
+  <!-- CONTACT SPLIT: INFO LEFT / FORM RIGHT -->
+  <section class="ct-section" id="free-quote">
     <div class="container">
-      <img src="assets/images/map.png" alt="Service area map" width="1440" height="384" loading="lazy" />
+      <div class="ct-split">
+
+        <!-- LEFT: Info -->
+        <div class="ct-split__left">
+          <p class="ct-eyebrow">Get in Touch</p>
+          <h2 class="ct-title">Contact Us</h2>
+          <p class="ct-body">Whether you need a free estimate, want to schedule a service, or just have a question — we're here and happy to help. Reach out by phone, email, or fill out the form and we'll get back to you fast.</p>
+
+          <div class="ct-info">
+            <div class="ct-info__row">
+              <span class="ct-info__icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 281 281" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M198.771 129.723C196.598 129.723 194.837 131.484 194.837 133.657V224.149C194.837 226.322 193.075 228.084 190.903 228.084H151.558V169.067C151.558 162.548 146.273 157.264 139.755 157.264H100.411C93.892 157.264 88.6072 162.548 88.6072 169.067V228.084H49.2628C47.0898 228.084 45.3286 226.322 45.3286 224.149V133.657C45.3286 131.484 43.5673 129.723 41.3943 129.723C39.2212 129.723 37.46 131.484 37.46 133.657V224.149C37.46 230.668 42.7443 235.953 49.2633 235.953H190.904C197.422 235.953 202.707 230.668 202.707 224.149V133.657C202.706 131.484 200.944 129.723 198.771 129.723ZM143.689 228.084H96.4758V169.067C96.4758 166.894 98.2371 165.133 100.41 165.133H139.754C141.927 165.133 143.689 166.894 143.689 169.067L143.689 228.084Z" fill="currentColor"/><path d="M223.571 101.351L128.467 3.44971C123.824 -1.1499 116.342 -1.1499 111.698 3.44971L16.6067 101.351C13.1971 104.865 12.2307 110.083 14.1556 114.586C15.9423 118.992 20.2288 121.869 24.9834 121.853H26.3288C29.1427 121.826 31.8524 120.785 33.9617 118.922C34.2425 118.739 34.5058 118.531 34.7488 118.3L120.083 30.3969L205.48 118.347C205.708 118.564 205.954 118.76 206.216 118.934C208.324 120.789 211.029 121.825 213.837 121.853H215.182C219.941 121.874 224.234 118.996 226.022 114.586C227.947 110.083 226.98 104.865 223.571 101.351ZM218.775 111.525C218.19 113 216.769 113.972 215.182 113.984H213.837C212.796 113.984 211.8 113.557 211.083 112.804C211.055 112.772 211.012 112.764 210.985 112.737C210.957 112.709 210.93 112.666 210.894 112.639L122.904 22.0086L122.857 21.9773L122.837 21.9183C122.647 21.767 122.443 21.6352 122.227 21.525C122.023 21.3622 121.803 21.2211 121.57 21.104C121.328 21.0261 121.079 20.9731 120.826 20.9468C120.354 20.7739 119.835 20.7739 119.363 20.9468C119.11 20.9735 118.861 21.0261 118.619 21.104C118.386 21.2216 118.166 21.3627 117.962 21.525C117.746 21.6352 117.541 21.767 117.352 21.9183L117.321 21.9653L117.274 21.9967L29.2639 112.639C29.2284 112.666 29.2127 112.705 29.1772 112.733C29.1417 112.761 29.1025 112.772 29.0749 112.804C28.357 113.558 27.3615 113.985 26.3209 113.984H24.9834C23.3968 113.973 21.9763 113 21.3912 111.526C20.6927 109.934 21.0269 108.079 22.2372 106.832H22.2289L117.328 8.93458C118.054 8.20379 119.041 7.79252 120.071 7.79252C121.1 7.79252 122.088 8.20379 122.813 8.93458L217.928 106.831C219.139 108.079 219.473 109.934 218.775 111.525Z" fill="currentColor"/><path d="M135.82 137.591C142.339 137.591 147.623 132.306 147.623 125.788V98.2467C147.623 91.7277 142.339 86.4434 135.82 86.4434H104.344C97.8258 86.4434 92.541 91.7277 92.541 98.2467V125.788C92.541 132.306 97.8253 137.591 104.344 137.591H135.82ZM100.41 125.788V98.2467C100.41 96.0737 102.171 94.3124 104.344 94.3124H135.82C137.993 94.3124 139.754 96.0742 139.754 98.2467V125.788C139.754 127.961 137.993 129.722 135.82 129.722H104.344C102.171 129.722 100.41 127.96 100.41 125.788Z" fill="currentColor"/><path d="M108.279 192.674H104.345C102.172 192.674 100.411 194.435 100.411 196.608C100.411 198.781 102.172 200.542 104.345 200.542H108.279C110.452 200.542 112.214 198.781 112.214 196.608C112.214 194.435 110.452 192.674 108.279 192.674Z" fill="currentColor"/></svg>
+              </span>
+              <div>
+                <p class="ct-info__label">Service Area</p>
+                <p class="ct-info__value">[CITY], FL &amp; Surrounding Areas</p>
+              </div>
+            </div>
+            <div class="ct-info__row">
+              <span class="ct-info__icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 201 201" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M194.534 144.68C194.179 144.385 154.006 115.763 143.159 117.551C137.926 118.476 134.938 122.047 128.942 129.189C127.977 130.342 125.652 133.096 123.856 135.059C120.066 133.824 116.369 132.319 112.794 130.556C94.3395 121.572 79.4284 106.661 70.4438 88.2055C68.6808 84.6305 67.1761 80.9338 65.9414 77.1438C67.9112 75.3415 70.6716 73.0166 71.8508 72.025C78.9595 66.062 82.5239 63.0671 83.4485 57.8277C85.3446 46.9804 56.615 6.8206 56.3202 6.4588C55.0118 4.60328 53.3078 3.06139 51.3312 1.94445C49.3545 0.827512 47.1545 0.16338 44.89 0C33.2454 0 0 43.1212 0 50.3907C0 50.8128 0.609701 93.7196 53.5196 147.541C107.28 200.39 150.187 201 150.609 201C157.872 201 201 167.755 201 156.11C200.835 153.845 200.169 151.645 199.051 149.669C197.933 147.692 196.391 145.988 194.534 144.68ZM149.866 187.56C144.05 187.064 108.004 182.314 62.98 138.087C18.5389 92.8419 13.9092 56.7356 13.4469 51.1411C22.2291 37.3568 32.8353 24.8236 44.9771 13.8824C45.2451 14.1504 45.6002 14.5524 46.0558 15.075C55.3676 27.7864 63.3892 41.3944 70.0016 55.6971C67.8513 57.8603 65.5785 59.8983 63.1944 61.8008C59.4973 64.6178 56.1023 67.8107 53.064 71.3282C52.5499 72.0495 52.1839 72.8656 51.9873 73.7293C51.7906 74.593 51.7672 75.4871 51.9183 76.3599C53.3362 82.502 55.5078 88.4453 58.3838 94.0546C68.6876 115.213 85.7852 132.309 106.945 142.609C112.554 145.49 118.497 147.664 124.64 149.082C125.513 149.233 126.407 149.209 127.271 149.013C128.134 148.816 128.95 148.45 129.672 147.936C133.202 144.885 136.406 141.477 139.233 137.765C141.336 135.26 144.144 131.916 145.209 130.972C159.548 137.578 173.186 145.609 185.918 154.944C186.474 155.413 186.87 155.775 187.131 156.009C176.189 168.155 163.654 178.764 149.866 187.546V187.56Z" fill="currentColor"/><path d="M107.2 53.5992C117.858 53.6099 128.077 57.8486 135.614 65.3853C143.151 72.9219 147.389 83.1408 147.4 93.7992C147.4 95.5762 148.106 97.2803 149.362 98.5368C150.619 99.7933 152.323 100.499 154.1 100.499C155.877 100.499 157.581 99.7933 158.838 98.5368C160.094 97.2803 160.8 95.5762 160.8 93.7992C160.784 79.5885 155.132 65.9644 145.083 55.9159C135.035 45.8674 121.411 40.2152 107.2 40.1992C105.423 40.1992 103.719 40.9051 102.462 42.1616C101.206 43.4181 100.5 45.1223 100.5 46.8992C100.5 48.6762 101.206 50.3803 102.462 51.6368C103.719 52.8933 105.423 53.5992 107.2 53.5992Z" fill="currentColor"/><path d="M107.2 20.0992C126.739 20.1223 145.472 27.8945 159.288 41.7109C173.105 55.5273 180.877 74.2598 180.9 93.7992C180.9 95.5762 181.606 97.2803 182.862 98.5368C184.119 99.7933 185.823 100.499 187.6 100.499C189.377 100.499 191.081 99.7933 192.338 98.5368C193.594 97.2803 194.3 95.5762 194.3 93.7992C194.273 70.707 185.088 48.5683 168.76 32.2396C152.431 15.9109 130.292 6.72582 107.2 6.69922C105.423 6.69922 103.719 7.40511 102.462 8.6616C101.206 9.9181 100.5 11.6223 100.5 13.3992C100.5 15.1762 101.206 16.8803 102.462 18.1368C103.719 19.3933 105.423 20.0992 107.2 20.0992Z" fill="currentColor"/></svg>
+              </span>
+              <div>
+                <p class="ct-info__label">Give Us a Call</p>
+                <a href="tel:8135387800" class="ct-info__value ct-info__value--link">(813) 538-7800</a>
+              </div>
+            </div>
+            <div class="ct-info__row">
+              <span class="ct-info__icon" aria-hidden="true">
+                <svg width="22" height="18" viewBox="0 0 186 149" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M162.799 0H22.8257C16.774 0.00655128 10.972 2.4135 6.69272 6.69273C2.4135 10.972 0.00655128 16.774 0 22.8257V125.674C0.00655128 131.726 2.4135 137.528 6.69272 141.807C10.972 146.087 16.774 148.493 22.8257 148.5H162.799C168.851 148.493 174.653 146.087 178.932 141.807C183.212 137.528 185.618 131.726 185.625 125.674V22.8257C185.618 16.774 183.212 10.972 178.932 6.69273C174.653 2.4135 168.851 0.00655128 162.799 0ZM22.8257 12.375H162.799C165.57 12.3783 168.226 13.4804 170.185 15.4396C172.145 17.3987 173.247 20.055 173.25 22.8257V27.5591L92.8125 79.2681L12.375 27.5591V22.8257C12.3783 20.055 13.4804 17.3987 15.4396 15.4396C17.3987 13.4804 20.055 12.3783 22.8257 12.375ZM162.799 136.125H22.8257C20.055 136.122 17.3987 135.02 15.4396 133.06C13.4804 131.101 12.3783 128.445 12.375 125.674V42.273L89.4651 91.8287C90.4634 92.4709 91.6254 92.8124 92.8125 92.8124C93.9996 92.8124 95.1616 92.4709 96.1599 91.8287L173.25 42.273V125.674C173.247 128.445 172.145 131.101 170.185 133.06C168.226 135.02 165.57 136.122 162.799 136.125Z" fill="currentColor"/></svg>
+              </span>
+              <div>
+                <p class="ct-info__label">Email Us</p>
+                <a href="mailto:CLIENT@EMAIL.COM" class="ct-info__value ct-info__value--link">CLIENT@EMAIL.COM</a>
+              </div>
+            </div>
+            <div class="ct-info__row">
+              <span class="ct-info__icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 213 213" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#ct-clk)"><path d="M106.5 0C47.8589 0 0 47.8622 0 106.5C0 165.141 47.8622 213 106.5 213C165.141 213 213 165.138 213 106.5C213 47.8589 165.138 0 106.5 0ZM106.5 200.52C54.6574 200.52 12.4805 158.343 12.4805 106.5C12.4805 54.6574 54.6574 12.4805 106.5 12.4805C158.343 12.4805 200.52 54.6574 200.52 106.5C200.52 158.343 158.343 200.52 106.5 200.52Z" fill="currentColor"/><path d="M162.662 100.26V112.74H174.861C171.886 145.623 145.622 171.881 112.74 174.858V162.662H100.26V174.856C67.38 171.879 41.1215 145.62 38.1441 112.74H50.3379V100.26H38.142C41.119 67.3783 67.3775 41.114 100.26 38.1386V50.3379H112.74V25.377H106.5C61.7688 25.377 25.377 61.7688 25.377 106.5C25.377 151.231 61.7688 187.623 106.5 187.623C151.231 187.623 187.623 151.231 187.623 106.5V100.26H162.662Z" fill="currentColor"/><path d="M150.604 53.5605L159.428 44.7369L168.251 53.5605L159.428 62.3842L150.604 53.5605Z" fill="currentColor"/><path d="M127.048 40.6895L131.828 29.1575L143.36 33.9375L138.58 45.4695L127.048 40.6895Z" fill="currentColor"/><path d="M167.573 74.4219L179.104 69.642L183.884 81.1736L172.353 85.9534L167.573 74.4219Z" fill="currentColor"/><path d="M100.26 103.915L64.6465 139.529L73.471 148.354L112.74 109.085V62.8184H100.26V103.915Z" fill="currentColor"/></g><defs><clipPath id="ct-clk"><rect width="213" height="213" fill="white"/></clipPath></defs></svg>
+              </span>
+              <div>
+                <p class="ct-info__label">Business Hours</p>
+                <p class="ct-info__value">Mon–Fri: 7am–6pm &nbsp;|&nbsp; Sat: 8am–4pm</p>
+              </div>
+            </div>
+            <div class="ct-info__row">
+              <span class="ct-info__icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 213 213" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M190.538 10.3477H52.8053C40.8521 10.3477 31.1271 19.9817 31.1271 31.7851L30.2394 153.066H3.36013C1.45521 153.066 0 154.751 0 156.655V173.347C0 188.972 12.504 201.75 27.5951 202.451V202.651H143.581V202.426C144.443 202.461 144.965 202.651 145.558 202.651H145.641C161.736 202.557 174.71 189.438 174.625 173.343V67.2626H209.64C211.545 67.2626 213 65.5379 213 63.6347V33.0096C213.022 20.5628 202.985 10.4369 190.538 10.3477ZM29.1042 195.752H29.0807C16.8107 195.752 6.89878 185.611 6.89878 173.343V159.965H116.417V173.286C116.39 181.05 119.457 188.505 124.939 194.003C125.522 194.589 126.132 194.89 126.755 195.752H29.1042ZM167.727 173.34C167.727 185.611 157.911 195.752 145.636 195.752H145.565C133.229 195.663 123.287 185.623 123.316 173.288V156.655C123.326 154.724 121.798 153.134 119.866 153.066H37.1382L38.0258 31.8087C38.0258 23.7865 44.6551 17.2464 52.8053 17.2464H174.253C170.322 21.5582 167.727 27.0135 167.727 33.1022V173.34ZM206.101 33.0702V60.3638H174.625V33.0955C174.625 24.4619 181.807 17.2464 190.437 17.2464H190.533C199.186 17.3323 206.142 24.3911 206.101 33.0449V33.0702Z" fill="currentColor"/><path d="M80.9983 95.2517L98.7826 107.41C99.943 108.21 101.477 108.21 102.638 107.41L120.368 95.255C126.528 91.0528 131.077 82.2676 131.077 74.8181V50.2176C131.114 48.9173 130.396 47.7114 129.238 47.1202L102.16 33.801C101.21 33.3294 100.095 33.3294 99.1447 33.801L72.1171 47.0831C70.9584 47.6743 70.2425 48.8803 70.2813 50.1805V74.8181C70.2813 82.2676 74.8406 91.0528 80.9983 95.2517ZM77.1801 52.333L100.679 40.7385L124.178 52.365V74.8181C124.178 80.0141 120.772 86.6231 116.476 89.5521L100.639 100.384L84.8637 89.5538C80.5671 86.6215 77.1801 80.0141 77.1801 74.8181V52.333Z" fill="currentColor"/><path d="M94.845 80.0263C95.4884 80.6832 96.3676 81.0554 97.2872 81.0605H97.2956C98.2119 81.0571 99.0894 80.6899 99.7345 80.0398L113.456 66.313C114.805 64.9656 114.805 62.7794 113.458 61.432C112.112 60.0829 109.926 60.0829 108.579 61.4303L97.3074 72.6998L92.802 68.1505C91.4596 66.7964 89.2751 66.7863 87.921 68.1286C86.5668 69.471 86.5584 71.6555 87.8991 73.0097L94.845 80.0263Z" fill="currentColor"/><path d="M143.581 117.279H60.7956C58.8907 117.279 57.3462 118.824 57.3462 120.729C57.3462 122.634 58.8907 124.178 60.7956 124.178H143.581C145.486 124.178 147.03 122.634 147.03 120.729C147.03 118.824 145.486 117.279 143.581 117.279Z" fill="currentColor"/><path d="M143.581 133.232H60.7956C58.8907 133.232 57.3462 134.777 57.3462 136.682C57.3462 138.587 58.8907 140.131 60.7956 140.131H143.581C145.486 140.131 147.03 138.587 147.03 136.682C147.03 134.777 145.486 133.232 143.581 133.232Z" fill="currentColor"/></svg>
+              </span>
+              <div>
+                <p class="ct-info__label">Fully Licensed &amp; Insured</p>
+                <p class="ct-info__value">FL Contractor License: XXXXXXX</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Trust Badges -->
+          <div class="ct-badges">
+            <img src="assets/images/cert-badge-satisfaction.png" alt="100% Satisfaction Guaranteed" class="ct-badge" loading="lazy" />
+            <img src="assets/images/cert-badge-homeadvisor-toprated.png" alt="HomeAdvisor Top Rated" class="ct-badge" loading="lazy" />
+            <img src="assets/images/cert-badge-warranty.png" alt="Warranty Certified" class="ct-badge" loading="lazy" />
+          </div>
+        </div>
+
+        <!-- RIGHT: Form -->
+        <div class="ct-split__right">
+          <form id="contactForm" method="POST" action="#" novalidate
+            data-client-email="CLIENT@EMAIL.COM"
+            data-client-site="example.com"
+            data-client-name="Company Name">
+
+            <div class="ct-form__group">
+              <label for="ct-name">Name <span class="ct-form__req" aria-hidden="true">*</span></label>
+              <input type="text" id="ct-name" name="name" placeholder="John Doe" autocomplete="name" required />
+            </div>
+
+            <div class="ct-form__group">
+              <label for="ct-email">Email <span class="ct-form__req" aria-hidden="true">*</span></label>
+              <input type="email" id="ct-email" name="email" placeholder="john.doe@example.com" autocomplete="email" required />
+            </div>
+
+            <div class="ct-form__group">
+              <label for="ct-phone">Phone <span class="ct-form__req" aria-hidden="true">*</span></label>
+              <input type="tel" id="ct-phone" name="phone" placeholder="(555) 555-1234" autocomplete="tel" required />
+            </div>
+
+            <div class="ct-form__group">
+              <label for="ct-service">Service Needed</label>
+              <select id="ct-service" name="service">
+                <option value="" disabled selected>Select a service…</option>
+                <option value="Pressure Washing">Pressure Washing</option>
+                <option value="House Washing">House Washing</option>
+                <option value="Roof Washing">Roof Washing</option>
+                <option value="Paver Sealing">Paver Sealing</option>
+                <option value="Driveway Cleaning">Driveway Cleaning</option>
+                <option value="Commercial">Commercial Cleaning</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
+
+            <div class="ct-form__group">
+              <label for="ct-message">Message <span class="ct-form__req" aria-hidden="true">*</span></label>
+              <textarea id="ct-message" name="message" rows="5" placeholder="Tell us about your project…" required></textarea>
+            </div>
+
+            <p class="ct-form__privacy">We care about your privacy. Please don't submit sensitive information such as social security numbers or credit card details.</p>
+
+            <button type="submit" class="ct-form__submit">Get a Free Quote</button>
+
+            <div class="ct-form__msg" id="contactFormMsg" aria-live="polite" hidden></div>
+
+          </form>
+        </div>
+
+      </div>
     </div>
   </section>
+
+  <!-- TESTIMONIALS -->
+  <section class="review-wall-section">
+    <div class="container">
+      <div class="review-wall-header">
+        <p class="review-wall-header__eyebrow">Happy Customers</p>
+        <h2 class="review-wall-header__title">Testimonials</h2>
+      </div>
+      <div class="review-cards-placeholder">
+        <div class="review-card-item">
+          <div class="review-card-item__top">
+            <img src="assets/images/review-google-g.png" alt="Google" class="review-card-item__google" aria-hidden="true">
+            <div class="review-card-item__stars" aria-label="5 stars">
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s1)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s1"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s2)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s2"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s3)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s3"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s4)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s4"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s5)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s5"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+            </div>
+          </div>
+          <p class="review-card-item__text">We hired Taylor to pressure wash our driveway and patio. The whole team was professional in every phase of t...<a href="reviews.html" class="review-card-item__more">See More</a></p>
+          <div class="review-card-item__author">
+            <img src="assets/images/review-rs.png" alt="R. S." class="review-card-item__avatar">
+            <p class="review-card-item__name">R. S.</p>
+            <p class="review-card-item__location">Tampa, FL 33602</p>
+          </div>
+        </div>
+        <div class="review-card-item">
+          <div class="review-card-item__top">
+            <img src="assets/images/review-google-g.png" alt="Google" class="review-card-item__google" aria-hidden="true">
+            <div class="review-card-item__stars" aria-label="5 stars">
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s6)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s6"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s7)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s7"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s8)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s8"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s9)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s9"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s10)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s10"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+            </div>
+          </div>
+          <p class="review-card-item__text">Taylor did a great job on my patio. The whole team was very professional in completing the work...<a href="reviews.html" class="review-card-item__more">See More</a></p>
+          <div class="review-card-item__author">
+            <img src="assets/images/review-bh.png" alt="B. H." class="review-card-item__avatar">
+            <p class="review-card-item__name">B. H.</p>
+            <p class="review-card-item__location">Tampa, FL 33606</p>
+          </div>
+        </div>
+        <div class="review-card-item">
+          <div class="review-card-item__top">
+            <img src="assets/images/review-google-g.png" alt="Google" class="review-card-item__google" aria-hidden="true">
+            <div class="review-card-item__stars" aria-label="5 stars">
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s11)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s11"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s12)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s12"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s13)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s13"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s14)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s14"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s15)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s15"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+            </div>
+          </div>
+          <p class="review-card-item__text">Sales process was quick and very easy with Taylor. They handled the scheduling which was p...<a href="reviews.html" class="review-card-item__more">See More</a></p>
+          <div class="review-card-item__author">
+            <div class="review-card-item__avatar review-card-item__avatar--initial" style="background:#E05C2A;">T</div>
+            <p class="review-card-item__name">T. T.</p>
+            <p class="review-card-item__location">Palm Harbor, FL 34683</p>
+          </div>
+        </div>
+        <div class="review-card-item">
+          <div class="review-card-item__top">
+            <img src="assets/images/review-google-g.png" alt="Google" class="review-card-item__google" aria-hidden="true">
+            <div class="review-card-item__stars" aria-label="5 stars">
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s16)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s16"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s17)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s17"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s18)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s18"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s19)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s19"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s20)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s20"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+            </div>
+          </div>
+          <p class="review-card-item__text">Taylor recently completed a pressure washing project at my home. Once again, I have...<a href="reviews.html" class="review-card-item__more">See More</a></p>
+          <div class="review-card-item__author">
+            <img src="assets/images/review-k.png" alt="K." class="review-card-item__avatar">
+            <p class="review-card-item__name">K.</p>
+            <p class="review-card-item__location">Clearwater, FL 33755</p>
+          </div>
+        </div>
+        <div class="review-card-item">
+          <div class="review-card-item__top">
+            <img src="assets/images/review-google-g.png" alt="Google" class="review-card-item__google" aria-hidden="true">
+            <div class="review-card-item__stars" aria-label="5 stars">
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s21)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s21"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s22)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s22"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s23)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s23"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s24)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s24"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+              <svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><g clip-path="url(#ct-s25)"><path d="M7.42255 0.417153L8.95607 3.52028L12.3873 4.01926C13.003 4.10823 13.2496 4.86512 12.8033 5.29872L10.3213 7.69168L10.9084 11.1018C11.0141 11.7185 10.364 12.1776 9.8188 11.8917L6.74989 10.3031L3.68192 11.9132C3.13583 12.1992 2.48661 11.7398 2.59208 11.1234L3.17919 7.71325L0.696456 5.29918C0.25044 4.86559 0.496862 4.10879 1.11247 4.01973L4.54372 3.52075L6.07724 0.417622C6.3538 -0.142605 7.14833 -0.135644 7.42255 0.417153Z" fill="#FFB400"/></g><defs><clipPath id="ct-s25"><rect width="13.5" height="12" fill="white"/></clipPath></defs></svg>
+            </div>
+          </div>
+          <p class="review-card-item__text">What a class act! I've never dealt with a company so organized, they make it so easy! From m...<a href="reviews.html" class="review-card-item__more">See More</a></p>
+          <div class="review-card-item__author">
+            <div class="review-card-item__avatar review-card-item__avatar--initial" style="background:#607D8B;">k</div>
+            <p class="review-card-item__name">K. M.</p>
+            <p class="review-card-item__location">St. Petersburg, FL 33701</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREA MAP -->
+  <div class="map-full">
+    <iframe
+      src="https://maps.google.com/maps?q=Tampa+Bay,+FL&t=&z=10&ie=UTF8&iwloc=&output=embed"
+      width="100%" height="400" style="display:block;border:none;" allowfullscreen="" loading="lazy"
+      title="[Company Name] service areas — [CITY]">
+    </iframe>
+  </div>
 
 </main>
 
@@ -303,6 +475,7 @@
     </div>
   </div>
 </footer>
+
 <script>
 (function(){
   var btn = document.getElementById('footerAreasToggle');
@@ -317,7 +490,12 @@
 </script>
 
 <script src="js/main.js" defer></script>
+<script src="js/contact.js" defer></script>
+<script src="js/reviews.js" defer></script>
+<script src="js/chat-popup.js" data-api="https://velocity-chat-api.vercel.app" data-client-name="Company Name" defer></script>
 </body>
 </html>
+
+
 
 
