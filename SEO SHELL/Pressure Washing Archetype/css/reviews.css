@@ -74,19 +74,42 @@
   color: #18181B;
   line-height: 1;
 }
-.rw-score__stars { font-size: 1.25rem; margin-bottom: 2px; }
+.rw-score__stars { display: flex; align-items: center; gap: 2px; margin-bottom: 4px; }
+.rw-score-star { display: block; flex-shrink: 0; }
 .rw-score__label { font-size: .8125rem; color: #71717A; margin: 0; }
 
 /* stars */
 .rw-star { color: #D1D5DB; }
 .rw-star--on { color: #F59E0B; }
 
+/* verified by google badge */
+.rw-verified-by {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.rw-verified-label {
+  font-size: .75rem;
+  color: #A1A1AA;
+  white-space: nowrap;
+}
+.rw-google-wordmark {
+  height: 18px;
+  width: auto;
+  display: block;
+}
+.rw-verified-badge {
+  flex-shrink: 0;
+  display: block;
+}
+
 /* breakdown bars */
 .rw-header__right {
   display: flex;
   flex-direction: column;
   gap: 6px;
-  min-width: 160px;
+  min-width: 180px;
   padding-top: 4px;
 }
 .rw-bar-row {
@@ -318,26 +341,42 @@
 }
 .rw-arrow {
   background: none;
-  border: 1.5px solid #D4D4D8;
-  color: #52525B;
+  border: 1.5px solid #E4E4E7;
   width: 38px;
   height: 38px;
   border-radius: 50%;
-  font-size: 1rem;
   cursor: pointer;
-  transition: border-color .18s, color .18s;
+  transition: border-color .18s, background .18s;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0;
 }
-.rw-arrow:hover:not(:disabled) {
-  border-color: #52525B;
-  color: #18181B;
+.rw-arrow:hover:not(:disabled) { border-color: #FFC107; background: rgba(255,193,7,.07); }
+.rw-arrow:disabled { opacity: 0.3; cursor: default; }
+
+/* review us on google button */
+.rw-gmb-row {
+  display: flex;
+  justify-content: center;
+  padding: 20px 32px 8px;
+  border-top: 1px solid #F4F4F5;
 }
-.rw-arrow:disabled {
-  opacity: 0.3;
-  cursor: default;
+.rw-gmb-btn {
+  display: inline-flex;
+  align-items: center;
+  background: #0EB116;
+  color: #fff;
+  font-size: .9375rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: .6875rem 1.75rem;
+  border-radius: 6px;
+  transition: background .18s, transform .15s;
 }
+.rw-gmb-btn:hover { background: #0ca214; transform: translateY(-1px); }
 
 /* author name */
 .rw-author-name--link {
